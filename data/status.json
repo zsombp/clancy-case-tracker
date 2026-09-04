@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-04T16:42:42Z",
-"runs":1,
+"generated":"2026-09-04T16:55:43Z",
+"runs":2,
 "added":{
-"articles":352,
-"videos":45,
-"discussion":20
+"articles":24,
+"videos":1,
+"discussion":21
 },
 "totals":{
-"articles":352,
-"videos":45,
-"discussion":20
+"articles":376,
+"videos":46,
+"discussion":41
 },
 "sources":[
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":29,
+"items":27,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":2,
+"items":12,
 "error":null
 },
 {
@@ -73,7 +73,7 @@
 "label":"YouTube: WCVB",
 "kind":"youtube",
 "ok":true,
-"items":11,
+"items":12,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":20,
+"items":23,
 "error":null
 },
 {
@@ -161,6 +161,11 @@
 {
 "at":"2026-09-04T16:42:42Z",
 "added":417,
+"failed_sources":2
+},
+{
+"at":"2026-09-04T16:55:43Z",
+"added":46,
 "failed_sources":2
 }
 ]
