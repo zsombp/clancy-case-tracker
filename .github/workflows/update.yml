@@ -45,9 +45,10 @@ jobs:
             sleep 5
           done
 
-      # GitHub disables scheduled workflows after 60 days without repo activity.
-      # Bot commits don't count, so this re-enables the workflow via the API each run.
+      # GitHub disables scheduled workflows after 60 days without repo activity, and bot
+      # commits don't count. Re-enabling the workflow via the API on every run resets that clock.
       - name: Keep the schedule alive
-        uses: gautamkrishnar/keepalive-workflow@v2
-        with:
-          use_api: true
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${GITHUB_REPOSITORY}/actions/workflows/update.yml/enable" && echo "workflow re-enabled"
