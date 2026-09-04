@@ -1,0 +1,167 @@
+{
+"generated":"2026-09-04T16:42:42Z",
+"runs":1,
+"added":{
+"articles":352,
+"videos":45,
+"discussion":20
+},
+"totals":{
+"articles":352,
+"videos":45,
+"discussion":20
+},
+"sources":[
+{
+"id":"gnews-name",
+"label":"Google News: \"Lindsay Clancy\"",
+"kind":"gnews",
+"ok":true,
+"items":92,
+"error":null
+},
+{
+"id":"gnews-duxbury",
+"label":"Google News: Clancy Duxbury",
+"kind":"gnews",
+"ok":true,
+"items":100,
+"error":null
+},
+{
+"id":"gnews-trial",
+"label":"Google News: Clancy trial Brockton",
+"kind":"gnews",
+"ok":true,
+"items":29,
+"error":null
+},
+{
+"id":"gnews-postpartum",
+"label":"Google News: Clancy postpartum",
+"kind":"gnews",
+"ok":true,
+"items":97,
+"error":null
+},
+{
+"id":"gnews-sjc",
+"label":"Google News: Clancy SJC appeal",
+"kind":"gnews",
+"ok":true,
+"items":46,
+"error":null
+},
+{
+"id":"bing-name",
+"label":"Bing News: \"Lindsay Clancy\"",
+"kind":"bing",
+"ok":true,
+"items":2,
+"error":null
+},
+{
+"id":"bing-duxbury",
+"label":"Bing News: Clancy Duxbury",
+"kind":"bing",
+"ok":true,
+"items":12,
+"error":null
+},
+{
+"id":"yt-wcvb",
+"label":"YouTube: WCVB",
+"kind":"youtube",
+"ok":true,
+"items":11,
+"error":null
+},
+{
+"id":"yt-cbsboston",
+"label":"YouTube: CBS Boston / WBZ",
+"kind":"youtube",
+"ok":true,
+"items":10,
+"error":null
+},
+{
+"id":"yt-nbc10",
+"label":"YouTube: NBC10 Boston",
+"kind":"youtube",
+"ok":true,
+"items":8,
+"error":null
+},
+{
+"id":"yt-boston25",
+"label":"YouTube: Boston 25",
+"kind":"youtube",
+"ok":true,
+"items":0,
+"error":null
+},
+{
+"id":"yt-courttv",
+"label":"YouTube: Court TV",
+"kind":"youtube",
+"ok":true,
+"items":11,
+"error":null
+},
+{
+"id":"yt-lawcrime",
+"label":"YouTube: Law&Crime",
+"kind":"youtube",
+"ok":true,
+"items":2,
+"error":null
+},
+{
+"id":"yt-wbur",
+"label":"YouTube: WBUR",
+"kind":"youtube",
+"ok":true,
+"items":1,
+"error":null
+},
+{
+"id":"yt-nbcnews",
+"label":"YouTube: NBC News",
+"kind":"youtube",
+"ok":true,
+"items":4,
+"error":null
+},
+{
+"id":"reddit-search",
+"label":"Reddit: search \"Lindsay Clancy\"",
+"kind":"reddit",
+"ok":true,
+"items":20,
+"error":null
+},
+{
+"id":"reddit-sub1",
+"label":"Reddit: r/TheLindsayClancyCase",
+"kind":"reddit",
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
+},
+{
+"id":"reddit-sub2",
+"label":"Reddit: r/DuxburyDeathsFreeTalk",
+"kind":"reddit",
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
+}
+],
+"history":[
+{
+"at":"2026-09-04T16:42:42Z",
+"added":417,
+"failed_sources":2
+}
+]
+}

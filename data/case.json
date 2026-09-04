@@ -1,0 +1,1206 @@
+{
+ "curated_at": "2026-09-04T17:00:00Z",
+ "repo": "https://github.com/zsombp/clancy-case-tracker",
+ "status": {
+  "phase": "Mistrial · hung jury",
+  "headline": "Judge declares a mistrial after seven days of deadlocked deliberations; defense sought an emergency stay from the state's highest court",
+  "summary": "On Friday, September 4, 2026, after the jury reported for a third time that it could not reach a unanimous verdict, Plymouth Superior Court Judge William F. Sullivan said he would declare a mistrial. He then held the formal declaration for one hour so defense attorney Kevin Reddington could file an emergency petition with a single justice of the Supreme Judicial Court (Justice Dalila Argaez Wendlandt) seeking to keep the jury deliberating. Reddington has said the jury was split 11 to 1 in favor of a verdict of not guilty by reason of lack of criminal responsibility and that the lone holdout refused to apply the reasonable-doubt standard; prosecutor Jennifer Sprague characterized the jury's notes as ordinary disagreement about the evidence.\n\nNo verdict has been returned. Lindsay Clancy remains charged with three counts of first-degree murder in the January 24, 2023 deaths of her children Cora, Dawson, and Callan, has pleaded not guilty, and is presumed innocent. The defense does not dispute that she caused the deaths; it argues she was not criminally responsible because of postpartum psychosis. She remains held without bail at Tewksbury State Hospital.\n\nAfter a hung jury, double jeopardy does not bar a retrial. The Plymouth County District Attorney's office may retry the case, negotiate a plea, or dismiss; it had not announced a decision as of this update. Reddington has said the defense is prepared to retry immediately.",
+  "next_event": {
+   "what": "Formal action on the mistrial, then a status or scheduling hearing on whether and when the Commonwealth will retry the case",
+   "date": "Not yet scheduled",
+   "note": "Check the latest headlines above for the SJC single justice's ruling and any hearing date. This box is updated by hand and may lag the feed."
+  },
+  "sources": [
+   {
+    "label": "Boston Globe live blog, Sept 4",
+    "url": "https://www.bostonglobe.com/2026/09/04/metro/lindsay-clancy-trial-live-updates/"
+   },
+   {
+    "label": "CBS Boston live, Sept 4",
+    "url": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-murder-trial-hung-jury-mistrial-verdict-watch-live-updates/"
+   },
+   {
+    "label": "NPR/AP, Sept 4",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial"
+   },
+   {
+    "label": "NBC News, Sept 4",
+    "url": "https://www.nbcnews.com/news/us-news/lindsay-clancy-jury-hopelessly-deadlocked-mistrial-declared-rcna594052"
+   },
+   {
+    "label": "ABC News explainer: what happens after a mistrial",
+    "url": "https://abcnews.com/GMA/News/lindsay-clancy-jury-deadlocked/story?id=136153308"
+   }
+  ]
+ },
+ "quick_facts": [
+  {
+   "label": "Defendant",
+   "value": "Lindsay Marie Clancy, 36, former MGH labor-and-delivery nurse",
+   "source": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-case-updates-jury-verdict-mistrial/"
+  },
+  {
+   "label": "Charges at trial",
+   "value": "3 counts of first-degree murder (strangulation counts dismissed July 2026)",
+   "source": "https://www.boston.com/news/crime/2026/07/09/lindsay-clancys-strangulation-charges-dropped-ahead-of-murder-trial/"
+  },
+  {
+   "label": "Plea / defense",
+   "value": "Not guilty; lack of criminal responsibility (postpartum psychosis)",
+   "source": "https://www.nbcboston.com/news/local/lindsay-clancy-trial-opening-statements-live-updates/3987462/"
+  },
+  {
+   "label": "Court",
+   "value": "Plymouth County Superior Court, Brockton, MA · Judge William F. Sullivan",
+   "source": "https://www.nbcboston.com/news/local/lindsay-clancy-murder-case-judge-issues-key-ruling/3925435/"
+  },
+  {
+   "label": "Docket",
+   "value": "2383CR00199 (per defense filing; verify on masscourts.org)",
+   "source": "https://www.scribd.com/document/1023188039/Lindsay-Clancy-motion-for-reconsideration"
+  },
+  {
+   "label": "Trial",
+   "value": "Jury selection July 20, 2026 · openings July 27 · closings Aug 27 · ~85 witnesses",
+   "source": "https://www.cnn.com/2026/08/26/us/lindsay-clancy-trial-final-stages"
+  },
+  {
+   "label": "Deliberations",
+   "value": "7 days, roughly 36–38 hours; three deadlock notes; mistrial Sept 4, 2026",
+   "source": "https://www.nbcnews.com/news/us-news/lindsay-clancy-jury-hopelessly-deadlocked-mistrial-declared-rcna594052"
+  },
+  {
+   "label": "Custody",
+   "value": "Held without bail at Tewksbury State Hospital (Department of Mental Health)",
+   "source": "https://www.boston.com/news/crime/2023/10/26/what-we-learned-from-duxbury-mom-lindsay-clancys-superior-court-arraignment/"
+  },
+  {
+   "label": "Prosecution",
+   "value": "Plymouth County DA Timothy J. Cruz; ADAs Jennifer Sprague and Shanan Buckingham",
+   "source": "https://www.aol.com/articles/jennifer-sprague-shanan-buckingham-clancy-175957000.html"
+  },
+  {
+   "label": "Defense",
+   "value": "Kevin J. Reddington, Brockton",
+   "source": "https://www.nbcboston.com/news/local/get-to-know-kevin-reddington-the-longtime-attorney-defending-lindsay-clancy/4000094/"
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2022-09",
+   "phase": "Background",
+   "title": "Psychiatric treatment begins",
+   "body": "Clancy, then on leave from her nursing job at Massachusetts General Hospital, reports rising anxiety about returning to work and begins treatment; sertraline (Zoloft) is the first of what the defense counts as 13 psychiatric medications prescribed over about four months. The prosecution has described the same history as ordinary outpatient care for anxiety and depression.",
+   "sources": [
+    {
+     "label": "Boston.com treatment timeline",
+     "url": "https://www.boston.com/news/crime/2023/02/21/lindsay-clancy-timeline-duxbury-mother-mental-health-treatment/"
+    },
+    {
+     "label": "Boston Globe medication timeline",
+     "url": "https://www.bostonglobe.com/2026/07/27/metro/lindsay-clancy-timeline-medications-13/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2022-12-20",
+   "phase": "Background",
+   "title": "Day-program evaluation at Women & Infants Hospital",
+   "body": "Clancy is evaluated at a perinatal behavioral-health program in Providence, RI and discharged after one day. The prosecution says clinicians found no postpartum-depression symptoms; the family has said the program judged her presentation more consistent with over-medication.",
+   "sources": [
+    {
+     "label": "Boston.com",
+     "url": "https://www.boston.com/news/crime/2023/02/21/lindsay-clancy-timeline-duxbury-mother-mental-health-treatment/"
+    },
+    {
+     "label": "Boston Globe on New Yorker interview",
+     "url": "https://www.bostonglobe.com/2024/10/15/metro/patrick-clancy-new-yorker-interview/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2023-01-01",
+   "phase": "Background",
+   "title": "Five-day inpatient stay at McLean Hospital",
+   "body": "Clancy is voluntarily admitted to McLean Hospital in Belmont and discharged January 5. Prosecutors say discharge notes recorded no danger indicators; the defense says she remained seriously ill.",
+   "sources": [
+    {
+     "label": "Boston.com",
+     "url": "https://www.boston.com/news/crime/2023/02/21/lindsay-clancy-timeline-duxbury-mother-mental-health-treatment/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2023-01-24",
+   "phase": "Incident & charges",
+   "title": "Three children found unresponsive in Duxbury home",
+   "body": "At about 6:11 p.m., Duxbury police receive a 911 call from Patrick Clancy at 47 Summer Street reporting that his wife had jumped from a window. Cora, 5, Dawson, 3, and Callan, 8 months, are found in the basement with exercise bands at or near their necks. Cora and Dawson are pronounced dead at Beth Israel Deaconess Hospital–Plymouth; Callan is flown to Boston Children's Hospital. Lindsay Clancy is hospitalized with spinal injuries that leave her paralyzed from the waist down. Prosecutors allege she acted during a roughly 20–25 minute window while her husband picked up takeout and a pharmacy order she had asked him to fetch.",
+   "sources": [
+    {
+     "label": "Plymouth DA release (PDF)",
+     "url": "https://plymouthda.com/wp-content/uploads/2023/02/DuxburyARR2.7.23.pdf"
+    },
+    {
+     "label": "CBS Boston arraignment account",
+     "url": "https://cbsnews.com/boston/news/duxbury-mother-lindsay-clancy-murder-charges-arraignment"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2023-01-25",
+   "phase": "Incident & charges",
+   "title": "Charges announced",
+   "body": "DA Timothy Cruz announces a complaint out of Plymouth District Court charging two counts of murder, three counts of strangulation, and three counts of assault and battery with a dangerous weapon. A search warrant is executed at the home.",
+   "sources": [
+    {
+     "label": "Boston.com",
+     "url": "https://www.boston.com/news/local-news/2023/01/25/duxbury-mother-lindsay-clancy-charged-murder-children/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2023-01-27",
+   "phase": "Incident & charges",
+   "title": "Callan Clancy dies; third murder charge",
+   "body": "Eight-month-old Callan dies at Boston Children's Hospital. The DA says a third murder charge will follow.",
+   "sources": [
+    {
+     "label": "CBS Boston",
+     "url": "https://www.cbsnews.com/amp/boston/news/duxbury-massachusetts-children-murders-lindsay-clancy"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2023-01-28",
+   "phase": "Incident & charges",
+   "title": "Patrick Clancy's public statement",
+   "body": "In a statement posted to a GoFundMe page, Patrick Clancy asks the public to forgive his wife, saying he has, and describes her as a loving mother. The fundraiser passes $1 million.",
+   "sources": [
+    {
+     "label": "CBS Boston",
+     "url": "https://www.cbsnews.com/boston/news/patrick-clancy-husband-statement-duxbury-lindsay-clancy-massachusetts/"
+    },
+    {
+     "label": "GoFundMe",
+     "url": "https://www.gofundme.com/f/patrick-clancy-donations"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2023-02-03",
+   "phase": "Incident & charges",
+   "title": "Funeral; defense first raises over-medication",
+   "body": "A joint funeral Mass is held in Scituate. The same day, at a hearing on defense access to Clancy in the ICU, attorney Kevin Reddington says she had been prescribed as many as a dozen medications and that her husband had sought help from her providers the week before.",
+   "sources": [
+    {
+     "label": "CBS Boston",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-attorney-overmedicated-childrens-deaths-duxbury-massachusetts-murders/"
+    },
+    {
+     "label": "Boston 25",
+     "url": "https://www.boston25news.com/news/local/funeral-held-murdered-duxbury-children-mother-lindsay-clancy-awaits-arraignment/2EZ5ZMF2RVA4TAMZNO74BHI5TA/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2023-02-07",
+   "phase": "Incident & charges",
+   "title": "District Court arraignment by video from hospital",
+   "body": "Clancy is arraigned by Zoom from Brigham and Women's Hospital before Judge John Canavan and pleads not guilty. ADA Jennifer Sprague lays out the prosecution's minute-by-minute reconstruction, including phone searches and a drive-time check, and says the killings were planned. Reddington says they were the product of mental illness and over-medication. She is ordered held in a medical facility.",
+   "sources": [
+    {
+     "label": "Plymouth DA release",
+     "url": "https://plymouthda.com/news/2023-press-releases/duxbury-woman-arraigned-in-murder-of-her-three-children/"
+    },
+    {
+     "label": "WBUR",
+     "url": "https://www.wbur.org/news/2023/02/07/lindsay-clancy-duxbury-arraignment"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2023-05-01",
+   "phase": "Pretrial",
+   "title": "Transfer to Tewksbury State Hospital",
+   "body": "After a stay at Spaulding Rehabilitation Hospital, Clancy is moved to Tewksbury Hospital, run by the Department of Mental Health. On May 10 she waives a Section 18 hearing and is committed there for six months; later commitment petitions are impounded.",
+   "sources": [
+    {
+     "label": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2023/05/01/metro/lindsay-clancy-transferred-to-tewksbury-state-hospital-records-say/"
+    },
+    {
+     "label": "NBC10 Boston",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-to-remain-at-tewksbury-hospital-for-6-months-after-section-18-hearing/3042645/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2023-09-15",
+   "phase": "Pretrial",
+   "title": "Grand jury indictment",
+   "body": "A Plymouth County grand jury indicts Clancy on three counts of murder and three counts of strangulation, moving the case to Superior Court.",
+   "sources": [
+    {
+     "label": "Plymouth DA release",
+     "url": "https://plymouthda.com/news/2023-press-releases/duxbury-woman-indicted-on-charges-that-she-murdered-her-three-children/"
+    },
+    {
+     "label": "NBC News",
+     "url": "https://www.nbcnews.com/news/crime-courts/grand-jury-indicts-massachusetts-mother-lindsay-clancy-charges-killing-rcna105318"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2023-10-24",
+   "phase": "Pretrial",
+   "title": "Search-warrant records unsealed",
+   "body": "Unsealed affidavits and returns list items seized from the home, including exercise bands, notebooks, medications, and devices, and allege phone research about methods. Search terms are not specified in the filing.",
+   "sources": [
+    {
+     "label": "CBS Boston",
+     "url": "https://www.cbsnews.com/boston/news/search-warrants-lindsay-clancy-duxbury/"
+    },
+    {
+     "label": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2023/10/25/metro/lindsay-clancy-case-evidence/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2023-10-26",
+   "phase": "Pretrial",
+   "title": "Superior Court arraignment at Tewksbury Hospital",
+   "body": "Judge William F. Sullivan holds the arraignment at the hospital. Clancy pleads not guilty and is held without bail. Prosecutors cite a search for whether a sociopath can be treated and toxicology showing seven prescription drugs; the defense cites a DMH evaluation finding ongoing depression and suicidal ideation.",
+   "sources": [
+    {
+     "label": "Boston.com",
+     "url": "https://www.boston.com/news/crime/2023/10/26/what-we-learned-from-duxbury-mom-lindsay-clancys-superior-court-arraignment/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2024-01-17",
+   "phase": "Pretrial",
+   "title": "DNA swab approved",
+   "body": "Sullivan allows the Commonwealth's motion for a buccal swab; Clancy's appearance is waived.",
+   "sources": [
+    {
+     "label": "Patriot Ledger via Yahoo",
+     "url": "https://www.yahoo.com/news/dna-test-approved-duxburys-lindsay-191330318.html"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2024-02",
+   "phase": "Related",
+   "title": "Patrick Clancy files for divorce",
+   "body": "Reported later by The New Yorker and the Boston Globe. He moved to New York and remarried in spring 2026.",
+   "sources": [
+    {
+     "label": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2026/07/24/metro/lindsay-clancy-husband-patrick-clancy-remarried/"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "2024-10-14",
+   "phase": "Related",
+   "title": "New Yorker profile of Patrick Clancy",
+   "body": "In his first extended interview, Patrick Clancy says he was married to someone who got sick, not to a monster, and that no provider warned him about postpartum psychosis. Prosecutors later subpoena the writer's materials; the subpoena is ultimately quashed.",
+   "sources": [
+    {
+     "label": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2024/10/15/metro/patrick-clancy-new-yorker-interview/"
+    },
+    {
+     "label": "Press Freedom Tracker",
+     "url": "https://pressfreedomtracker.us/all-incidents/new-yorker-writer-subpoenaed-ahead-of-massachusetts-murder-trial/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2024-12-16",
+   "phase": "Pretrial",
+   "title": "Defense files notice of lack-of-criminal-responsibility defense",
+   "body": "The docket records the defense's notice of a lack-of-criminal-responsibility (insanity) defense and a request for a trial date. A December 1, 2025 trial date is set two days later; it is moved several times.",
+   "sources": [
+    {
+     "label": "Patriot Ledger via Yahoo (Jan 2025)",
+     "url": "https://www.yahoo.com/news/lindsay-clancy-duxbury-mother-accused-124206593.html"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "2025-01-14",
+   "phase": "Pretrial",
+   "title": "Court orders Commonwealth psychiatric examination",
+   "body": "Because the defense has noticed an insanity defense, Sullivan orders Clancy to be examined by experts chosen by the prosecution.",
+   "sources": [
+    {
+     "label": "NBC10 Boston",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-duxbury-mom-accused-of-killing-her-3-kids-ordered-to-undergo-psych-exam-with-prosecution-experts/3601615/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2025-05-28",
+   "phase": "Pretrial",
+   "title": "Trial set for February 9, 2026",
+   "body": "Sullivan sets a February 2026 trial date and a June 27, 2025 deadline for exchanging expert materials.",
+   "sources": [
+    {
+     "label": "MassLive via Yahoo",
+     "url": "https://www.yahoo.com/news/lindsay-clancy-trial-set-2026-204143147.html"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2025-10-21",
+   "phase": "Related",
+   "title": "Legislative hearing on postpartum-defendant bill",
+   "body": "The Joint Committee on the Judiciary hears a bill (Sen. Joan Lovely, Rep. James O'Day) that would require mental-health screening of defendants charged within a year of giving birth and allow perinatal mood disorders to be considered in sentencing. The bill did not advance this session; advocates plan to refile.",
+   "sources": [
+    {
+     "label": "GBH",
+     "url": "https://www.wgbh.org/news/health/2025-10-22/new-mothers-charged-with-crimes-would-get-mental-health-screenings-treatments-under-bill"
+    },
+    {
+     "label": "WBUR",
+     "url": "https://www.wbur.org/upnext/2026/08/05/maternal-mental-health-postpartum-psychosis-clancy-beacon-hill"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "2025-11-18",
+   "phase": "Pretrial",
+   "title": "Trial moved to July 20, 2026; change of venue denied",
+   "body": "Citing the volume of discovery, Sullivan continues the trial to July 2026 and denies the defense motion to move it out of Plymouth County.",
+   "sources": [
+    {
+     "label": "NBC10 Boston",
+     "url": "https://www.nbcboston.com/news/local/trial-of-lindsay-clancy-duxbury-mom-accused-of-killing-her-kids-delayed-until-july-2026/3847163/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-01-07",
+   "phase": "Pretrial",
+   "title": "Hearing on transport and medical needs",
+   "body": "The parties argue over how to move Clancy to court given her paralysis; Sullivan says he will issue a custom transport order.",
+   "sources": [
+    {
+     "label": "NBC10 Boston",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-pretrial-hearing-today/3873419/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-01-26",
+   "phase": "Related",
+   "title": "Civil malpractice and wrongful-death suits filed",
+   "body": "Lindsay Clancy and, separately, Patrick Clancy sue her former treating clinicians and institutions in Norfolk Superior Court, alleging over-medication and uncoordinated care. The defendants have not been found liable; the suits are pending.",
+   "sources": [
+    {
+     "label": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2026/08/04/metro/lindsay-clancy-trial-patrick-civil-suits/"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "2026-02-20",
+   "phase": "Pretrial",
+   "title": "First in-person court appearance since 2023",
+   "body": "Clancy appears in Plymouth Superior Court in a wheelchair.",
+   "sources": [
+    {
+     "label": "MassLive via Yahoo",
+     "url": "https://www.yahoo.com/news/articles/lindsay-clancy-appears-court-first-221815366.html"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-03-31",
+   "phase": "Pretrial",
+   "title": "Request to split the trial into two phases denied",
+   "body": "Sullivan rejects the defense's bifurcation motion, finding the guilt and criminal-responsibility evidence too intertwined to separate.",
+   "sources": [
+    {
+     "label": "NBC10 Boston",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-murder-case-judge-issues-key-ruling/3925435/"
+    },
+    {
+     "label": "Court TV",
+     "url": "https://www.courttv.com/news/judge-denies-lindsay-clancys-request-to-split-trial-in-2-phases/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-04-07",
+   "phase": "Pretrial",
+   "title": "Defense offers written stipulation to the acts",
+   "body": "In a motion for reconsideration, the defense offers to stipulate in writing that Clancy caused the deaths so the trial can focus on her mental state. Prosecutors decline; the court denies reconsideration later in April.",
+   "sources": [
+    {
+     "label": "Motion (Scribd)",
+     "url": "https://www.scribd.com/document/1023188039/Lindsay-Clancy-motion-for-reconsideration"
+    },
+    {
+     "label": "Fox News",
+     "url": "https://www.foxnews.com/us/massachusetts-mom-offers-admit-killing-3-children-prosecutors-push-back-move-could-dodge-prison.print"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "date": "2026-07-09",
+   "phase": "Pretrial",
+   "title": "Strangulation counts dismissed",
+   "body": "Prosecutors file a nolle prosequi on the three strangulation counts as redundant with the murder counts. Three counts of first-degree murder remain.",
+   "sources": [
+    {
+     "label": "Boston.com",
+     "url": "https://www.boston.com/news/crime/2026/07/09/lindsay-clancys-strangulation-charges-dropped-ahead-of-murder-trial/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-07-13",
+   "phase": "Pretrial",
+   "title": "Final pretrial hearing",
+   "body": "Jury sequestration is denied; the defense may not call lay witnesses who experienced postpartum psychosis; an 18-person panel (12 jurors, 6 alternates) is planned.",
+   "sources": [
+    {
+     "label": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2026/07/13/metro/lindsay-clancy-pretrial-hearing-final/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-07-20",
+   "phase": "Trial",
+   "title": "Jury selection begins",
+   "body": "Individual questioning of prospective jurors begins in Plymouth Superior Court; a full panel of 18 is seated by July 23.",
+   "sources": [
+    {
+     "label": "WJAR",
+     "url": "https://turnto10.com/news/local/jury-selection-continues-for-lindsay-clancy-murder-trial-as-12-jurors-are-seated-july-22-2026"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-07-27",
+   "phase": "Trial",
+   "title": "Opening statements; Patrick Clancy testifies first",
+   "body": "ADA Shanan Buckingham tells jurors Clancy acted intentionally and rationally; Reddington says she was in the grip of postpartum psychosis brought on in part by over-medication. Patrick Clancy testifies over two days.",
+   "sources": [
+    {
+     "label": "NBC10 Boston",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-trial-opening-statements-live-updates/3987462/"
+    },
+    {
+     "label": "CNN",
+     "url": "https://www.cnn.com/2026/08/01/us/lindsay-clancy-trial-patrick-testimony"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-07-30",
+   "phase": "Trial",
+   "title": "First responders testify; 911 call played",
+   "body": "Ten Duxbury and Pembroke police, fire, and EMS witnesses describe the scene. The 911 recording is played for the jury but sealed from public release.",
+   "sources": [
+    {
+     "label": "CBS Boston",
+     "url": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-trial-live-updates-day-3-first-responders/"
+    },
+    {
+     "label": "WBUR",
+     "url": "https://www.wbur.org/news/2026/07/30/lindsay-clancy-trial-first-responders"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-08-07",
+   "phase": "Trial",
+   "title": "Treating psychiatrist testifies",
+   "body": "Dr. Jennifer Tufts, who treated Clancy by telehealth from September 2022, says she saw no signs of psychosis or mania at a January 23, 2023 appointment. Nurse practitioners who prescribed for Clancy also testify.",
+   "sources": [
+    {
+     "label": "CBS Boston",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-10-jennifer-tufts/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-08-11",
+   "phase": "Trial",
+   "title": "Texts and internet searches shown",
+   "body": "Jurors see messages in which Clancy asked to change medications and searches about hallucinations, psychosis, and drug side effects. Each side reads the material differently.",
+   "sources": [
+    {
+     "label": "CNN",
+     "url": "https://www.cnn.com/2026/08/11/us/lindsay-clancy-trial"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-08-17",
+   "phase": "Trial",
+   "title": "Prosecution rests after 70+ witnesses",
+   "body": "The Commonwealth's final witness is a digital-forensics examiner who walks through phone and Apple Watch data. The defense begins with family members.",
+   "sources": [
+    {
+     "label": "WBUR",
+     "url": "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial-lindsay-clancy"
+    },
+    {
+     "label": "CNN",
+     "url": "https://www.cnn.com/2026/08/17/us/lindsay-clancy-trial-prosecution-rests"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-08-21",
+   "phase": "Trial",
+   "title": "Defense rests; prosecution rebuttal begins",
+   "body": "Defense forensic psychiatrist Dr. Phillip Resnick testifies that Clancy was psychotic and acting under a command hallucination. The prosecution calls Dr. Avram Mack, who interviewed her in April 2026 and found no psychosis. Clancy does not testify.",
+   "sources": [
+    {
+     "label": "CNN",
+     "url": "https://www.cnn.com/2026/08/21/us/lindsay-clancy-trial-defense-rests"
+    },
+    {
+     "label": "PBS",
+     "url": "https://www.pbs.org/newshour/nation/lindsay-clancys-defense-rests-at-trial-over-whether-postpartum-psychosis-drove-her-to-killings"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-08-24",
+   "phase": "Trial",
+   "title": "Mistrial motion over religion testimony denied",
+   "body": "After a prosecution expert refers to Catholic teaching on suicide, the defense moves for a mistrial. Sullivan denies it, admonishes the prosecution, and instructs the jury to disregard the remark.",
+   "sources": [
+    {
+     "label": "CBS Boston",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-19-rebuttal/"
+    },
+    {
+     "label": "Scripps",
+     "url": "https://www.scrippsnews.com/us-news/crime/judge-denies-motion-for-mistrial-in-lindsay-clancy-case-after-dispute-over-religious-testimony"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-08-27",
+   "phase": "Trial",
+   "title": "Closing arguments; jury begins deliberating",
+   "body": "Reddington and ADA Jennifer Sprague deliver closings. Jurors are instructed on first-degree murder, second-degree murder, manslaughter, not guilty, and not guilty by reason of lack of criminal responsibility. Twelve jurors (nine women, three men) deliberate about three and a half hours.",
+   "sources": [
+    {
+     "label": "GBH",
+     "url": "https://www.wgbh.org/news/local/2026-08-27/lindsay-clancy-closing-arguments-both-sides-make-final-case-as-jury-begins-deliberations"
+    },
+    {
+     "label": "Transcript (Rev)",
+     "url": "https://www.rev.com/transcripts/ma-v-lindsay-clancy-closing-arguments"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-09-01",
+   "phase": "Deliberations & mistrial",
+   "title": "First deadlock note; spectator arrested",
+   "body": "On the fourth day, jurors report they cannot reach a unanimous decision; Sullivan tells them to continue. A spectator is arrested and later charged after allegedly filming jurors.",
+   "sources": [
+    {
+     "label": "WBUR",
+     "url": "https://www.wbur.org/news/2026/09/01/massachusetts-plymouth-lindsay-clancy-jury-deliberations"
+    },
+    {
+     "label": "Boston.com",
+     "url": "https://www.boston.com/news/crime/2026/09/02/lindsay-clancy-trial-woman-arrested-filming-jurors/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-09-02",
+   "phase": "Deliberations & mistrial",
+   "title": "Second deadlock note; Tuey-Rodriguez instruction",
+   "body": "After a second note, Sullivan gives the Massachusetts instruction for deadlocked juries urging them to keep trying. Reddington says no plea offer was ever made.",
+   "sources": [
+    {
+     "label": "WBUR explainer",
+     "url": "https://www.wbur.org/news/2026/09/02/lindsay-clancy-jurors-mistrial-explainer-dawn-light"
+    },
+    {
+     "label": "Boston Globe on the Tuey-Rodriguez charge",
+     "url": "https://www.bostonglobe.com/2026/09/02/metro/what-is-the-tuey-rodriguez-charge-lindsay-clancy/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-09-03",
+   "phase": "Deliberations & mistrial",
+   "title": "Dispute over a holdout juror",
+   "body": "The foreperson's note says one juror acknowledges doubt but refuses to apply it. The defense moves to remove that juror; Sullivan declines and re-reads the reasonable-doubt instruction. Reddington says the split is 11–1 for lack of criminal responsibility.",
+   "sources": [
+    {
+     "label": "NBC News",
+     "url": "https://www.nbcnews.com/news/us-news/lindsay-clancy-jury-remains-deadlocked-6th-day-deliberations-mistrial-rcna595884"
+    },
+    {
+     "label": "Washington Post",
+     "url": "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "date": "2026-09-04",
+   "phase": "Deliberations & mistrial",
+   "title": "Judge moves to declare a mistrial; one-hour stay for emergency SJC petition",
+   "body": "At a 9 a.m. hearing Sullivan again refuses to remove the juror. Around 11 a.m. the jury sends a third note saying it will not be able to reach a unanimous decision. At about 11:26 a.m. Sullivan says he will declare a mistrial, then grants the defense one hour to petition a single justice of the Supreme Judicial Court under G.L. c. 211 § 3. Justice Dalila Argaez Wendlandt is assigned. See the headline feed for the outcome.",
+   "sources": [
+    {
+     "label": "Boston Globe live",
+     "url": "https://www.bostonglobe.com/2026/09/04/metro/lindsay-clancy-trial-live-updates/"
+    },
+    {
+     "label": "GBH/AP",
+     "url": "https://www.wgbh.org/news/local/2026-09-04/judge-in-lindsay-clancy-case-says-hell-declare-a-mistrial-then-gives-defense-1-hour-to-appeal"
+    }
+   ],
+   "confidence": "high"
+  }
+ ],
+ "people": [
+  {
+   "name": "Lindsay Clancy",
+   "role": "Defendant",
+   "group": "The family",
+   "note": "Born 1990; raised in Wallingford, CT; labor-and-delivery nurse at Massachusetts General Hospital for about nine years. Paralyzed from the waist down since January 24, 2023. Held at Tewksbury State Hospital. Pleaded not guilty; presumed innocent.",
+   "sources": [
+    {
+     "label": "CBS Boston",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-case-updates-jury-verdict-mistrial/"
+    }
+   ]
+  },
+  {
+   "name": "Cora, Dawson, and Callan Clancy",
+   "role": "The children",
+   "group": "The family",
+   "note": "Cora, 5; Dawson, 3; Callan, 8 months. Cause of death was asphyxia, per the medical examiner. Cora and Dawson died January 24, 2023; Callan died January 27.",
+   "sources": [
+    {
+     "label": "Plymouth DA",
+     "url": "https://plymouthda.com/news/2023-press-releases/duxbury-woman-arraigned-on-charges-that-she-murdered-her-three-children/"
+    }
+   ]
+  },
+  {
+   "name": "Patrick Clancy",
+   "role": "Former husband; prosecution's first witness",
+   "group": "The family",
+   "note": "Called 911 on January 24, 2023. Publicly asked for forgiveness for Lindsay days later. Filed for divorce in 2024, moved to New York, and remarried in 2026. Plaintiff in a wrongful-death suit against her former clinicians.",
+   "sources": [
+    {
+     "label": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2026/07/24/metro/lindsay-clancy-husband-patrick-clancy-remarried/"
+    },
+    {
+     "label": "CBS Boston (2023 statement)",
+     "url": "https://www.cbsnews.com/boston/news/patrick-clancy-husband-statement-duxbury-lindsay-clancy-massachusetts/"
+    }
+   ]
+  },
+  {
+   "name": "Michael and Paula Musgrove",
+   "role": "Lindsay Clancy's parents",
+   "group": "The family",
+   "note": "Attended the trial; Paula Musgrove testified for the defense.",
+   "sources": [
+    {
+     "label": "MassLive via Yahoo",
+     "url": "https://www.yahoo.com/news/articles/lindsay-clancy-appears-court-first-221815366.html"
+    }
+   ]
+  },
+  {
+   "name": "Hon. William F. Sullivan",
+   "role": "Trial judge, Plymouth Superior Court",
+   "group": "The court",
+   "note": "Presiding since the October 2023 Superior Court arraignment. Appointed 2014. Denied change of venue, bifurcation, a mid-trial mistrial motion, and the request to remove a holdout juror; moved to declare a mistrial September 4, 2026.",
+   "sources": [
+    {
+     "label": "NBC10 Boston",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-murder-case-judge-issues-key-ruling/3925435/"
+    }
+   ]
+  },
+  {
+   "name": "Hon. Dalila Argaez Wendlandt",
+   "role": "Supreme Judicial Court single justice",
+   "group": "The court",
+   "note": "Assigned the defense's September 4, 2026 emergency petition under G.L. c. 211 § 3.",
+   "sources": [
+    {
+     "label": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2026/09/04/metro/lindsay-clancy-trial-live-updates/"
+    }
+   ]
+  },
+  {
+   "name": "Hon. John Canavan",
+   "role": "Plymouth District Court judge",
+   "group": "The court",
+   "note": "Presided over the February 7, 2023 video arraignment and ordered Clancy held in a medical facility.",
+   "sources": [
+    {
+     "label": "Plymouth DA release (PDF)",
+     "url": "https://plymouthda.com/wp-content/uploads/2023/02/DuxburyARR2.7.23.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Timothy J. Cruz",
+   "role": "Plymouth County District Attorney",
+   "group": "Prosecution",
+   "note": "Will decide whether to retry the case after the mistrial. Office spokesperson: Beth Stone.",
+   "sources": [
+    {
+     "label": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2026/08/11/metro/plymouth-da-timothy-cruz-first-degree-murder-charges-clancy/"
+    }
+   ]
+  },
+  {
+   "name": "Jennifer Sprague",
+   "role": "Assistant District Attorney, lead trial prosecutor",
+   "group": "Prosecution",
+   "note": "With the office since 2003; handled the 2023 arraignments and delivered the closing argument.",
+   "sources": [
+    {
+     "label": "Patriot Ledger via AOL",
+     "url": "https://www.aol.com/articles/jennifer-sprague-shanan-buckingham-clancy-175957000.html"
+    }
+   ]
+  },
+  {
+   "name": "Shanan Buckingham",
+   "role": "Assistant District Attorney",
+   "group": "Prosecution",
+   "note": "Chief of the office's Family Protection Unit; delivered the opening statement.",
+   "sources": [
+    {
+     "label": "WBUR",
+     "url": "https://www.wbur.org/news/2026/08/26/lindsay-clancy-murder-trial-testimony-closing-arguments"
+    }
+   ]
+  },
+  {
+   "name": "Kevin J. Reddington",
+   "role": "Defense counsel",
+   "group": "Defense",
+   "note": "Brockton attorney with about 50 years of practice; sole counsel of record in most coverage (co-counsel Laura Mather has been reported). Argued postpartum psychosis and over-medication; sought removal of the holdout juror and an emergency SJC stay.",
+   "sources": [
+    {
+     "label": "NBC10 Boston profile",
+     "url": "https://www.nbcboston.com/news/local/get-to-know-kevin-reddington-the-longtime-attorney-defending-lindsay-clancy/4000094/"
+    },
+    {
+     "label": "Boston Globe profile",
+     "url": "https://www.bostonglobe.com/2026/07/31/metro/lindsay-clancy-lawyer-kevin-reddington/"
+    }
+   ]
+  },
+  {
+   "name": "Dr. Phillip Resnick",
+   "role": "Defense forensic psychiatrist",
+   "group": "Expert witnesses",
+   "note": "Testified that Clancy was psychotic and acting under a command hallucination. Previously testified for the defense in the Andrea Yates case.",
+   "sources": [
+    {
+     "label": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2026/08/21/metro/lindsay-clancy-trial-live-updates/"
+    }
+   ]
+  },
+  {
+   "name": "Dr. Paul Zeizel",
+   "role": "Defense forensic psychologist",
+   "group": "Expert witnesses",
+   "note": "First met Clancy in the hospital in early February 2023; opined she was psychotic.",
+   "sources": [
+    {
+     "label": "ABC News",
+     "url": "https://abcnews.com/GMA/News/psychologist-spoke-lindsay-clancy-after-killings-takes-stand/story?id=135768595"
+    }
+   ]
+  },
+  {
+   "name": "Dr. Avram Mack",
+   "role": "Prosecution rebuttal psychiatrist",
+   "group": "Expert witnesses",
+   "note": "Interviewed Clancy in April 2026; found major depression but no psychosis.",
+   "sources": [
+    {
+     "label": "CNN",
+     "url": "https://www.cnn.com/2026/08/21/us/lindsay-clancy-trial-defense-rests"
+    }
+   ]
+  },
+  {
+   "name": "Dr. Kirk Heilbrun",
+   "role": "Prosecution rebuttal forensic psychologist",
+   "group": "Expert witnesses",
+   "note": "Examined Clancy over three days in 2025; opined bipolar disorder without psychosis. His reference to Catholic teaching prompted a denied mistrial motion.",
+   "sources": [
+    {
+     "label": "CNN",
+     "url": "https://www.cnn.com/2026/08/24/us/lindsay-clancy-trial-psychologist-rebuttal"
+    }
+   ]
+  },
+  {
+   "name": "Dr. Gregory Saathoff",
+   "role": "Prosecution expert psychiatrist",
+   "group": "Expert witnesses",
+   "note": "Final rebuttal witness; testified Clancy could appreciate wrongfulness and control her conduct.",
+   "sources": [
+    {
+     "label": "NBC News live blog",
+     "url": "https://www.nbcnews.com/news/us-news/live-blog/lindsay-clancy-trial-testimony-live-updates-rcna594438"
+    }
+   ]
+  },
+  {
+   "name": "Dr. Jennifer Tufts",
+   "role": "Treating psychiatrist (prosecution witness)",
+   "group": "Treating clinicians",
+   "note": "Treated Clancy by telehealth from September 2022; testified she saw no psychosis or mania on January 23, 2023. A defendant in the pending civil suits, which allege over-medication; no liability has been found.",
+   "sources": [
+    {
+     "label": "CBS Boston",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-10-jennifer-tufts/"
+    }
+   ]
+  },
+  {
+   "name": "Julie Paul and Rebecca Jollotta",
+   "role": "Psychiatric nurse practitioners (witnesses)",
+   "group": "Treating clinicians",
+   "note": "Prescribed several of the medications on the defense's chart; both testified. Also named in the civil suits.",
+   "sources": [
+    {
+     "label": "Boston Globe",
+     "url": "https://www.bostonglobe.com/2026/08/04/metro/lindsay-clancy-trial-patrick-civil-suits/"
+    }
+   ]
+  },
+  {
+   "name": "Ian Whiffin",
+   "role": "Digital forensics examiner (Cellebrite)",
+   "group": "Other witnesses",
+   "note": "Last prosecution witness; presented phone and Apple Watch data.",
+   "sources": [
+    {
+     "label": "CNN",
+     "url": "https://www.cnn.com/2026/08/17/us/lindsay-clancy-trial-prosecution-rests"
+    }
+   ]
+  },
+  {
+   "name": "Duxbury first responders",
+   "role": "Police, fire, and EMS witnesses",
+   "group": "Other witnesses",
+   "note": "Ten first responders testified on July 30, 2026. Duxbury Police Chief Michael Carbone made the department's public statements in January 2023.",
+   "sources": [
+    {
+     "label": "WBUR",
+     "url": "https://www.wbur.org/news/2026/07/30/lindsay-clancy-trial-first-responders"
+    }
+   ]
+  }
+ ],
+ "legal": [
+  {
+   "title": "The charges",
+   "body": "At trial Clancy faced **three counts of first-degree murder** under Massachusetts General Laws chapter 265, sections 1 and 2, on theories of deliberate premeditation and extreme atrocity or cruelty. First-degree murder carries a mandatory sentence of life without parole; second-degree murder carries life with parole eligibility; manslaughter carries up to 20 years. Three strangulation counts (c. 265 § 15D) were dismissed by prosecutors in July 2026 as redundant, and the assault-and-battery counts from the original 2023 complaint were not carried into the indictment.\n\nThe jury was instructed on five outcomes for each count: guilty of first-degree murder, guilty of second-degree murder, guilty of manslaughter, not guilty, and not guilty by reason of lack of criminal responsibility.",
+   "sources": [
+    {
+     "label": "Boston.com (counts dismissed)",
+     "url": "https://www.boston.com/news/crime/2026/07/09/lindsay-clancys-strangulation-charges-dropped-ahead-of-murder-trial/"
+    },
+    {
+     "label": "ABC News (penalties)",
+     "url": "https://abcnews.com/GMA/News/lindsay-clancy-jury-deadlocked/story?id=136153308"
+    },
+    {
+     "label": "M.G.L. c. 265 § 2",
+     "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter265/Section2"
+    }
+   ]
+  },
+  {
+   "title": "Lack of criminal responsibility (the Massachusetts insanity defense)",
+   "body": "Massachusetts uses the standard from *Commonwealth v. McHoul* (1967): a person is not criminally responsible if, as a result of mental disease or defect, they lacked substantial capacity either to appreciate the wrongfulness of their conduct or to conform their conduct to the requirements of law. Once the defense fairly raises the issue, the **Commonwealth must prove criminal responsibility beyond a reasonable doubt**; the defendant does not have to prove insanity.\n\nThis is different from **competency to stand trial**, which concerns a defendant's present ability to understand the proceedings and assist counsel. Competency was not reported to be contested in this case.\n\nIf a jury returns a verdict of not guilty by reason of lack of criminal responsibility, the defendant is not released. Under G.L. c. 123 § 16 the court can order hospitalization for observation, and the district attorney or the facility may petition for civil commitment, initially for six months and then renewable annually for as long as the person is found mentally ill and dangerous. Massachusetts jurors are told about these consequences. A woman committed under this section would be held in a Department of Mental Health facility such as Tewksbury Hospital, where Clancy is already held.",
+   "sources": [
+    {
+     "label": "Commonwealth v. McHoul (Justia)",
+     "url": "https://law.justia.com/cases/massachusetts/supreme-court/1967/352-mass-544-2.html"
+    },
+    {
+     "label": "G.L. c. 123 § 16 (Justia)",
+     "url": "https://law.justia.com/codes/massachusetts/part-i/title-xvii/chapter-123/section-16/"
+    },
+    {
+     "label": "Model jury instruction 9.200",
+     "url": "https://www.mass.gov/doc/9200-lack-of-criminal-responsibility/download"
+    }
+   ]
+  },
+  {
+   "title": "Hung jury, mistrial, and what can happen next",
+   "body": "A jury that cannot reach a unanimous verdict is a hung jury. In Massachusetts a judge first gives the **Tuey-Rodriguez instruction**, which urges jurors to re-examine their views without surrendering honest convictions. If deadlock persists, the judge declares a mistrial and discharges the jury. Because no verdict was reached, **double jeopardy does not bar a retrial**. The district attorney may retry the case before a new jury, negotiate a plea to a lesser charge, or dismiss.\n\nOn September 4, 2026 the defense asked a single justice of the Supreme Judicial Court to intervene under **G.L. c. 211 § 3**, the SJC's power of general superintendence over lower courts, arguing that the holdout juror was refusing to follow the law. Such relief is rare; single justices generally defer to the trial judge's management of a jury.",
+   "sources": [
+    {
+     "label": "Boston Globe: the Tuey-Rodriguez charge",
+     "url": "https://www.bostonglobe.com/2026/09/02/metro/what-is-the-tuey-rodriguez-charge-lindsay-clancy/"
+    },
+    {
+     "label": "ABC News: what happens after a mistrial",
+     "url": "https://abcnews.com/GMA/News/lindsay-clancy-jury-deadlocked/story?id=136153308"
+    },
+    {
+     "label": "CBS Boston live",
+     "url": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-murder-trial-hung-jury-mistrial-verdict-watch-live-updates/"
+    }
+   ]
+  },
+  {
+   "title": "What each side argued",
+   "body": "**Prosecution.** Clancy planned the killings: she sent her husband on an errand she timed with a map app, acted within the roughly 20–25 minutes he was away, and had researched methods. Her treating clinicians saw no psychosis the day before; toxicology showed medications at therapeutic levels; her writings were clear and organized. Their experts diagnosed depression or bipolar disorder without psychosis and said she could appreciate wrongfulness and control her conduct.\n\n**Defense.** Clancy does not dispute causing the deaths. She was suffering from postpartum psychosis, worsened by 13 psychiatric medications and more than 30 prescriptions in about four months, and acted under a command hallucination. She had sought help repeatedly, been hospitalized, and told clinicians about intrusive thoughts. Their experts diagnosed bipolar disorder with postpartum psychosis.\n\nThe jury did not resolve this dispute.",
+   "sources": [
+    {
+     "label": "NBC10 Boston (openings)",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-trial-opening-statements-live-updates/3987462/"
+    },
+    {
+     "label": "GBH (closings)",
+     "url": "https://www.wgbh.org/news/local/2026-08-27/lindsay-clancy-closing-arguments-both-sides-make-final-case-as-jury-begins-deliberations"
+    },
+    {
+     "label": "WBUR (experts)",
+     "url": "https://www.wbur.org/news/2026/08/26/lindsay-clancy-murder-trial-testimony-closing-arguments"
+    }
+   ]
+  },
+  {
+   "title": "The medications (as presented by the defense)",
+   "body": "The defense's prescription chart, published by the Patriot Ledger and the Boston Globe, lists 13 drugs prescribed between September 2022 and January 2023: sertraline (Zoloft), lorazepam (Ativan), hydroxyzine, buspirone, trazodone, fluoxetine (Prozac), zolpidem (Ambien), mirtazapine (Remeron), clonazepam (Klonopin), quetiapine (Seroquel), diazepam (Valium), lamotrigine (Lamictal), and amitriptyline. Brand and generic names refer to the same drugs and should not be double-counted.\n\nThis is the defense's characterization of her records. Prosecutors say she took what was prescribed, that toxicology found seven drugs at therapeutic levels, and that the prescribing was appropriate care. Whether the care met the standard is also the subject of pending civil suits in which nothing has been decided.",
+   "sources": [
+    {
+     "label": "Patriot Ledger via Yahoo (full list)",
+     "url": "https://www.yahoo.com/news/us/articles/lindsay-clancy-prescribed-medication-list-170555237.html"
+    },
+    {
+     "label": "Boston Globe timeline",
+     "url": "https://www.bostonglobe.com/2026/07/27/metro/lindsay-clancy-timeline-medications-13/"
+    }
+   ]
+  },
+  {
+   "title": "Postpartum psychosis, briefly",
+   "body": "Postpartum psychosis is a rare psychiatric emergency affecting roughly 1 to 2 in 1,000 people who give birth. Onset is usually within the first two weeks after delivery but can occur later. Symptoms can include delusions, hallucinations, severe confusion, agitation, and rapid mood swings. The strongest risk factor is a personal or family history of bipolar disorder. It is treatable, and the great majority of people who experience it do not harm anyone. Whether Clancy had it, and whether it left her unable to appreciate wrongfulness or control her conduct, was the central contested question at trial.\n\nThe most cited comparison is Andrea Yates (Texas, 2001), who was convicted in 2002, had the conviction reversed, and was found not guilty by reason of insanity at a 2006 retrial. Texas uses a narrower right-from-wrong test than Massachusetts.",
+   "sources": [
+    {
+     "label": "Postpartum Support International",
+     "url": "https://postpartum.net/perinatal-mental-health/"
+    },
+    {
+     "label": "StatPearls (NIH)",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK544304/"
+    },
+    {
+     "label": "Texas Monthly on Yates and Clancy",
+     "url": "https://www.texasmonthly.com/true-crime/lindsay-clancy-andrea-yates-postpartum-psychosis/"
+    }
+   ]
+  },
+  {
+   "title": "Legislation prompted by the case",
+   "body": "- **Chapter 186 of the Acts of 2024**, signed August 23, 2024, expanded postpartum depression screening and maternal mental-health programs in Massachusetts. It was not named for this case.\n- **H.1294 / S.1171** (Rep. James O'Day, Sen. Joan Lovely) would require mental-health screening of defendants charged within a year of giving birth and allow perinatal mood disorders to be weighed at sentencing. Heard October 2025; not advanced as of August 2026; advocates plan to refile. Illinois has a comparable law.",
+   "sources": [
+    {
+     "label": "Mass.gov on Chapter 186",
+     "url": "https://www.mass.gov/info-details/massachusetts-chapter-186-of-the-acts-of-2024-maternal-health-laws"
+    },
+    {
+     "label": "GBH",
+     "url": "https://www.wgbh.org/news/health/2025-10-22/new-mothers-charged-with-crimes-would-get-mental-health-screenings-treatments-under-bill"
+    },
+    {
+     "label": "WBUR",
+     "url": "https://www.wbur.org/upnext/2026/08/05/maternal-mental-health-postpartum-psychosis-clancy-beacon-hill"
+    }
+   ]
+  }
+ ],
+ "court": {
+  "body": "### Where\nPlymouth County Superior Court, 72 Belmont Street, Brockton, MA 02301. The case is *Commonwealth v. Lindsay M. Clancy*, docket 2383CR00199 (per a defense filing; confirm on the public portal). The presiding judge is William F. Sullivan.\n\n### Looking up the docket\nGo to [masscourts.org](https://www.masscourts.org), choose the public-records search, select Superior Court and Plymouth County, and search by **case number** with leading zeros. Criminal cases cannot be searched by name on the public portal. The official instructions are on [mass.gov](https://www.mass.gov/lists/instructions-for-using-masscourtsorg). Any Supreme Judicial Court single-justice matter would appear on the [appellate courts' public docket](https://www.ma-appellatecourts.org).\n\n### Watching\nThere is no official court livestream. A pool camera feed is carried by Court TV, Law&Crime, and the Boston stations, usually from 9 a.m. Eastern on court days. Links are in the list on the right; the Video section of this page collects the outlets' clips automatically.\n\n### Related proceedings\n- Civil suits by Lindsay Clancy and by Patrick Clancy against her former clinicians and institutions are pending in Norfolk Superior Court (filed January 2026; a hearing has been reported for October 28, 2026, unverified).\n- A spectator arrested September 1, 2026 for allegedly filming jurors was arraigned in Plymouth District Court and released on conditions."
+ },
+ "follow": [
+  {
+   "label": "Court TV live stream",
+   "url": "https://www.courttv.com/title/court-tv-live-stream-web/",
+   "note": "Carries the pool feed on court days; case archive at courttv.com/tag/lindsay-clancy"
+  },
+  {
+   "label": "Law&Crime Network on YouTube",
+   "url": "https://www.youtube.com/@LawAndCrime",
+   "note": "Full-day hearing streams and a playlist for the case"
+  },
+  {
+   "label": "CBS Boston / WBZ live blog",
+   "url": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-murder-trial-hung-jury-mistrial-verdict-watch-live-updates/",
+   "note": "Streams on YouTube; daily live updates"
+  },
+  {
+   "label": "NBC10 Boston case page",
+   "url": "https://www.nbcboston.com/tag/lindsay-clancy/",
+   "note": "Live updates and the 'Commonwealth Confidential' podcast"
+  },
+  {
+   "label": "Boston Globe live coverage",
+   "url": "https://www.bostonglobe.com/2026/09/04/metro/lindsay-clancy-trial-live-updates/",
+   "note": "Subscription; live blog on court days"
+  },
+  {
+   "label": "Boston.com case tag",
+   "url": "https://www.boston.com/tag/lindsay-clancy/",
+   "note": "Free"
+  },
+  {
+   "label": "WBUR",
+   "url": "https://www.wbur.org/",
+   "note": "Public radio; explainers on procedure"
+  },
+  {
+   "label": "Plymouth County DA press releases",
+   "url": "https://plymouthda.com/news/",
+   "note": "Official statements from the prosecution"
+  },
+  {
+   "label": "Duxbury Clipper",
+   "url": "https://www.duxburyclipper.com/",
+   "note": "Local weekly"
+  },
+  {
+   "label": "Closing arguments transcript (Rev)",
+   "url": "https://www.rev.com/transcripts/ma-v-lindsay-clancy-closing-arguments",
+   "note": "Machine transcript; verify against video"
+  }
+ ],
+ "primary_sources": [
+  {
+   "label": "Plymouth DA press release, Feb 7, 2023 (PDF)",
+   "url": "https://plymouthda.com/wp-content/uploads/2023/02/DuxburyARR2.7.23.pdf",
+   "note": "Arraignment; 911 time and address"
+  },
+  {
+   "label": "Plymouth DA press release, Sept 2023 (indictment)",
+   "url": "https://plymouthda.com/news/2023-press-releases/duxbury-woman-indicted-on-charges-that-she-murdered-her-three-children/",
+   "note": ""
+  },
+  {
+   "label": "Plymouth DA press release, Oct 26, 2023 (Superior Court arraignment)",
+   "url": "https://plymouthda.com/news/2023-press-releases/duxbury-woman-arraigned-on-charges-that-she-murdered-her-three-children/",
+   "note": ""
+  },
+  {
+   "label": "Search-warrant applications, unsealed Oct 2023 (WCVB PDF)",
+   "url": "https://htv-prod-media.s3.amazonaws.com/files/clancy-search-warrant-applications-6538020282ac9.pdf",
+   "note": "Large file"
+  },
+  {
+   "label": "Search-warrant documents, part 1 (Boston 25 via Scribd)",
+   "url": "https://www.scribd.com/document/679857985/Lindsay-Clancy-Sw-Court-Docs-Pt-1",
+   "note": ""
+  },
+  {
+   "label": "Defense motion for reconsideration, 2026 (Scribd)",
+   "url": "https://www.scribd.com/document/1023188039/Lindsay-Clancy-motion-for-reconsideration",
+   "note": "Offers a written stipulation to the acts; shows docket number"
+  },
+  {
+   "label": "Commonwealth v. McHoul, 352 Mass. 544 (1967)",
+   "url": "https://law.justia.com/cases/massachusetts/supreme-court/1967/352-mass-544-2.html",
+   "note": "Criminal-responsibility standard"
+  },
+  {
+   "label": "M.G.L. c. 123 § 16",
+   "url": "https://law.justia.com/codes/massachusetts/part-i/title-xvii/chapter-123/section-16/",
+   "note": "Commitment after a lack-of-criminal-responsibility verdict"
+  },
+  {
+   "label": "Massachusetts Superior Court model instruction 9.200",
+   "url": "https://www.mass.gov/doc/9200-lack-of-criminal-responsibility/download",
+   "note": "Lack of criminal responsibility"
+  },
+  {
+   "label": "Patrick Clancy's January 2023 statement (GoFundMe)",
+   "url": "https://www.gofundme.com/f/patrick-clancy-donations",
+   "note": ""
+  },
+  {
+   "label": "Press Freedom Tracker: New Yorker subpoena",
+   "url": "https://pressfreedomtracker.us/all-incidents/new-yorker-writer-subpoenaed-ahead-of-massachusetts-murder-trial/",
+   "note": "Procedural history of the 2025 subpoena fight"
+  },
+  {
+   "label": "Wikipedia: Killing of the Clancy children",
+   "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+   "note": "Secondary overview; check its citations"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+name: Hourly update
+
+on:
+  schedule:
+    # Every hour at :17 UTC (off the top of the hour, where GitHub's cron queue is most delayed).
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: hourly-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch feeds and merge archive
+        run: python3 scripts/update.py
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "clancy-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "data: hourly update $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && break
+            sleep 5
+          done
+
+      # GitHub disables scheduled workflows after 60 days without repo activity.
+      # Bot commits don't count, so this re-enables the workflow via the API each run.
+      - name: Keep the schedule alive
+        uses: gautamkrishnar/keepalive-workflow@v2
+        with:
+          use_api: true

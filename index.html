@@ -1,0 +1,390 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Clancy Case Tracker</title>
+<meta name="description" content="A neutral, sourced, hourly-updated reference for Commonwealth v. Lindsay Clancy (Plymouth County Superior Court, Massachusetts): status, timeline, coverage, people, legal explainer, and how to follow the case.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%23334155'/><path d='M30 52 l14 14 l28 -30' stroke='white' stroke-width='10' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+<style>
+  :root{
+    --bg:#f7f7f5; --panel:#ffffff; --ink:#1a1d23; --muted:#5b6270; --line:#e3e5e9;
+    --accent:#2f4f7f; --accent-ink:#ffffff; --soft:#eef2f8; --warn:#8a5a00; --warn-bg:#fff6e0;
+    --ok:#1f6f43; --ok-bg:#e6f4ea; --bad:#9b2c2c; --bad-bg:#fdecec; --chip:#eceef2;
+    --radius:10px; --maxw:1120px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#111317; --panel:#181b21; --ink:#e7e9ee; --muted:#9aa3b2; --line:#2a2f38;
+      --accent:#8fb0e0; --accent-ink:#0f1a2b; --soft:#1e2531; --warn:#e2b45a; --warn-bg:#2b2412;
+      --ok:#7fd1a0; --ok-bg:#12291b; --bad:#f19b9b; --bad-bg:#2e1616; --chip:#232833;
+    }
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+  h1,h2,h3,h4{line-height:1.2;margin:0 0 .4em;font-weight:650;letter-spacing:-.01em}
+  h1{font-size:1.65rem}
+  h2{font-size:1.35rem;margin-top:0}
+  h3{font-size:1.05rem}
+  p{margin:.3em 0 .8em}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 18px}
+  header.top{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line)}
+  .topbar{display:flex;align-items:center;gap:14px;padding:10px 0;flex-wrap:wrap}
+  .brand{display:flex;align-items:baseline;gap:10px;margin-right:auto}
+  .brand b{font-size:1.05rem}
+  .brand span{color:var(--muted);font-size:.85rem}
+  .fresh{font-size:.82rem;color:var(--muted);display:flex;align-items:center;gap:8px}
+  .dot{width:9px;height:9px;border-radius:50%;background:var(--ok);display:inline-block}
+  .dot.stale{background:var(--warn)} .dot.bad{background:var(--bad)}
+  nav.sections{display:flex;gap:4px;overflow-x:auto;padding:0 0 8px;scrollbar-width:none}
+  nav.sections::-webkit-scrollbar{display:none}
+  nav.sections a{white-space:nowrap;padding:5px 10px;border-radius:999px;font-size:.86rem;color:var(--ink);background:transparent}
+  nav.sections a:hover{background:var(--chip);text-decoration:none}
+  nav.sections a.active{background:var(--accent);color:var(--accent-ink)}
+  main{padding:22px 0 60px}
+  section.block{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:20px 22px;margin:0 0 18px;scroll-margin-top:110px}
+  .grid2{display:grid;grid-template-columns:1.2fr .8fr;gap:18px}
+  @media (max-width:860px){.grid2{grid-template-columns:1fr}}
+  .muted{color:var(--muted)}
+  .small{font-size:.85rem}
+  .tiny{font-size:.78rem}
+  .chip{display:inline-block;background:var(--chip);border-radius:999px;padding:2px 9px;font-size:.76rem;color:var(--ink);margin:0 4px 4px 0;white-space:nowrap}
+  .chip.kind-video{background:var(--soft)}
+  .chip.kind-discussion{background:var(--warn-bg);color:var(--warn)}
+  .callout{border-left:4px solid var(--accent);background:var(--soft);padding:12px 14px;border-radius:6px;margin:8px 0 14px}
+  .callout.warn{border-color:var(--warn);background:var(--warn-bg)}
+  .status-head{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:6px}
+  .phase{background:var(--accent);color:var(--accent-ink);border-radius:6px;padding:3px 9px;font-size:.8rem;font-weight:600;letter-spacing:.02em;text-transform:uppercase}
+  .facts{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:10px;margin-top:8px}
+  .fact{background:var(--soft);border-radius:8px;padding:10px 12px}
+  .fact .k{font-size:.74rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+  .fact .v{font-weight:600;margin-top:2px}
+  .fact .s{font-size:.74rem}
+  ul.clean{list-style:none;padding:0;margin:0}
+  .item{display:grid;grid-template-columns:78px 1fr;gap:12px;padding:10px 0;border-top:1px solid var(--line)}
+  .item:first-child{border-top:0}
+  .item time{color:var(--muted);font-size:.8rem;padding-top:2px;line-height:1.35}
+  .item .t{font-weight:560}
+  .item .t a{color:var(--ink)}
+  .item .meta{font-size:.8rem;color:var(--muted);margin-top:2px}
+  .item .sum{font-size:.88rem;color:var(--muted);margin-top:3px}
+  .new{display:inline-block;background:var(--ok-bg);color:var(--ok);border-radius:4px;font-size:.68rem;padding:1px 5px;margin-left:6px;vertical-align:middle;font-weight:700;letter-spacing:.04em}
+  .dayhead{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:18px 0 4px;padding-bottom:4px;border-bottom:2px solid var(--line)}
+  .toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:6px 0 10px}
+  .toolbar input[type=search],.toolbar select{font:inherit;font-size:.9rem;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);min-width:0}
+  .toolbar input[type=search]{flex:1 1 220px}
+  .tabs{display:flex;gap:4px;flex-wrap:wrap}
+  .tabs button,.btn{font:inherit;font-size:.86rem;padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:var(--panel);color:var(--ink);cursor:pointer}
+  .tabs button.active{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+  .btn:hover{background:var(--chip)}
+  .tl{position:relative;margin:12px 0 0;padding:0 0 0 22px;list-style:none;border-left:2px solid var(--line)}
+  .tl li{position:relative;padding:0 0 18px}
+  .tl li::before{content:"";position:absolute;left:-28px;top:7px;width:10px;height:10px;border-radius:50%;background:var(--accent);border:2px solid var(--panel)}
+  .tl li.lowconf::before{background:var(--warn)}
+  .tl .d{font-size:.8rem;color:var(--muted);letter-spacing:.02em}
+  .tl .h{font-weight:620;margin:2px 0}
+  .tl .b{font-size:.93rem}
+  .tl .src{font-size:.78rem;margin-top:4px}
+  .tl .src a{margin-right:8px}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+  .card{background:var(--soft);border-radius:8px;padding:12px 14px}
+  .card .n{font-weight:620}
+  .card .r{font-size:.8rem;color:var(--muted)}
+  .card .note{font-size:.88rem;margin-top:6px}
+  .card .src{font-size:.76rem;margin-top:6px}
+  .grp{margin:16px 0 6px;font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+  .prose{max-width:74ch}
+  .prose h3{margin-top:18px}
+  .prose ul{padding-left:20px}
+  .prose li{margin:3px 0}
+  table{border-collapse:collapse;width:100%;font-size:.9rem}
+  th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{font-size:.76rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:600}
+  .tablewrap{overflow-x:auto}
+  .ok{color:var(--ok)} .bad{color:var(--bad)}
+  details{border:1px solid var(--line);border-radius:8px;padding:8px 12px;margin:8px 0}
+  summary{cursor:pointer;font-weight:600}
+  footer{color:var(--muted);font-size:.82rem;padding:20px 0 40px;border-top:1px solid var(--line)}
+  .skeleton{color:var(--muted);font-style:italic}
+  .errbox{background:var(--bad-bg);color:var(--bad);padding:10px 12px;border-radius:8px}
+  .vid{display:grid;grid-template-columns:120px 1fr;gap:12px;padding:10px 0;border-top:1px solid var(--line)}
+  .vid:first-child{border-top:0}
+  .vid img{width:120px;aspect-ratio:16/9;object-fit:cover;border-radius:6px;background:var(--chip)}
+  .count{color:var(--muted);font-weight:400;font-size:.85rem;margin-left:6px}
+  .flex{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .sr{position:absolute;left:-9999px}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="topbar">
+      <div class="brand"><b>Clancy Case Tracker</b><span>Commonwealth v. Lindsay Clancy · Plymouth County Superior Court, Massachusetts</span></div>
+      <div class="fresh" id="fresh"><span class="dot" id="freshdot"></span><span id="freshtext">Loading…</span></div>
+    </div>
+    <nav class="sections" id="nav" aria-label="Sections">
+      <a href="#now">Now</a><a href="#coverage">Coverage</a><a href="#timeline">Timeline</a><a href="#video">Video</a><a href="#people">People</a><a href="#legal">Legal</a><a href="#court">Court &amp; how to follow</a><a href="#sources">Sources</a><a href="#about">About</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="block" id="now">
+    <div class="grid2">
+      <div>
+        <div class="status-head"><span class="phase" id="phase">…</span><span class="small muted" id="curated">Curated as of …</span></div>
+        <h1 id="status-headline" class="skeleton">Loading case status…</h1>
+        <div id="status-summary" class="prose"></div>
+        <div class="callout" id="next-event" hidden></div>
+        <div class="small" id="status-sources"></div>
+      </div>
+      <div>
+        <h3>Latest headlines <span class="count" id="latest-count"></span></h3>
+        <ul class="clean" id="latest"></ul>
+        <p class="small"><a href="#coverage">All coverage →</a></p>
+      </div>
+    </div>
+    <div class="facts" id="facts"></div>
+  </section>
+
+  <section class="block" id="coverage">
+    <h2>Coverage <span class="count" id="coverage-count"></span></h2>
+    <p class="small muted">Automatically collected every hour from public news feeds. Items are shown as published by their outlets and are not edited. Times are Eastern (court time).</p>
+    <div class="toolbar">
+      <input type="search" id="q" placeholder="Search headlines and summaries…" aria-label="Search coverage">
+      <select id="range" aria-label="Time range">
+        <option value="1">Last 24 hours</option>
+        <option value="3">Last 3 days</option>
+        <option value="7">Last 7 days</option>
+        <option value="30">Last 30 days</option>
+        <option value="0" selected>All time</option>
+      </select>
+      <select id="srcsel" aria-label="Outlet"><option value="">All outlets</option></select>
+      <div class="tabs" id="kindtabs">
+        <button data-kind="news" class="active">News</button>
+        <button data-kind="video">Video</button>
+        <button data-kind="discussion">Discussion</button>
+      </div>
+    </div>
+    <div id="disc-note" class="callout warn small" hidden>Discussion threads are public forum posts, not journalism. They are included for completeness and are labelled as such. Treat claims there as unverified.</div>
+    <ul class="clean" id="list"></ul>
+    <p><button class="btn" id="more" hidden>Show more</button></p>
+  </section>
+
+  <section class="block" id="timeline">
+    <h2>Timeline <span class="count" id="tl-count"></span></h2>
+    <p class="small muted">Curated, dated, and sourced. Amber markers indicate entries where reporting was thinner or dates are approximate. Charges are alleged unless a verdict says otherwise.</p>
+    <div class="tabs" id="phasetabs"></div>
+    <ol class="tl" id="tl"></ol>
+  </section>
+
+  <section class="block" id="video">
+    <h2>Video &amp; hearing footage <span class="count" id="video-count"></span></h2>
+    <p class="small muted">Segments and streams from the outlets that cover the case, pulled from their YouTube channel feeds and filtered to items that mention the case.</p>
+    <div id="vids"></div>
+    <p><button class="btn" id="vmore" hidden>Show more</button></p>
+  </section>
+
+  <section class="block" id="people">
+    <h2>People</h2>
+    <div id="people-list"></div>
+  </section>
+
+  <section class="block" id="legal">
+    <h2>Legal explainer</h2>
+    <div class="prose" id="legal-body"></div>
+  </section>
+
+  <section class="block" id="court">
+    <h2>Court &amp; how to follow</h2>
+    <div class="grid2">
+      <div class="prose" id="court-body"></div>
+      <div>
+        <h3>Follow the case</h3>
+        <ul id="follow" class="clean"></ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="sources">
+    <h2>Sources &amp; feed health</h2>
+    <p class="small muted">What the hourly job pulled on its last run. A failed optional source (such as Reddit, which rate-limits automated readers) does not affect the rest.</p>
+    <div class="tablewrap"><table id="health"><thead><tr><th>Source</th><th>Type</th><th>Last run</th><th>Items</th></tr></thead><tbody></tbody></table></div>
+    <h3 style="margin-top:18px">Primary sources &amp; documents</h3>
+    <ul id="primary" class="clean small"></ul>
+  </section>
+
+  <section class="block" id="about">
+    <h2>About this site</h2>
+    <div class="prose">
+      <p>This is an independent, non-commercial reference page. It is not affiliated with any court, party, law firm, or news organization. It has no ads, no accounts, no cookies, and no analytics.</p>
+      <p><b>How it stays current.</b> A scheduled job runs every hour, pulls public news and video feeds, keeps only items that mention the case, removes duplicates, and appends them to an archive. The "updated" indicator at the top reflects the last successful run. The curated sections (status, timeline, people, legal, court) are reviewed and updated by hand and carry their own "curated as of" date so you can always tell the two layers apart.</p>
+      <p><b>Objectivity.</b> Lindsay Clancy is presumed innocent of the charges unless and until a jury returns a verdict, and this page uses "alleged" and "charged with" accordingly. Where the prosecution and defense disagree, both positions are described as what each side asserts, with sources. Nothing here is legal advice or medical advice.</p>
+      <p><b>Sensitivity.</b> This case involves the deaths of three young children. The page avoids graphic detail beyond what is necessary to understand the charges and the evidence described in open court.</p>
+      <p><b>Corrections.</b> If something is wrong or missing, <a id="issues" href="#" rel="noopener">open an issue on the repository</a> with the entry, the problem, and a source. <span id="repo-link"></span></p>
+      <p><b>If you need help.</b> Postpartum Support International: 1-800-944-4773 (call or text "HELP" to 800-944-4773). 988 Suicide &amp; Crisis Lifeline: call or text 988 (US).</p>
+    </div>
+  </section>
+
+  <footer>
+    <div>Data sources: Google News, Bing News, YouTube channel feeds, Reddit (best effort). Headlines and summaries belong to their publishers. Built with plain HTML and a Python script; hosted on GitHub Pages.</div>
+    <div id="footer-stats" class="tiny" style="margin-top:6px"></div>
+  </footer>
+</main>
+
+<script>
+(function(){
+  const $ = s => document.querySelector(s);
+  const ET = 'America/New_York';
+  const fmtDT = new Intl.DateTimeFormat('en-US',{timeZone:ET,month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
+  const fmtT = new Intl.DateTimeFormat('en-US',{timeZone:ET,hour:'numeric',minute:'2-digit'});
+  const fmtDay = new Intl.DateTimeFormat('en-US',{timeZone:ET,weekday:'long',month:'long',day:'numeric',year:'numeric'});
+  const fmtDayShort = new Intl.DateTimeFormat('en-US',{timeZone:ET,month:'short',day:'numeric',year:'numeric'});
+  const dayKey = new Intl.DateTimeFormat('en-CA',{timeZone:ET,year:'numeric',month:'2-digit',day:'2-digit'});
+  const esc = s => String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const rel = iso => { const ms = Date.now()-new Date(iso).getTime(); const m=Math.round(ms/60000); if(m<1) return 'just now'; if(m<60) return m+' min ago'; const h=Math.round(m/60); if(h<48) return h+' h ago'; return Math.round(h/24)+' days ago'; };
+  const isNew = it => it.first_seen && (Date.now()-new Date(it.first_seen).getTime()) < 24*3600e3;
+  // Minimal markdown: paragraphs, "- " bullets, "### " headings, **bold**, *em*, [text](url). Input is escaped first.
+  function md(src){
+    if(!src) return '';
+    const inl = s => esc(s)
+      .replace(/\*\*(.+?)\*\*/g,'<b>$1</b>')
+      .replace(/(^|[^*])\*([^*\n]+)\*/g,'$1<i>$2</i>')
+      .replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>');
+    const out=[]; let list=null, para=[];
+    const flushP=()=>{ if(para.length){ out.push('<p>'+inl(para.join(' '))+'</p>'); para=[]; } };
+    const flushL=()=>{ if(list){ out.push('<ul>'+list.join('')+'</ul>'); list=null; } };
+    for(const raw of src.split('\n')){
+      const line=raw.trimEnd();
+      if(/^###\s/.test(line)){ flushP(); flushL(); out.push('<h3>'+inl(line.replace(/^###\s/,''))+'</h3>'); }
+      else if(/^-\s/.test(line)){ flushP(); (list=list||[]).push('<li>'+inl(line.replace(/^-\s/,''))+'</li>'); }
+      else if(line===''){ flushP(); flushL(); }
+      else { flushL(); para.push(line); }
+    }
+    flushP(); flushL(); return out.join('');
+  }
+  const srcLinks = arr => (arr||[]).map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label||s.url.replace(/^https?:\/\/(www\.)?/,'').split('/')[0])}</a>`).join(' · ');
+
+  async function getJSON(p){ const r = await fetch(p+'?t='+Math.floor(Date.now()/60000),{cache:'no-store'}); if(!r.ok) throw new Error(p+' '+r.status); return r.json(); }
+
+  let ARTICLES=[], VIDEOS=[], DISC=[], CASE=null, STATUS=null;
+  const state={kind:'news', q:'', range:0, src:'', shown:60, vshown:24, phase:''};
+
+  function renderFresh(){
+    if(!STATUS){ $('#freshtext').textContent='Feed status unavailable'; $('#freshdot').className='dot bad'; return; }
+    const age=(Date.now()-new Date(STATUS.generated).getTime())/3600e3;
+    $('#freshdot').className='dot'+(age>3?(age>12?' bad':' stale'):'');
+    $('#freshtext').innerHTML=`Feeds updated <b>${esc(rel(STATUS.generated))}</b> (${esc(fmtDT.format(new Date(STATUS.generated)))} ET)`+(age>3?' · <span class="muted">later than usual</span>':'');
+    const tb=$('#health tbody'); tb.innerHTML='';
+    for(const s of STATUS.sources||[]){
+      tb.insertAdjacentHTML('beforeend',`<tr><td>${esc(s.label)}</td><td>${esc(s.kind)}</td><td class="${s.ok?'ok':'bad'}">${s.ok?'OK':'failed'}${s.error?` <span class="tiny muted">${esc(s.error.slice(0,60))}</span>`:''}</td><td>${s.items}</td></tr>`);
+    }
+    const t=STATUS.totals||{};
+    $('#footer-stats').textContent=`Archive: ${t.articles||0} articles · ${t.videos||0} videos · ${t.discussion||0} discussion threads · ${STATUS.runs||0} hourly runs recorded.`;
+  }
+
+  function renderStatus(){
+    if(!CASE){ $('#status-headline').textContent='Case summary unavailable.'; return; }
+    const st=CASE.status||{};
+    $('#phase').textContent=st.phase||'Status';
+    $('#curated').textContent='Curated as of '+fmtDayShort.format(new Date(CASE.curated_at));
+    $('#status-headline').className=''; $('#status-headline').textContent=st.headline||'';
+    $('#status-summary').innerHTML=md(st.summary||'');
+    if(st.next_event){ const n=st.next_event; $('#next-event').hidden=false; $('#next-event').innerHTML=`<b>Next:</b> ${esc(n.what)}${n.date?` <span class="muted">· ${esc(n.date)}</span>`:''}${n.note?`<div class="small muted">${md(n.note).replace(/^<p>|<\/p>$/g,'')}</div>`:''}`; }
+    $('#status-sources').innerHTML=st.sources&&st.sources.length?'Sources: '+srcLinks(st.sources):'';
+    $('#facts').innerHTML=(CASE.quick_facts||[]).map(f=>`<div class="fact"><div class="k">${esc(f.label)}</div><div class="v">${esc(f.value)}</div>${f.source?`<div class="s"><a href="${esc(f.source)}" target="_blank" rel="noopener">source</a></div>`:''}</div>`).join('');
+    // Legal
+    $('#legal-body').innerHTML=(CASE.legal||[]).map(sec=>`<h3>${esc(sec.title)}</h3>${md(sec.body)}${sec.sources&&sec.sources.length?`<p class="small">Sources: ${srcLinks(sec.sources)}</p>`:''}`).join('');
+    // Court
+    $('#court-body').innerHTML=md((CASE.court||{}).body||'');
+    $('#follow').innerHTML=(CASE.follow||[]).map(f=>`<li style="padding:6px 0;border-top:1px solid var(--line)"><a href="${esc(f.url)}" target="_blank" rel="noopener"><b>${esc(f.label)}</b></a>${f.note?`<div class="small muted">${esc(f.note)}</div>`:''}</li>`).join('');
+    $('#primary').innerHTML=(CASE.primary_sources||[]).map(f=>`<li style="padding:5px 0;border-top:1px solid var(--line)"><a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.label)}</a>${f.note?` <span class="muted">— ${esc(f.note)}</span>`:''}</li>`).join('');
+    // People
+    const groups={}; for(const p of CASE.people||[]){ (groups[p.group||'Other']=groups[p.group||'Other']||[]).push(p); }
+    $('#people-list').innerHTML=Object.entries(groups).map(([g,ps])=>`<div class="grp">${esc(g)}</div><div class="cards">${ps.map(p=>`<div class="card"><div class="n">${esc(p.name)}</div><div class="r">${esc(p.role)}</div>${p.note?`<div class="note">${md(p.note).replace(/^<p>|<\/p>$/g,'')}</div>`:''}${p.sources&&p.sources.length?`<div class="src">${srcLinks(p.sources)}</div>`:''}</div>`).join('')}</div>`).join('');
+    // Repo links
+    if(CASE.repo){ $('#issues').href=CASE.repo+'/issues'; $('#repo-link').innerHTML=`Source code: <a href="${esc(CASE.repo)}" target="_blank" rel="noopener">${esc(CASE.repo.replace(/^https?:\/\//,''))}</a>.`; }
+    renderTimeline();
+  }
+
+  function renderTimeline(){
+    const tl=(CASE.timeline||[]).slice().sort((a,b)=>a.date<b.date?1:-1);
+    const phases=[...new Set(tl.map(t=>t.phase).filter(Boolean))];
+    const pt=$('#phasetabs'); pt.innerHTML=`<button data-p="" class="${state.phase?'':'active'}">All</button>`+phases.map(p=>`<button data-p="${esc(p)}" class="${state.phase===p?'active':''}">${esc(p)}</button>`).join('');
+    pt.onclick=e=>{ const b=e.target.closest('button'); if(!b) return; state.phase=b.dataset.p; renderTimeline(); };
+    const rows=tl.filter(t=>!state.phase||t.phase===state.phase);
+    $('#tl-count').textContent=rows.length+' entries';
+    $('#tl').innerHTML=rows.map(t=>`<li class="${t.confidence==='low'||t.confidence==='medium'?'lowconf':''}"><div class="d">${esc(fmtDate(t.date))}${t.phase?` · ${esc(t.phase)}`:''}</div><div class="h">${esc(t.title)}</div><div class="b">${md(t.body).replace(/^<p>|<\/p>$/g,'')}</div>${t.sources&&t.sources.length?`<div class="src">${srcLinks(t.sources)}</div>`:''}</li>`).join('');
+  }
+  function fmtDate(d){ if(!d) return ''; if(/^\d{4}-\d{2}-\d{2}$/.test(d)){ const [y,m,dd]=d.split('-').map(Number); return new Date(Date.UTC(y,m-1,dd,12)).toLocaleDateString('en-US',{timeZone:'UTC',year:'numeric',month:'long',day:'numeric'}); } if(/^\d{4}-\d{2}$/.test(d)){ const [y,m]=d.split('-').map(Number); return new Date(Date.UTC(y,m-1,15)).toLocaleDateString('en-US',{timeZone:'UTC',year:'numeric',month:'long'}); } return d; }
+
+  function pool(){ return state.kind==='video'?VIDEOS:state.kind==='discussion'?DISC:ARTICLES; }
+  function filtered(){
+    const q=state.q.trim().toLowerCase(); const cutoff=state.range?Date.now()-state.range*86400e3:0;
+    return pool().filter(it=>(!cutoff||new Date(it.published).getTime()>=cutoff)&&(!state.src||it.source===state.src)&&(!q||(it.title+' '+(it.summary||'')+' '+it.source).toLowerCase().includes(q)));
+  }
+  function renderSources(){
+    const c={}; for(const it of pool()) c[it.source]=(c[it.source]||0)+1;
+    const top=Object.entries(c).sort((a,b)=>b[1]-a[1]);
+    $('#srcsel').innerHTML='<option value="">All outlets</option>'+top.map(([s,n])=>`<option value="${esc(s)}" ${state.src===s?'selected':''}>${esc(s)} (${n})</option>`).join('');
+  }
+  function itemHTML(it){
+    const d=new Date(it.published);
+    return `<li class="item"><time datetime="${esc(it.published)}">${esc(fmtT.format(d))}<br><span class="tiny">${esc(fmtDayShort.format(d))}</span></time><div><div class="t"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${isNew(it)?'<span class="new">NEW</span>':''}</div><div class="meta">${esc(it.source)}${it.kind!=='news'?` <span class="chip kind-${esc(it.kind)}">${esc(it.kind)}</span>`:''}</div>${it.summary&&it.kind!=='video'?`<div class="sum">${esc(it.summary.slice(0,220))}${it.summary.length>220?'…':''}</div>`:''}</div></li>`;
+  }
+  function renderList(){
+    const rows=filtered(); const list=$('#list'); list.innerHTML='';
+    $('#coverage-count').textContent=`${rows.length} of ${pool().length}`;
+    $('#disc-note').hidden=state.kind!=='discussion';
+    let lastDay=null;
+    for(const it of rows.slice(0,state.shown)){
+      const k=dayKey.format(new Date(it.published));
+      if(k!==lastDay){ list.insertAdjacentHTML('beforeend',`<li class="dayhead">${esc(fmtDay.format(new Date(it.published)))}</li>`); lastDay=k; }
+      list.insertAdjacentHTML('beforeend',itemHTML(it));
+    }
+    if(!rows.length) list.innerHTML='<li class="muted" style="padding:12px 0">Nothing matches. Try a wider time range or clear the search.</li>';
+    $('#more').hidden=rows.length<=state.shown;
+  }
+  function renderLatest(){
+    const rows=ARTICLES.slice(0,7);
+    $('#latest').innerHTML=rows.map(itemHTML).join('');
+    $('#latest-count').textContent=ARTICLES.length?`newest of ${ARTICLES.length}`:'';
+  }
+  function ytThumb(url){ const m=url.match(/[?&]v=([\w-]{6,})/)||url.match(/youtu\.be\/([\w-]{6,})/); return m?`https://i.ytimg.com/vi/${m[1]}/mqdefault.jpg`:''; }
+  function renderVideos(){
+    const rows=VIDEOS; $('#video-count').textContent=rows.length+' items';
+    $('#vids').innerHTML=rows.slice(0,state.vshown).map(v=>`<div class="vid"><a href="${esc(v.url)}" target="_blank" rel="noopener">${ytThumb(v.url)?`<img loading="lazy" src="${esc(ytThumb(v.url))}" alt="">`:'<div></div>'}</a><div><div class="t"><a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.title)}</a>${isNew(v)?'<span class="new">NEW</span>':''}</div><div class="meta small muted">${esc(v.source)} · ${esc(fmtDT.format(new Date(v.published)))} ET</div></div></div>`).join('')||'<p class="muted">No video items collected yet.</p>';
+    $('#vmore').hidden=rows.length<=state.vshown;
+  }
+
+  // Wiring
+  $('#q').addEventListener('input',e=>{state.q=e.target.value;state.shown=60;renderList();});
+  $('#range').addEventListener('change',e=>{state.range=Number(e.target.value);state.shown=60;renderList();});
+  $('#srcsel').addEventListener('change',e=>{state.src=e.target.value;state.shown=60;renderList();});
+  $('#kindtabs').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;state.kind=b.dataset.kind;state.src='';state.shown=60;[...$('#kindtabs').children].forEach(x=>x.classList.toggle('active',x===b));renderSources();renderList();});
+  $('#more').addEventListener('click',()=>{state.shown+=60;renderList();});
+  $('#vmore').addEventListener('click',()=>{state.vshown+=24;renderVideos();});
+  // Active nav
+  const secs=[...document.querySelectorAll('section.block')];
+  const io=new IntersectionObserver(es=>{ for(const e of es){ if(e.isIntersecting){ document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('active',a.getAttribute('href')==='#'+e.target.id)); } } },{rootMargin:'-40% 0px -55% 0px'});
+  secs.forEach(s=>io.observe(s));
+
+  async function load(){
+    const results=await Promise.allSettled([getJSON('data/status.json'),getJSON('data/articles.json'),getJSON('data/videos.json'),getJSON('data/discussion.json'),getJSON('data/case.json')]);
+    const [st,ar,vi,di,ca]=results.map(r=>r.status==='fulfilled'?r.value:null);
+    STATUS=st; ARTICLES=(ar&&ar.items)||[]; VIDEOS=(vi&&vi.items)||[]; DISC=(di&&di.items)||[]; CASE=ca;
+    renderFresh(); renderStatus(); renderLatest(); renderSources(); renderList(); renderVideos();
+    const failed=results.filter(r=>r.status==='rejected'); if(failed.length){ console.warn('Failed loads',failed.map(f=>String(f.reason))); }
+  }
+  load().catch(e=>{ $('#status-headline').innerHTML=`<span class="errbox">Could not load data: ${esc(e.message)}</span>`; });
+  // Refresh feed data in the background every 15 minutes while the tab is open.
+  setInterval(()=>{ if(document.visibilityState==='visible') load().catch(()=>{}); },15*60e3);
+})();
+</script>
+</body>
+</html>
