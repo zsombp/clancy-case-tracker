@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-04T16:55:43Z",
-"runs":2,
+"generated":"2026-09-04T19:39:58Z",
+"runs":3,
 "added":{
-"articles":24,
-"videos":1,
-"discussion":21
+"articles":119,
+"videos":28,
+"discussion":22
 },
 "totals":{
-"articles":376,
-"videos":46,
-"discussion":41
+"articles":495,
+"videos":74,
+"discussion":63
 },
 "sources":[
 {
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":92,
+"items":91,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":27,
+"items":28,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":97,
+"items":92,
 "error":null
 },
 {
@@ -49,16 +49,16 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":46,
+"items":52,
 "error":null
 },
 {
 "id":"bing-name",
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
-"ok":true,
-"items":12,
-"error":null
+"ok":false,
+"items":0,
+"error":"not well-formed (invalid token): line 1, column 41"
 },
 {
 "id":"bing-duxbury",
@@ -73,7 +73,7 @@
 "label":"YouTube: WCVB",
 "kind":"youtube",
 "ok":true,
-"items":12,
+"items":13,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":10,
+"items":13,
 "error":null
 },
 {
@@ -105,7 +105,7 @@
 "label":"YouTube: Court TV",
 "kind":"youtube",
 "ok":true,
-"items":11,
+"items":13,
 "error":null
 },
 {
@@ -113,7 +113,7 @@
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
 "ok":true,
-"items":2,
+"items":3,
 "error":null
 },
 {
@@ -129,7 +129,7 @@
 "label":"YouTube: NBC News",
 "kind":"youtube",
 "ok":true,
-"items":4,
+"items":7,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":23,
+"items":22,
 "error":null
 },
 {
@@ -167,6 +167,11 @@
 "at":"2026-09-04T16:55:43Z",
 "added":46,
 "failed_sources":2
+},
+{
+"at":"2026-09-04T19:39:58Z",
+"added":169,
+"failed_sources":3
 }
 ]
 }

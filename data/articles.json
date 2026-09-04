@@ -1,7 +1,733 @@
 {
-"generated":"2026-09-04T16:55:43Z",
-"count":376,
+"generated":"2026-09-04T19:39:58Z",
+"count":495,
 "items":[
+{
+"title":"Live updates: Judge in Lindsay Clancy trial declares mistrial",
+"url":"https://news.google.com/rss/articles/CBMickFVX3lxTE1Fd2JiWE1ucDBCR29tXzhZV0htRExFN3JyMERPeVFidE55M3ZpWGpDb1Q1UXR3blRHWG9SdEVkOXpMYXR2eWxMQ2hoM2ZCaHMwQ2FyVnNpellQODVvd0VTQVdlaGpJQ3JpVlNXMi1DVW9Bdw?oc=5",
+"source":"CNN",
+"host":"news.google.com",
+"published":"2026-09-04T19:34:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy trial declared a mistrial. What happens next?",
+"url":"https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUY5OXV0bVhVM1UxUVNEbUZ6QnI0U2FrS0gtVEk0OW1LSHVtUGJlb0lJa3pFN1R0Wm9RNUNobTcwcnI0MmczcnIwclNlbkVaeWpkX0JPWkU3WGpnVTJkSWd1NWtvcWJPMWphSmhVcDZSWmN3UlVCYXphV2NyWnN2S01rUjdtZHJtYmlWaEt3?oc=5",
+"source":"ABC11 News",
+"host":"news.google.com",
+"published":"2026-09-04T19:26:29Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy murder trial ends in mistrial over deaths of 3 children",
+"url":"https://news.google.com/rss/articles/CBMitwFBVV95cUxPNEVQdDlZZGJGT0Y4RXFaYWJrTk5PSkpCNzRhekdXUTYxMEUwVW50MXZiQ2JpOHlNTGt5X1ZFZEM5OEg0b2lQd2dBdWxJSHpfTzhWVU85TEp3V0cyTENZSllxcWpaaGZLd0NZWVowNWNKeEdLQXBFQlN1S0FGTUdzMzNFSTlhNjVBZ1VLS281RTl2QXd6dlZwd1I2WV9YbVVJVjNFclNEZWlMQlluaFNPdWJ6YjBxdUnSAbwBQVVfeXFMT3dQQjhic3pfaWVocVV2WnRXdkRLeUFoV3FPQTZyNnJoNnlHTlJJN0otS1BocUE3UkhURlUzQTZqdzJPMTczeEJxSDI3NWNJMk12NXBETFpuQTBndU16NFN5MDctWmlabGJJMzFSVXNxWTYwOE1sQ1ZiQnpYTTVVSk1oQWQtbllmUzlLSlpwUFJ1LVNiYmFwemJDUzBhU2l3S2tnT25iVU1VZlphUno0T04yYVRfOHhBQXYxYy0?oc=5",
+"source":"Firstpost",
+"host":"news.google.com",
+"published":"2026-09-04T19:17:42Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Plymouth DA Tim Cruz says ‘no decisions made today’ about Lindsay Clancy retrial",
+"url":"https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlpEUTgyTlhHVTVpTEJGWmwycEZHR3htYU95eTYxUGZpNUM5d0NxOElLNV9xeC1tM3VkTFNfY25TeGZKZ0pDVUF1LVZoTmhVSlI2SEVTYzBmYTNQV1N0bTdMckp3YW1jN1JpWjBwQ1dHZG0ybTA5MGZIQ3FYbkVfYmhxeWllal8tb3hENWdScHh5bGJ5M1NQTmFtQVczTjhhSUF3T1dhS2k0c3JYODdVaWdMSmpseF9lY0cwelNn0gHSAUFVX3lxTE00N3pGMWoxUV8zOFdFYW4tdUs4OGcxUXprTGIyTHMxWmtoZjBxbU5Tc3Uzck13dVpFY1M2bXh4TDhlWFNXZE5qSVRqeUwxczRvZGN2MUliaXZvczcweGM0ZEJnc0k0bzBQWjZMWFhkcFRFdjJjUVZSSnhIWUxzYUQzT3pYQnhDYkxwVWI3cW1VeDNINWU5U0dZdS1RbEhPbWRITHFvZnN6SDFlZ1dvdFdUZDVRNV9YaGJmNW8tSmt0RGZHZWxqYzhOam1IWE51Z1lWdw?oc=5",
+"source":"MassLive",
+"host":"news.google.com",
+"published":"2026-09-04T19:16:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Mistrial declared in Lindsay Clancy triple-murder case. What's next?",
+"url":"https://news.google.com/rss/articles/CBMisgFBVV95cUxQTnljalplNDhJQzBwRWFyVmlfbW93U1hsY2pUeE1zYVBtV0t1b0J3TDlIV1NydHkzMkdVdFdQdzBTdk03SEZHdzN3TjJYU3RHV0hXbGRGMlJRckpOMmdKQjZJaE90T2RLZEVabFdQM1hoTVVSXzFKaTk0amwyM3RDcmJnZ2J1WDZEaHpDeU8xZFF2MG1tZVQxdnl0V0xNNzlQa1pyZmU1cklGR2NjVDMyaWxn?oc=5",
+"source":"USA Today",
+"host":"news.google.com",
+"published":"2026-09-04T19:14:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Judge declares mistrial in Lindsay Clancy case after defense loses bid for delay",
+"url":"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFA0ZkU0YlNTa0tKeHN6cGxKYm9YdVVCMk1rVkNHUGFOUDBSTU9GVUxLd3ZfNXpFV1Z6R3Y4ekNBbmlJb3JvZWpqTmdJY0RiM3ZESTBJaU12MHNZY0hjdXdlZ25PcGRPeExoTHVTU01RUzI1a1JQbERRcXBWc09lRjBzcW5Ia3BhWGhNQU9qVGNZWHBvOUk1dlNOQ2hQS05NMGlibXVEVzhFT01tcWFQbElyOS1BdnpXNHdJ?oc=5",
+"source":"MS NOW",
+"host":"news.google.com",
+"published":"2026-09-04T19:10:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Watch Live: Mistrial declared in Lindsay Clancy triple murder trial",
+"url":"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFRLLUpmbVN4Z2I4NWJ0VHBpYS1POEJrOTF6Qlg3N3BneFJ1UFpuV3BhSklhVEdnVmVYOURJZW13TUo1eXQ2M0JOVW1iRVdwNll0MEs5TGZnUzA2dEZ3OGo5STg0LXpucTFOMEpfMlR0alNkekxleVZENUZFSndja242eDFQZ0pGME1iNXBFRGg1eXdkeVdQZ1cyamo?oc=5",
+"source":"Boston Herald",
+"host":"news.google.com",
+"published":"2026-09-04T19:07:30Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy Mistrial: Jury Deadlock Proves Too Much To Continue Triple-Murder Case, For Now",
+"url":"https://news.google.com/rss/articles/CBMihAFBVV95cUxOU01uazJGNjA0WnhUaUxIazR5RUJFZ0xjY1ZyTXMwemFtanh4Tld4SUlnR056S2wzWGppdUdTckpxN1pwc3JiVFM0azVsX2k4OWdCVzFiSWVkMTdrbDZLdUtCQUlzR3NFU2FJQm1GNF9uOFJQRC1XWExsSXpMazN5QVdvS08?oc=5",
+"source":"Deadline",
+"host":"news.google.com",
+"published":"2026-09-04T19:07:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Psychiatrist calls Clancy's mental state into question in testimony after defense rests",
+"url":"https://news.google.com/rss/articles/CBMipAFBVV95cUxQaWs5b1JtSGpNWEI2N2JhM0hrSExXRlItQlVrWGE0SDZHbnVmc2MwZ25rUmdsNExsY0xESWd0aGVSWEhYSlFEdG9LZlRBOGluME1makdfRm9iT0lBS3ltbjVuUzEzdm15WEcxVlhmelBsUmVUa3ZSRTRqVUIya0lhTFVSaUJXMWpWLU9HTWd3N0t1bmFQZjBDR24yeFN6UUtHSTBFedIBqgFBVV95cUxOYWg2Vkd4WUNmMnA1NC1tX2hZMFFZUVB6QTExOXFJNVI5MUJ2U2gtMGdHMG5SUXhDZFppeHhwbGhIeWZtUUs5cWh2dHdQMW14dmF2cFdROEVqRWpyZ19aZXFMQTBKVlE0Tm8zSENkVUxtY2R3dXc3V1A5R2xGQUhHOWtDN1RDWUh3WVpNUmt0QlJHVEMydW5MeUQ0NnFpNlBXYjhfY01HbjJkUQ?oc=5",
+"source":"ABC News - Breaking News, Latest News and Videos",
+"host":"news.google.com",
+"published":"2026-09-04T19:03:33Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy verdict: Judge declares mistrial",
+"url":"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNE5qQmFrWDlRTnN1NGoyQ3dmdjh4Z3U3VlNQY1kxMU9veVFJakhuUEZkdGFFSnRPMm9xY3ptTWR6YXJlTWxtMGZhaE9VMENNd0JzbFd4RXBxZTVRTE1SZWZRTHgwWEJOMHQ4WVRPZXVDVXg4Yi1Wb3hrLXJPNmdmaXl3aGdZRU9sS2RGcmdpb0VvaHRQRkHSAZsBQVVfeXFMT2t4Nzh6dS1kb2V0SDdMSjVaUTRiZW0tbkhHM3JRb00zbWJOUzB1dVV1bXc1NTZvVEhZaHFVYnlHZ0p6bGpvV1lkOXZXUHJOazhoMzVMRnpyTE1XVWJmLVJYcHA2NFRJOWJDdnhXZlEyV2g5cXh1Mi03eVQzdVVMSlJTdDRfV1pPSU5VVUozVUU3bE14SmZ1WVFSc2M?oc=5",
+"source":"LiveNOW from FOX",
+"host":"news.google.com",
+"published":"2026-09-04T19:00:48Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Mistrial in Lindsay Clancy trial: What's next?",
+"url":"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WWkxaWW1IMWxCZE1TQkV1OHB0UXZYck5qbDN1c1VEN0dWY2Q4elNDZHotcTkxamNZVmtmUFl6MEdjMENCaWdka09hZnJobzRZaUVINWxYVDV0ODRib1HSAWNBVV95cUxNVGxVaFc4SzBZMW9CUURMbzc5OEhzNllRX1JTMUV1ZzN5eHV4UXlwWURsSjVKOEhoRHNjSmRCT1M1a2FtOGpqT0VURnZKZ0FTcXcyVjZYOWgtYkJNMkhXUk5pejQ?oc=5",
+"source":"FOX 5 New York",
+"host":"news.google.com",
+"published":"2026-09-04T19:00:35Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy trial highlights gaps in postpartum psychosis research, experts say",
+"url":"https://news.google.com/rss/articles/CBMingFBVV95cUxQMFJzRHVJUjNkd0dtcTd5dWMtZ1pob0c2S3BEYnI5bHRkZW5XQXk5VXNzQ0FGOTVWS3lzWVM1c2JrVVFXdDMzYlpMc1Bwc1hFVDJUTHRraUM1RnZRVW1LaGc0NXQ1ODQyaFRHUXhMZk9nSllKaU42NU9DYkpjZnNUaXUxMDZ0bFA2ZU51T3ZtZm9LUVNZQl9ySXZhd0lsUQ?oc=5",
+"source":"The Guardian",
+"host":"news.google.com",
+"published":"2026-09-04T19:00:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Judge declares mistrial in Lindsay Clancy case. What happens to her now",
+"url":"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcUJ4NXpud19qV21qOEFBbnVCTld0eW94NFFQZndkckdKOFJuMFVYUmVIeTVEa1kxQVo3N3lzZEJJUTUwZjBGMkdJUC1nYThQSkZpaEJ3VmI0NEJIZnBMTzAyQnVHTjJHQXl6bW1UN1dySWhjNjZyUk9yNGJFNW5XcGVKSUx6QUdpVmgtc3huNER1S1Q3TkdfVGRYNHlEV241ZWhpN1VvT0JqQ1V1dmwyaTFDeUlSUTdPd3V1TGF2aEdqYVF6S1lyU0pheTR4UjJTaTlQTWZORXBoLVFGRDNqN0FwSEJvdmlMMi02Xw?oc=5",
+"source":"The Patriot Ledger",
+"host":"news.google.com",
+"published":"2026-09-04T18:58:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Mistrial declared in Lindsay Clancy murder trial after defense’s appeal unsuccessful",
+"url":"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbmRudk8tdVlaeEpteVRlelBIY2xmRnFwOHNOVEZST2VKS2VnYUVTLWt2cmc3MUpHaFV1T29hb0w3bG53M1luTnNlYkFOdG1wZy05bHhOdGdqMnJHdHZfZTdYZjFhN1hscHRjc0hKMi0xV3JrTThYd3MxOFI2VGQtSlJWMHN5a3FQWHNNZFRUSlpVNk8tQ1RvV1c5a3hzTzFHaE0wNC1pU1IxMmFoWDZvVW1YVTZDbk9xU1pTX2FsLWFkWmhxcl83NEVKWlBoTF9ibkd6OGxnWFpJMnFiY2ZkanJYWTFzeEU?oc=5",
+"source":"Boston 25 News",
+"host":"news.google.com",
+"published":"2026-09-04T18:54:01Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Judge declares mistrial in Lindsay Clancy murder trial after emergency stay denied",
+"url":"https://news.google.com/rss/articles/CBMikwJBVV95cUxPVnc4WGY2ZEZZNl9lTElvbHFZd0s2OUdZWjJTVVpQdzBBWG9MeU9GSDNxcXRhTjFzR3oxaTZpNFM4REl4dEE3VHJTWU1YMDJFdGxaTlJtOW9ndFI5WXVXQW43SE5tYlNfNTNGRXIzLUpNNFlQV1NDTDl1Tml2M1pKT2xYMlY5dVhvT3B0ZmFVaE1PZVBEMzlJcFZlN25yTmxHOXd4QlRhVXZTSG5MQ3ZHcllhUHA4WnlnT2FVTzBGclp5UmdUb0hJWmY5X2pSUF9aMFQwV09UVEREczUzbklqeER5Zy1XNzAzaUFfWktaNTVXTF9xbWRLNkNOMUlRS1hfOHNUSW1LTjhjTTZfWHFjbmkyVQ?oc=5",
+"source":"13wham.com",
+"host":"news.google.com",
+"published":"2026-09-04T18:53:26Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Will Lindsay Clancy be retried? How and when it could happen",
+"url":"https://news.google.com/rss/articles/CBMipAFBVV95cUxNNTJrMVlkbV9veEhZcEFkWlVJcE9zbFNDX0dlcjFQbGkyTm5GYUZkNTFKMERoWXhodkQ5bHBDQmhkRFNYMlF5WVVWUWl0cHhTT3NFRkZ4NDJ3ZTBXS2d6YXVfX2ZveEZWV3QtYnI3MEtMeXZzY2gxQ01aZUxfZ2kyVS1wQXpsa1paQ1Y5NVV0LWVtOGF1X3hISjdKaUgtY1F6VlJHeQ?oc=5",
+"source":"NBC News",
+"host":"news.google.com",
+"published":"2026-09-04T18:53:19Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy: five key moments from ‘America’s saddest murder trial’",
+"url":"https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjdWaENyYzhkc0ZSMFZxMmFRN2luNW5xeVNQOURmdDdqNmZfS0dvaVNxY2NGRGM0RkRCRFJsNTlLbTdBWGtVc2ZWR3VpVHJkVVZoTkR4akhfVDJMdVFsMC14U3VQc3EyLVBUdk5ybDRxeUl6N0pBSjhpS3FyT3dBU0xtUks?oc=5",
+"source":"The Guardian",
+"host":"news.google.com",
+"published":"2026-09-04T18:50:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy judge declares mistrial after failed defense petition to state’s highest court",
+"url":"https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2FzUkdpZHpSV2o1YmlUR1d3czNMRTY0Szh5VWVWVGYwemtlYnZLX2tKellNcFhGamg3RXFqcUFZZ2VTbU1LamJZLWFHRVpoUlg5Qlo1ZzU2NzV1Sk5SYjZLek95cktFSlFYdFYxUVdudG9idDZ6WkFuRDh4bjZxZzJEemZaT3ktZS11Y0NCeUotRlhwS3gydmVDM0d4UWNO?oc=5",
+"source":"Boston.com",
+"host":"news.google.com",
+"published":"2026-09-04T18:48:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Now that a mistrial has been declared, when could a second Lindsay Clancy happen?",
+"url":"https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUxST214Vmc2dDMtLVhRN2ZTY3BQbFVoWGxwOFA5d0xmMkRaOTdXVzg1endUSWVBS3FTUlB0dmcyV0RQdF9tOEp1WkNIWUtGWWdPaFdmdGo1TUdvbUszdlk4cFNnT0sweDYtUUk4NzZxa1N0MUpsR05RaTdoazhIRmVkR3ZtVFduTC14OGV2aE5ZT0V2TEZORTJ30gGiAUFVX3lxTE1LYmlCOVhKOTdVcWZSZzNmME9QUGYwZjV3RjNsd1V3c3pwQk1UZ3dwRHdxY0VtNEtyaFJTa051QWgyaWw1LXZKLUJxN2YzRFM3dGgteUZiZG5SdEZiRVcwclU2RjkxcGZpUDdySEVTWFJ3VW9HVmozREdWS3BrQ0VNYm0xUTJ2SXVGemh2THVDc3pVQjFleS1QWnhJMVAtaGdjUQ?oc=5",
+"source":"NBC Boston",
+"host":"news.google.com",
+"published":"2026-09-04T18:47:45Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Watch: Judge declares mistrial in Lindsay Clancy trial, thanks jury for service",
+"url":"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSElVSGozb1hwclJFWVZ6NFc1MGRYRmNqSXh3STlpZVgzUHcyMUFSTXJBdFN5dTFqVzlUUktXUjVNQXYzT1BqUXZJbUJRUm1TUVRuMkJvTERBWW5IX3VFR3FCbDA3eURfRHNHaVppcnMxTEMyWEpveHlPTWtlTG9DYmh4R3REQ3M1ZXQ3ejBtbTd5RmVCamJnQy1uMzVEZDZCNzV1Vmh6XzFrSzJyYXFvMVVDSFY?oc=5",
+"source":"NBC News",
+"host":"news.google.com",
+"published":"2026-09-04T18:46:01Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Read the emergency request filed by Lindsay Clancy’s defense before mistrial declared",
+"url":"https://news.google.com/rss/articles/CBMifEFVX3lxTE94NGlIX0ZHMy1YSTJvRjhMNjNJdmxhNHlxckdNSXB0YUxnekRXUUVzZ3IzZFhfNFpUV2RyZWh4WnU0NkxnRUpFbkxZdEdVVkFhaHhSNG1RN3hTS2xGV2xfOWhESmg0eDdoZGNacUlzUGpVVUF2S2lrSTBWdHg?oc=5",
+"source":"CNN",
+"host":"news.google.com",
+"published":"2026-09-04T18:41:56Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Clancy mistrial distracts from moms who actually deserve empathy | Opinion",
+"url":"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTJ1aHh3VmNWRFhSeDVmdW9qa3RjLW9FUTNkY1RoOGx2SWU2LW03Z21DOGp1THZZdi1NUkRQclBRaDNuY3FDeUZjUmtfdW5TTk0yTklrSmZxUWhsUnFQYWRSZU02MEhlTWJ5TkVScWRkcTFKdWZEUVNOZHpaMU5KNGRLMnUyYXA3VC02ZE91V2ZVaXJWZ05pUDJ5WXhJTV9xSHlXWUZtaDlpdw?oc=5",
+"source":"USA Today",
+"host":"news.google.com",
+"published":"2026-09-04T18:40:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"I’m a Psychiatrist. Here’s What the Lindsay Clancy Jury Should Have Found.",
+"url":"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jdEdfaUwyc2JWMXJTempCTmpGblIxSEtTSDVkbzhVUkI5Z0s0STVFRnF1NmNqRTRrS2wwSk0wdUFQd2xvSXZXMjd5ME8tRnR5UUdJYzdLRGxiWkJsV3FVS21WLTFibFk?oc=5",
+"source":"thefp.com",
+"host":"news.google.com",
+"published":"2026-09-04T18:39:06Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Mistrial declared in Lindsay Clancy trial",
+"url":"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSE9nTXkza2EtZ2FSSEcyRDFlZHpsUThUdlgtbXpnYklFd1JFNnlONElyZUlNQktZWktzbUhKYlNvbnpJc3diVW9jZ0RucVM1aEJ4dVVRZWFSSVliQ1lwTGI2WHJwUGtCUEo1bDNRUlF3MlkyRWNTYzd3Tkc0VmJaNUxlVlRUWHNveE9tTDNxYw?oc=5",
+"source":"localnewslive.com",
+"host":"news.google.com",
+"published":"2026-09-04T18:39:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"What Happens to Lindsay Clancy Now After Her Trial Ends in a Mistrial?",
+"url":"https://news.google.com/rss/articles/CBMif0FVX3lxTE5keVItMERxV2d5ZnNRbTE1ZGVkMmlsS21ISEI2c0cxeU1hMzU1d2xjUWlmWUpjeXd2ckxOWE5samV1Zm14THA2cHBVRmlVUjY3eVF1Q2tjOFdkd1N2TGZyR0ZPNUlwQ1ZhUHoyYXd0Vy1WVXhPdmxld2VwdjB2WU0?oc=5",
+"source":"people.com",
+"host":"news.google.com",
+"published":"2026-09-04T18:38:51Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Why the Lindsay Clancy Trial Ended in a Deadlock",
+"url":"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFRGT0NwUmQ3NnJsT1ZwMndlMzkzd3lxalpEbGxDZlJhQUVQc25YYVpKdE5DQTFEdWowYVMwM25jRG5URzdrcGNSelJJZDhmYXVubUFseHJfLTdxc3J0S3FsS1RrdVJTZ29XZWhId2tPN04zX0s2QXRacmNXSkw2YmtNTG1WLS1rRW4xemVBSUctdw?oc=5",
+"source":"The New Yorker",
+"host":"news.google.com",
+"published":"2026-09-04T18:38:14Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Mistrial declared in Lindsay Clancy triple-murder trial",
+"url":"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVzdtbFc4QnVMcnVRUDJGQ3NzZHRKcnA4eVpxWDE2VndJLTJCeW1ta1ZacGJwRDhCY2FsSGMtV2VhWjZrT0pEZ1ZWRkp6TWhrQWZzUmo3YWlxcktTeGxqdW11WVkwYWl0cWRWZHlqbHlPMUJVdzdQOEF3NnpmM3UyT0pZZ3VvSVBSMFQ4MGpzb2tVY2hZaW1zVFNDbXU?oc=5",
+"source":"Boston Herald",
+"host":"news.google.com",
+"published":"2026-09-04T18:36:51Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Mistrial formally declared in Lindsay Clancy trial after last-minute appeal is denied",
+"url":"https://news.google.com/rss/articles/CBMixwFBVV95cUxPTXdYUWc4c1RWM2t5SVZLUFh6WHRFcUZYeWxaSmZlYzVrbHA0Nkc4T2NXWnVxbkRTWjBObFRUdHotUVFWdmhIdUVZaVM2eXZ0LXZiLW9xWG9TMkZad19sajB3eG9lT1BTcWtnTWZ4YzU1V0RwYk1QbGpkZmJPZnhPUUhRVGVTVXhnTDlXVlM5TGYxY2EzQTJkVmcyS0xFSjZUNTg1UXNVbVQySkdrWmpYZjlIZTIyUVJZTE9MVTRwT1o4cFRvalBz?oc=5",
+"source":"WGBH",
+"host":"news.google.com",
+"published":"2026-09-04T18:36:14Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Judge declares mistrial in Lindsay Clancy case after jury can’t reach a verdict",
+"url":"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXAwMG85RFc5RXkxSkNhU2FXMzktQzRfS1BtOHZtRTVnYWY4M0loTHhKY25DeW5DbXNwNVZnTkFhRGVYLVhiSGs1Y29hbXNXQ0RzbDZrbmZER2l3RFBOUFpZUmptZ2x6QUdlTFZ6UGFyYktfWlQ2eXRONzNpQXpuRUp6M0lYUjdsbURJVlczT2ZMbm5GeGVLVWNIUlFxclFPRUlESk9BTHNRWDd4ZTlPU3BnUUlOUHltdWZpYVNtLVQ?oc=5",
+"source":"Western Mass News",
+"host":"news.google.com",
+"published":"2026-09-04T18:34:49Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Judge declares mistrial in Clancy case after jurors, with 'heavy heart,' fail to reach verdict",
+"url":"https://news.google.com/rss/articles/CBMijwFBVV95cUxOdC0waHpWWEYwYUt5alRHOUpfVnhkMFIwdEZxUVJNSUpFUks0WTUyOHhsX2J1aUlhWTVUOWNVVUtyWjZPVE95MFNQay1yNDhOd0lfREJCYTZnbVdMNGNyQjRJMUJTYk1PZHpoNnZrVDlHcE5pal9SS3FpWGhkbVNrTEZvYUNrcVI0Tk0tTjNMOA?oc=5",
+"source":"WBUR",
+"host":"news.google.com",
+"published":"2026-09-04T18:34:28Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy Will Be Retried After Hung Jury, Expert Predicts: ‘There Are 3 Dead Children’ (Exclusive)",
+"url":"https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm1aZDJ6OHFvYTdLNVhIWEhxQmtTUzRaZDA2NlZWQk00UFpqM0lXV1hhVHhCVHRuQnF6UjYtM0tQeFZZZkFzbHNxZWZuVERQcXJ5dlZVWTRJYlBmQ0YzR2VUMFltcjFoQl82SGpfZlpVbWtGMzRCTXFvV3FYQy0xTE1sTHN5bWxodll1aGJnLUdKQUd4WXZCRFhlV3YtR0px?oc=5",
+"source":"people.com",
+"host":"news.google.com",
+"published":"2026-09-04T18:33:50Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"The Meaning of the Lindsay Clancy Mistrial",
+"url":"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVXNuaEV3NldEMjhtSVVWTWxnMk9qYThhOWQ4ZDQ0MkxrUG1xV2hWUlVFNW1PMHRveFRldWNOTXV3Q0xMaXhpVm9jc1Uxd2l5Wmt0eEx0SGs2VzZVNU9CVUk2RTlabERmc2JrS0ZEQXNZYmZGN3ptSk9NVWhROUlsbTY0VmF4RGpabTRr?oc=5",
+"source":"The Atlantic",
+"host":"news.google.com",
+"published":"2026-09-04T18:32:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy’s Murder Trial Ended With a Hung Jury. What Now?",
+"url":"https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1owUXYxdWdRM1hTdV9wQnczTVd3T0RESkIxcEF3Q3FYUHlkRUgyQ3F0S3lINUJPX0pFZkh3dDFWSjB1UVZNN19DMllUS1JNcEhYcU16TWlZMzRSX1M2ZGdzblhmcG5CNUJ1bC1KZURhZEJaOTJyMEY4TGlGQ05EYWc4dWFpb0VFeWlwdg?oc=5",
+"source":"The New York Times",
+"host":"news.google.com",
+"published":"2026-09-04T18:31:34Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Mistrial is declared in Lindsay Clancy child killings case after jury deadlocks",
+"url":"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZUZnSUlEY2laT210Tld5c2NrN2FYaTkyUzBSVTVOYUdGRFlQSW5kdk55QUd5ZHlhdXdtOXI1Vk5idTFoaUJOTUYzazUxY0FySWxZT0dkbnF6Vk9QTEpzejByYnRNeWxuT2xmSnFWcHRyTGxtdEY0TWg5WFRWaXBWc1VjcGdBbnUyb0RHeG5tWUVZYjlleVNNRTZWQm9DelZ4M3Y0ZGwyS3lkZ1ZyZEtJYUVpX3Y0VDc4Wkhia3pHM2xsWF9yU0w1djJYT3lJUDY4cVZ0NmdZMHotV1pRVGhVcVBXVF9lUmRmaXd1TTlxMHJWdUJRUkRj?oc=5",
+"source":"wxow.com",
+"host":"news.google.com",
+"published":"2026-09-04T18:31:00Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy’s triple-murder trial ends in a mistrial after jury deadlocks",
+"url":"https://news.google.com/rss/articles/CBMigwFBVV95cUxQaDJWY0pjWEpSUnNnbl8tVVU2MkJZUzZ0QVVudXh5M3lCZDBjNGQ2NU5vNnNTLUZibWo2UHlxdWNiTU9LZG5haTk4LTFfUW1OeG50ZVdRMUZlQWt1bmtMZlZHUEFheXUyR1hJbGVrSjMwajA5QmpjX1RDSnNkd2E4UUJEaw?oc=5",
+"source":"CNN",
+"host":"news.google.com",
+"published":"2026-09-04T18:30:40Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Watch judge declare mistrial in Lindsay Clancy case after jurors can’t reach verdict",
+"url":"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFotTzh3TEI1MnYtS09pb3lmTllSeDZfWXdkSnBTRThUSGpEMURRZzAwUE5wbWtrblFVUkFTcjhSRFJJTjJqY0RVVVpzUFZIVWxuUms0NHcwMktaSG9jTzdMWHNrSGNzS0lXSFpYdzZpbjlUaDlsX25BTWUtbFJzaXpTWmxzQ3A3?oc=5",
+"source":"CNN",
+"host":"news.google.com",
+"published":"2026-09-04T18:30:14Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"After Lindsay Clancy mistrial, what happens next?",
+"url":"https://news.google.com/rss/articles/CBMie0FVX3lxTFB4N2l6THVEdG1IVWx6NGhtbWFFLTh3cjhDNDJ5dEhwLTF4eVJfT1dMT0h6WmdHdmMyenA2R2U0cnE5dG8wSFgxQ09XYUhFZlUzU0JTX1dJMkNKVzJwY0NIQXB1S0w3eVJ5SkJiQmlpWTJScmlVZ0hSMEJFRQ?oc=5",
+"source":"CBS News",
+"host":"news.google.com",
+"published":"2026-09-04T18:29:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy mistrial: Judge declares mistrial after SJC denies defense's request for relief",
+"url":"https://news.google.com/rss/articles/CBMid0FVX3lxTE1GOGNuQWU0Z05PSDhyRVhMZ1QzdFVwOTRkdFBwUUNFcXE3QjdySWJieDhRZFAwR3ZOa2hucUNBRFoyeWppa3paNkp2S0pNXzBIWVpEWTJiZEMyZWR1aGlHRVR0RWk4N1ItY3J6dmpteUw2ajEwNFRn?oc=5",
+"source":"WCVB",
+"host":"news.google.com",
+"published":"2026-09-04T18:29:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Opinion | The Lindsay Clancy Jury Had an Impossible Task",
+"url":"https://news.google.com/rss/articles/CBMid0FVX3lxTE5CSjRfNGEtUkg0QlJGZTVIbThxX2dPYkx3TzZxOXY3R2hZbkFablJVRndIWmpVSXVsckxoampreHJlVzVZTGZoMnMyaTd3alpMMzVjbDZhUXN5UFFHeHJlYXpyWjQ0TzJJLVBPVTkteU0xcUluS3pj?oc=5",
+"source":"The New York Times",
+"host":"news.google.com",
+"published":"2026-09-04T18:27:02Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"The judge has declared a mistrial in the Lindsay Clancy case. Here’s what happens next",
+"url":"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTBSOVc4YWpIc2owamhZQ2dqaUI4b1M5emN2WHJNdk1abmlJTnJOc0F1QS1KU2w5WkxpbGJOZTBkYmhxRFRWMjlpaHpyakh2SW02blVnVm41OEwxZXl1aDhReVFwd3piYlNhSG1sbndGV0dxNUd2NG5qVVBvZ0ZjSFE4YWtRcWVmQzRR?oc=5",
+"source":"The Boston Globe",
+"host":"news.google.com",
+"published":"2026-09-04T18:26:45Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy’s Trial Is Over",
+"url":"https://news.google.com/rss/articles/CBMiggFBVV95cUxOd1pPeWVCLW9PbVJzQkQ1T0ZfU3dQTUpfWjNSVHo0OThQUUlBQjl2MjE1Si1zbXd4Q0xqdHFrV3pMZW9BZVBkTkJSbFRveGI1OHZ1bVBzb2ROcDdCaUxRRy1oUFFFZEp0TFp2Qm5OcVVMSWp2clNZQ1I1VkJ6bGlJOTZ3?oc=5",
+"source":"The Cut",
+"host":"news.google.com",
+"published":"2026-09-04T18:25:43Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Here's what the mistrial means for Lindsay Clancy and her trial over the killings of her three children",
+"url":"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEdRcEdNWkR3MEZvQTBXVmQxcmdLTFJhUGhZWU40ZHhXMUxkZjhkLUR5ekpCaGFkSlA3Vi01bGNQUWdHWDNZQlRtSVhSRDBsekRIYk5ScEpXNEowU1NaSkxJY0VkNEdUWGQwVG5TV01lb3JfWjBRMWZHeGkydUF6dWxZSmpZTmlDSDhEVEVQZWdBWE9iOWdqX1k4Vk1zc1FCdWdoaW1vbERWQnAxUFpKR3lnQ3VNN3V6RElyWDdFYThfeG9LQS1FQnRsTHFNMnVw?oc=5",
+"source":"kare11.com",
+"host":"news.google.com",
+"published":"2026-09-04T18:25:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Here's what the mistrial means for Lindsay Clancy and her trial over the killings of her three children",
+"url":"https://news.google.com/rss/articles/CBMizwFBVV95cUxQMkk3RTRrVkdhS2w0QzI4ZXhudElFMm1QNlZSaGtVTUZRaVU4bU5na2VlUk5DclBDdmpfRTRTYjhkVFIwT3dqWHVibVo2RjFTMXRNU1hWUUQ2S1pOeTRJRHUtT2xfT3dWVm9USF96LUVRR1dIeHpFcEFGMFhYZkN1OWpBRDFtRnlQMnVfZXdKMXpzVE9hbGRkY2ZzS0NRTnlvT2s3TWRiRk9tZjQxT3Z2RC0yUzFDTGk3MTc3cy1EM1c2VDRPOUV4Qmo1TFBIdlk?oc=5",
+"source":"fox61.com",
+"host":"news.google.com",
+"published":"2026-09-04T18:25:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy murder trial officially ends in mistrial after lawyer’s Hail Mary appeal denied",
+"url":"https://news.google.com/rss/articles/CBMizAFBVV95cUxONTBySVM1YUduMzVrZzE2NzNldTlsOHhiU2JXRG9qTkl2ejZXNXBwVWI5S1ZoUHI2Tks0SDAza1lzWUt0V055ZS1FRTZtZnFYYlhrcGhTeWhzWDg1ZjVmdlR4YmtpdVQ2RG4ycTdwcEF0V3k3OGVYRVl4SXpnVVNvaWI4Q0ZydzZxT3BuaDdfZXVoSzFrU04yOFVKOENHcXFuZzNNcnp1Ml84ekFDSWRTbXpFU1ZkVGNWalF3RXBreVNfcmJWUGV6bEJxV3U?oc=5",
+"source":"New York Post",
+"host":"news.google.com",
+"published":"2026-09-04T18:25:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Here's what the mistrial means for Lindsay Clancy and her trial over the killings of her three children",
+"url":"https://news.google.com/rss/articles/CBMizwFBVV95cUxQNldXeWRrM1hsMm5FUVZodXdJQTJxOWpjbHNUUHRJYmJsNG5DbU4xTjJvRWZpcElVcFhUYVJzNm8tcnpkMnF2MXh5UTJsOS12SjdDaTdMYk1WRG01ZDFwMjdPVG9HWVpBLUJEamlST2toVmkybW9Vc2ROUGhXQVpnX2FGVXptTE4wRklpZDBnNm9mOGN4Q1pjZE9hMVZyUTI4QkhFbnFoQV8tTzIzZHdfV2dxR2k5VkthNThWNXcwTkQ0ZkxpSGNwVzFJOW9PcGs?oc=5",
+"source":"9News",
+"host":"news.google.com",
+"published":"2026-09-04T18:25:00Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Here's what the mistrial means for Lindsay Clancy and her trial over the killings of her three children",
+"url":"https://news.google.com/rss/articles/CBMizgFBVV95cUxPeHpKcVg4VlUzVVIwbkFwR092R0hITV85V0p3dUhGanE4dHpTZVg0YzVaTTVWQ2hTVFNmemlfZTNpY05IclJrallETmd2ay05UTNzeTlvcHNxNFdrZFRTT1FIQW96SHdSQnZadkxjQXVoa0IxMXUtY1FjUmtENU1WX2pZUFlnRWV0VGQ0WXVhTHp1OExGdk96Z3d1cTJCaFdNNGVfd2c0ZHhxMEdZbjY0Nnp4c0NoR2NQd2NkR1pXZl9ObG5yR1JJdmthYmI3dw?oc=5",
+"source":"WKYC",
+"host":"news.google.com",
+"published":"2026-09-04T18:25:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy Murder Trial Ends in Mistrial",
+"url":"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzlYNjhwUlJ6cm5Ed2Ytd0JIT2FGMWp5SjJnUmZtSWZkVGJXX0N5OWJBNmlkY0I0TVZDOVlFOFRmX2gwY2dMV2RyS0VwcVBZcHVrdjZYZS1jWW5NMjg1X0wzOEhqRHBIOF85aEh3d3A3dGFPSHNDZmNKSE1oWVJXeVRxXzMwSmdN?oc=5",
+"source":"WSJ",
+"host":"news.google.com",
+"published":"2026-09-04T18:24:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"What's next for Lindsay Clancy after mistrial declared?",
+"url":"https://news.google.com/rss/articles/CBMifEFVX3lxTFB2MVVkRnJLcnFZVVBrZ0JvVXQ3dzF6UEZJWjZxTUxpY0p4NmhsTTdXVmpKQm5SQ1Vid3h6SVpxSFQ4ZUVkaEprYnFHYmR4blNabGdhVFM2VzREOVVVRjQ3OTVRMGZ5UHFCa29xWkR5RVJTSXhVSlowQWVnZ2c?oc=5",
+"source":"WCVB",
+"host":"news.google.com",
+"published":"2026-09-04T18:22:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy’s Emergency Bid to Stop Mistrial Is Denied by Massachusetts’ Highest Court",
+"url":"https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHNEcTlSZUxfdVFULVFxY0VJRzl5WGNaeUN1N1o4QXV3Und4eS1QV2R1VUt0S1U5VmoxV0xGMkNmNGYwdW82d2REVzBTMGlvTUl0MkJYZWdKOXRXZWtWSWxDei10a1laaURZWVI0WGVBTjRvbUJPMmtYeFNWeDkyZUFtZE1HQQ?oc=5",
+"source":"people.com",
+"host":"news.google.com",
+"published":"2026-09-04T18:20:09Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"What Lindsay Clancy’s lawyer argued in his last-ditch appeal to get mistrial tossed",
+"url":"https://news.google.com/rss/articles/CBMiywFBVV95cUxNaDRreWNVajExbzktay1rcklIMTU5c1FSbzBFMnM1eG1SeWtRRmRUVlVaVl9ONDFLOFpNRDhYejBKWm1sYXdJQUtSejA4VW1wOHBIbmNaU1N0MnQyU2FOQTVqVmNlNnpETHBWdWVpQkJ3V19WbUx6RDViQXdMbjJ6SzhPV1JZMUU3MFhsYkVpSGRuakdvYmZWUlVVMGxOWFlIbEFSSTllZDF5WF9INHVQU1FjWEl0ZE1OVzYzSGEzb0dKam9jOWFRdUptSQ?oc=5",
+"source":"New York Post",
+"host":"news.google.com",
+"published":"2026-09-04T18:13:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy trial judge plans to declare mistrial but allows emergency appeal",
+"url":"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOXEtV1VkY0VMeWhKbUxoeEd6QXdfZThDQ3Nudk0xUFlNUTJ0TzVXTndfdHB4aGlXdUxJQ0cxQlpXdmZ6Y2dLTUVBYXNCN2V3SUxYUG5xT09ZWW1jYXc5RkV5OXhpLVNDREREdmR6MElNdFFzTi1qcjBvZ3lacmFCSy1GNnhYa1lyUk1HU2xwc2JxRTZzWXBqTWNrXzRyWHM2dEFta1ZRNW9JS1M2eHB5XzVyX3NjNVk0a1pCdWVwcVhEZ0NPM0lKYzZJSVAtRTJRV2xiTVFzMnNxUE3SAdsBQVVfeXFMTTlxLVdVZGNFTHloSm1MaHhHekF3X2U4Q0NzbnZNMVBZTVEydE81V053X3RweGhpV3VMSUNHMUJaV3ZmemNnS01FQWFzQjdld0lMWFBucU9PWVltY2F3OUZFeTl4aS1TQ0RERHZkejBJTXRRc04tanIwb2d5WnJhQkstRjZ4WGtZclJNR1NscHNicUU2c1lwak1ja180clhzNnRBbWtWUTVvSUtTNnhweV81cl9zYzVZNGtaQnVlcHFYRGdDTzNJSmM2SUlQLUUyUVdsYk1RczJzcVBN?oc=5",
+"source":"Devdiscourse",
+"host":"news.google.com",
+"published":"2026-09-04T18:10:47Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Photos: Lindsay Clancy's emergency appeal to the SJC",
+"url":"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHhUS1o5M01Ua0thZFR0WTdfNGF0dnpHeFhOOHU0OUF1ZXFhWkUxRVlndWNfcGdYRjZqaEE5WmtubFVMdUFQMUZ5dUxjY3NLMjNJZ2tWUXNNMWdoUW41dHdYakFzbzQ2TUY0Z0R6a0xlc3FiRzhJZzNYa2hxQmVpdWNn?oc=5",
+"source":"Boston 25 News",
+"host":"news.google.com",
+"published":"2026-09-04T18:05:13Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy’s ex Patrick, his new wife hold hands as murder trial grips the nation",
+"url":"https://news.google.com/rss/articles/CBMivwFBVV95cUxORnMybmpqLXhUdTY3TUJqdkNGMFA3MGVIRTlXOFVFNzZNU0IwOGNMc1paODlDUGVRWVpjWENXTjViRkdzS2dtRlN3TEpFTUdJclNOa3VBSDhQeTRVdmFtdFhpU28wRlh0dVVjdzRVZFdPOXRrY1ctNUNBMVo2TTVHMEJVX1BNTmYtREhpYWpRZ21jQ3BCQy1ubHI5MTFVYWhyXzNtbFhmVjVmYVJ4dHQ0UUJORy1qMy0yT3IzbHlmVQ?oc=5",
+"source":"New York Post",
+"host":"news.google.com",
+"published":"2026-09-04T18:04:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"The Latest: Lindsay Clancy defense has filed emergency appeal seeking to avoid mistrial",
+"url":"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXBmcHJCc3dQZm1qZ2JhLWNibTZmd0MwcWRmd0R3Y1ZxV3JDdE5yUGxaczY3UWl1anNvdzRGQW5KZzFWTEk2bE16enE1ckJzV1M1alg5bTM0QWlESWRjaHljV1M2dUlKN185X2RmYlpKNzdqMmE4WXdvX1A4V0JHajB5YV9CcVRKVmdOQlFnUG5lLWFpMHc4aXluWmgwc05aQTVGYnhDZnpIU0Mwbllidi1nS29BNHBMWGJ3Qy03VUY?oc=5",
+"source":"5 EYEWITNESS NEWS",
+"host":"news.google.com",
+"published":"2026-09-04T18:00:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy case puts a spotlight on postpartum mental health care",
+"url":"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa01ESURWMzRjY2hhdERTZXlxb2RCVUU0eklvVHhndGx4bm83QU12SW1uM0o5TjVxOTN0d1k1VVphdUpMVzRqN29fUHoxTzFEMEh6NTdvOVp0aHNodUVnQll0WUk4YlM2dEpRS2lmRjMyYTVwdmFKRVN1clBqbUR4R0cyUmRQa1BWSE9HaDM0Z2VMajRfaVA1bDg2OW52UHdYVW5HRGxxcjJQdw?oc=5",
+"source":"WFLA",
+"host":"news.google.com",
+"published":"2026-09-04T17:59:19Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy lawyer Kevin Reddington creates courtroom spectacles",
+"url":"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SY1JqbGZhY0pKSFlHd0lOWkpWTnRGcThnMm42NktVY1ZsUGNDQnVUc0ZfZjJPQ1Z5cDlXMTlhLXFDbnMxcXRILXVUaFNmZDJJaUh2MFlPM2M1QQ?oc=5",
+"source":"BBC",
+"host":"news.google.com",
+"published":"2026-09-04T17:53:30Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy trial: Challenges of treating women with postpartum psychosis",
+"url":"https://news.google.com/rss/articles/CBMiX0FVX3lxTE85Vzl4M3A5ekdCQVZualpvNGxraDV1NXBVZVd0M3BQcV9FQlppT0F4UlZwSGdieEVnbkpCWnJsMlpVX3lJb0JkY05WUHdSSlBfVFFPRHJ5WmZDNVZwa2lJ0gFcQVVfeXFMUHNtdFEzUEJkRFJhajlwc0NzUjdKUDV4NkwybXFpaEVNT1p5eGNnLVoyTzN6b25zZ25sa3VXRldOZEdZbWd4OTc5QkdoT0RyemdpZ2lvV1lCeHdXaEY?oc=5",
+"source":"Modern Ghana",
+"host":"news.google.com",
+"published":"2026-09-04T17:52:02Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Read Kevin Reddington’s Emergency Petition in the Lindsay Clancy Murder Trial",
+"url":"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmkyajFlU2FlTVQtVHRaeGpEZFhFQmhVaUJOdTV5Tmk3bEZkME9TZl9mUUJvRUFSTDRFRkc0ZUpEZnNLNndlWE9JMHNWdGF2aDdtcHZoTFZSQVM3RHl6NnROMFMxbDlYbEF3R0x3RzBmbDE2NUlwdGpqMXdFemJZUmpEcHE2bmduOURVMXZhdDFWaEdRYkNQTQ?oc=5",
+"source":"The New York Times",
+"host":"news.google.com",
+"published":"2026-09-04T17:46:48Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Where has Lindsay Clancy been held during her trial?",
+"url":"https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2Q5S3pxRF9XUG1GSXBSMURYOV9wLWxXQU1zcWRhYzU5bFRqTmE0bjF0MHJXa1dWd0h1QWZwc3ZacERENmdoYWFDWl9SazhKLUp0cHdjcjVSX3dCLV9SR2NVSHltZURjLWZwWEVRR29rSll6RC1TTlVYczE0OEVTNEExd2g1RngydXZPUW00ZmlidnlyeEV5aHNFbGN3TmE2bGhVNGttcnl3RXlCdkdvZm1hMmhyaU1uZjg5NQ?oc=5",
+"source":"13newsnow.com",
+"host":"news.google.com",
+"published":"2026-09-04T17:40:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Where has Lindsay Clancy been held during her trial?",
+"url":"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lEajZ5TmxTUzVkeFMtM2pnRDZwUWNQTGZzTmszb3FfUmRGcVdLS2pNSF9reFhpUDhfWGFsWU5taVZvSkhQR28ybUgzZDFNTkx0emY0TXJuZFBTbVR1SU1sM0ZJQXc0OVRJUE1XS0ZEU0Y3aXJBU1Nuc2hVOVNZSXNNS2UwUEV6SWlHUmhwZWNCUXd6UENhT1hYSmg0OXNaRDNiWElObWpIdjV6VXF1YndEbUhWdw?oc=5",
+"source":"WKYC",
+"host":"news.google.com",
+"published":"2026-09-04T17:40:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Read Lindsay Clancy's emergency request to the SJC",
+"url":"https://news.google.com/rss/articles/CBMihwFBVV95cUxQZng5SGxxSlRFaHhieEVBdktHbzdWa19Mbl9BQURDQkEwMmI4TmRibElraGxKRWxyY1dXS0tmbUplTXlWUWZ5OXd1bjRDcVNuR2d3bTl2S0ZRcFdBNm5NYnkzRWlUZk8wS2RGQ2NvdVNyYWpvY0RkTm5RMFl2ZjEzQy1LUm1OMDg?oc=5",
+"source":"WCVB",
+"host":"news.google.com",
+"published":"2026-09-04T17:37:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy trial: Challenges of treating women with postpartum psychosis",
+"url":"https://news.google.com/rss/articles/CBMihwJBVV95cUxNZXhweTBxa2ZNSFY2Z0dMeWtLeG5iRGx5UnFuenVfQU9aRDlTZVlBZmFEWnpVb3h4eUdXWVRIcG9rZDRYSlVHR1pXZHFIS2RnWHFuU1Vmc0Q1c0hIdlJxSURQNnNIZ05yUVpNRGFDUFdJS3o5cU90aEFBZTJqN3d0TnF3RnZRc1NySWVRUWxUYzlIWVN3dElkdmhoVFFFaDI4blFxcHo1bk41MDRDWmtBRzYyX1JwWG0tUFFyWW5oSVpBSXVhOTk1U0pFVHllYmU1d3N2eUFHSHYtOGl3bUtqcmZpMkpWSkpkR0R2T2YyWDRVTDJQU1FzN3M1NGFaNmJ3SDl1QlN0Zw?oc=5",
+"source":"Central Oregon Daily",
+"host":"news.google.com",
+"published":"2026-09-04T17:35:08Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"The Latest: Judge in Lindsay Clancy trial gives defense 1 hour to appeal before declaring mistrial",
+"url":"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOazR3Um02XzlNWXdPVEM2dll1eWJTc1lyMTBrMk0ydW0ybDVEdUFTeXlWUmxiaHpGeWd4Z1JPMHVxakNFeVpSMUphb25pYzR5VUJlbVhWQkFKaTRPSzl2WEdDZEs4Zm9DYUVlWUdVRmVPYVpXOXhGU2FlU3JidGoydmhCMjVDLTAwQ2ZycnBjRTBXTGpJc3ZNd29lMTJ5TjBIN0RqamE4MGZLdng3Y0VrN3BfSjNHRVBDbjdMczg3a3JqMFFhZ1g0eDZ3QUdEOU1EamFXdFZhVDZFNTlMUS03M1VHMVNNNk5L?oc=5",
+"source":"The Washington Post",
+"host":"news.google.com",
+"published":"2026-09-04T17:18:02Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"What is a mistrial and what does it mean for Lindsay Clancy? Here's what to know",
+"url":"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUHRKMC1BTlZsM2h6d3N5RGE3TzdfUWdMUmtUUk96MGJOVVEzWjZtTlE0U3hYd0UwLWxMU0hfenFGcjJQNWZ3RWlxWTA0RG82aVhSOWJnVGFoa2l1SGx0czJBSU5WcXBhczZ2MGFZTWpZODBHNS1IX19HX2o1ZmRHWXZQOF9tckJiT3IzT3otVWFpRFYtMS11U09pb1NIeE0wNnZzMGJIcU84WGFaeDRZVnFOZ3oxbUtGWnBFdGxrTzJ1UTjSAcsBQVVfeXFMTkRSTWVLRTBfaGthYlRBU29nNElzbHIwQWhyR1lOdll6LTdPQVc4WUxrY21sQ1lNQV9zZVpLUldxU0tWNlNEaWZWZ0xIRXNwVmI4dGNRa1daSm1xYWVlLVNPV0VKYXcydURKSEtqMFJUZENhUmdyTzNOVTd4Ull3dkhfQmVjZTFSLTlmVEg5b21YZTlGYkhKWUdRMXJjSm90RWR5eHhpd29UQkY0VmFFamV2MkF3YkdvNzE4VV9YX2IzNFRNX2Z6TVl3cHM?oc=5",
+"source":"NBC 5 Chicago",
+"host":"news.google.com",
+"published":"2026-09-04T17:16:34Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Why the Lindsay Clancy Mistrial Stay Bid is a Long Shot",
+"url":"https://news.google.com/rss/articles/CBMif0FVX3lxTE02NC1UOWRUSGNUVUtMQXRLS0ttX1B1Sk1GY1huY2N3Y0lOYXpmTEhXbWZEclZQUUdTb3JRNEtweXRZRnBQZFctWHJRUVFpdjluN2ZJVVdqZWVNclk5YklIOXlaUEVIVTJGM3I3bDFKLVpGVDNmNm5zX3VSN1NYQUU?oc=5",
+"source":"news.northeastern.edu",
+"host":"news.google.com",
+"published":"2026-09-04T17:07:52Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy trial: Defense attorney asks for emergency stay to prevent mistrial | LIVE UPDATES",
+"url":"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGVmTWNBc1VMUmhLVV9UQzVQbEVJYzFtRnZZS2R1eklHVmVjdHdLVXA5RU5JcTRWeDFESzVveHUtRjVtbkFJMk05RnBmTnVCWFNoaUhDODc1Z0FWSVVhUW9LSFlJSzgtM2dxY2JaT3V1VGhabmkxNmFDUXFmdU1RekI4M1BnbVBHbGRRX3cyZ1k0dzd2My1qV293S1N2QzlJWjI2ME5YTFdFZ9IBrwFBVV95cUxPQklBSmY1U3V0UGJ4emdNblpaZXNfbXVqb2ZPTlJJNEttSmw2aTVwZXM2WElycGRvekxHdHZHN2gyNUQ3anhEZzlLRVpQSnRlREl6YmZxbk90d1FLVVlreVhXQVg2MEkzalBvb2xEZzVpWVNMWGpTUGlxd1pHbDlHQkVNV1p3OS1iQ0N2eFNmekpkVTN1dzQ3VlkxV05PUkYzeThwakNsajBKR1FsTFVv?oc=5",
+"source":"ABC7 Los Angeles",
+"host":"news.google.com",
+"published":"2026-09-04T16:47:13Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
 {
 "title":"What the Lindsay Clancy case reveals about postpartum mental health care",
 "url":"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWV4VFFqb1Bhci1CNTZ0NGlBandKYlZzeVJHSWdvVlFfSkxtVk4yRmZEU29pd3M4Y20yaHFKUEpiRXRLMG5ZYzdSYXY2R0ZRVWFVWHdRWUlWX291dVhDY3V5blVoUFhrTjNNZ2V2V0tSaG5MYlpDdWtWN3dMcFNwSVdRbG9yWGlGU1JaRVplOG0xbzR3RjNsS2EwR3lYUkppX2tRTTlhemVGMUty0gGyAUFVX3lxTE82SUVuWnRiSzdjZmR6UThJWk5NMGlYN2ZOUkNXOXlKUHZnQzRiQmU0a2lLUmV2R0gySHB6eW1LVjVpcFBLUENsbnlkYUx5SVhzVFJlSmhqdjZtVjBzaDJVQ2pTY1dIMVdoY3k1alN5cGRDa1hqZXlydXN3d1ZNYjZBaFpiTk9fV0YzUzNIOXV4RF81eHBtb0ZRUGFjd25VQzRPN1RidWJPTEFQZ2hxN1hxSnc?oc=5",
@@ -14,6 +740,28 @@
 "first_seen":"2026-09-04T16:55:43Z"
 },
 {
+"title":"Judge in Lindsay Clancy case says he'll declare a mistrial, then gives defense 1 hour to appeal",
+"url":"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVDdkbjV5NTIzc2Zwdy1GVlZlWnhZbE9mWG5xOHBSYWZJMTlKNW5ucHFGR1Fnc050TFhkR2NxWG1WeWk1cXNQOW9aeS1MdGJhRkRESWJOQktGM2kwSXN3TEg4eXhHLXE4M3hNbGo4Rnp4M1hNb2ltYjEzbEF5VWJGRzZWT2V0UTNKVHJWTjRsTElLSnNXNWNERlBac0RKTFZ1Z2JoVzkxT3JxMlBqTlJDX0dpa0h1c2VTTFRRMjRhRGJnSmd2NllFX1ZHdjJZeENKLTRLb0JMTHNZOEZMWXJ1cGxCamh1WHRRejh0bDNHc2dOWklZUmZ2TEFiUFk?oc=5",
+"source":"kezi.com",
+"host":"news.google.com",
+"published":"2026-09-04T16:46:00Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy trial ends in mistrial after nearly 40 hours of jury deliberations as defense seeks emergency stay",
+"url":"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQXdpbGRwWEc3NkZTenRYMTRDQWJPQ2RVU0stU3FGUi00aGxGNmJ3ZFNacW44RlgyNzlpUGJvLTF3Rk1CQ0M0OWxhckRBWHdQQi0zTk13elgyekNiTndodjVqNEZiUmZhdnpnSER4Vkc4QmxkU004UTladE1acGVtR0xBbTBhYnBjcGd0Qkdfa1VXdFJ4ZGlzR1FLbkljVDBFNVQxVnMyY0ZRbzFpZ3ZmUkI0YWVMM2NhMWt6RlJJcU5BZzZxS0poUVhRcjRVWGJwWS1fWDNNN1lFSmVDMlNLYjRkdw?oc=5",
+"source":"primetimer.com",
+"host":"news.google.com",
+"published":"2026-09-04T16:45:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Hung Jury, Open Wound: Lindsay Clancy Mistrial Puts America’s Postpartum Psychosis Blind Spot on Trial",
 "url":"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTGRwdnJHWTVCa25pTVJhV2ZKTVdKUHhUa2JpS0NoSlZGaXU0NVN0Q0JvVmc0dHVLdE9qV0dIaEU2RjMwU2VJSzVfblNIUldrd216NEpvVUVOc25XNF9XZjRyN2x2cjZHVzhnYldPWVEyYjFaZUJFa3Nsc1ZQaFJkWC1XTDJOalhXdWhJT0NTV0M0SnA0bjJQRmdxX0thUlNWMjFyNGxQam9QUFREcE9XS2EtSU9WTmtIaGs2aUtIcHRUQ1JuRl9GNQ?oc=5",
 "source":"The New York Sun",
@@ -23,6 +771,17 @@
 "via":"gnews-postpartum",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:55:43Z"
+},
+{
+"title":"Nancy Mace Says ‘Any’ Mom With Postpartum Depression Should Lose Kids If Lindsay Clancy Avoids Jail",
+"url":"https://news.google.com/rss/articles/CBMipwFBVV95cUxOajZ3T2pnTTAzNk9PbGtfQ1U4emhnRFktU2FYRE9STENNaGdlc0JYcXdhNHNVb2EtY3d1MzNPWG91MUNBYUtFVC1RV1E1UE5hV0M4UWp3LXpEZWJrSWZKX3ZadlFpbUZ5NHYyWmFOcG5BV0MwdE1lUDJpTkdBN1hRNHQxZ1I4MFd2VkpabGZuWVUxQVlaM1o2MUM3WHJqNkJ6OWlQSXBxZw?oc=5",
+"source":"Us Weekly",
+"host":"news.google.com",
+"published":"2026-09-04T16:33:03Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"PHOTOS: Inside court for Friday's dramatic twist in the Lindsay Clancy trial",
@@ -100,6 +859,28 @@
 "via":"gnews-postpartum",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
+"url":"https://news.google.com/rss/articles/CBMiigFBVV95cUxPTWtFVi1sMGVmTmstbDN2NHlIUXNvLVFqNDlaU0I5eVRBNDJxMjdCU3laejhJVzR6eEE1MzRlcjNlUXZFQ3NDOGxhWnFEZzEyem5md0w3SDJvaFBFVkUzbU1wenowbEpzR1VQa0VGQlYyeFEydTdQV0RqcW11M05FQnRBUWdhM0I0cnc?oc=5",
+"source":"NPR",
+"host":"news.google.com",
+"published":"2026-09-04T16:20:30Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Not a mistrial, yet. Clancy's lawyer asks for emergency appeal in her murder trial",
+"url":"https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGgtbnlldnozc2ZVbmxKUXpLVExKZ1FONDdkSmtRb2pjWEhsOUlONEp1MFVlZjl6ZnJWWXV3d1lCUkdQaFk3bXhDSmpZc2VGX2ZKY0RTRHdfeTVXQWRoLW1LWTROckZ1cWNGS0h1TXJiMGNQQjZwYmllQTZtNXRRRDgwTDUyU0M1enp5UU9fcHRKc3hfS3pmT1lUWXBZbUVUU29GM3NNTGJ0MXkzaEZhRw?oc=5",
+"source":"KSMU",
+"host":"news.google.com",
+"published":"2026-09-04T16:20:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Judge declares mistrial in Lindsay Clancy murder trial, gives defence 1 hour to appeal",
@@ -465,6 +1246,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"Judge in Lindsay Clancy case says he'll declare a mistrial, then gives defense 1 hour to appeal",
+"url":"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVkpORzlSTDdJSnBwWWtaQWpLcTlReVd0V1FHWXNHRG9QNzRvVGp2LUdzeFkyT1RpR2xKNnNUYWhqZlN6REUwcjBNVkZOTklhalV0b1VDT3BqYTc4V2xLdTEydFN2YTlBbDFfdmxOc3VWbTlMZG9vZmM4djJYYlpENFhFb01FYTEzeW40U1M1RHctUElVcDB4UlI1YXd4NjVBV1l3cE5fLWM3T044d0RHMk92aGt1Zk5pTmRPMkNnLTY4bVhxVHlNUkVKeERtcUUtd2JWTjU5ZHJrRmxfTHo2b1RBTlFiOGMzbDYtS1g4VDlqdl9QOVZiM0llU0U?oc=5",
+"source":"wkow.com",
+"host":"news.google.com",
+"published":"2026-09-04T15:53:00Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Watch live from court in Lindsay Clancy murder trial",
 "url":"https://news.google.com/rss/articles/CBMigwFBVV95cUxQTGl0Nkg5V2pwZldvYmZ6Z0xadVhLSWhrcTh0U1JTN21YOElnV1o0YjBoNEszeUd5TUZHSVRLQVVrcU1LSjlzQTQ3ZzJJbVlOVUQ3MHAxamdYa3JSbzRBSkJTVmZhX3owQnQtTUVxUEM5M05RcEtrNlg3OTcxUDJVM04xdw?oc=5",
 "source":"bostonglobe.com",
@@ -575,6 +1367,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"Deadlocked jury in Lindsay Clancy trial resumes deliberations after dispute",
+"url":"https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzJqT2oyV19hR0E5WDBKSU5ud3JuWDducTM1SDBZMnRwMHgtdkRybWRxQXZ5Z1dYclcxai10Y1BQMDU3SXBZMW1NR0pCYXdMVi1rZ2hUODZWY05iWlVsem9jTjhIb0dYMmhmc2hUU3pOTzUtYl9fOFhGRVFUNGRIWjg5YkJvVjVNTEx1NTJnaDQ?oc=5",
+"source":"The Guardian",
+"host":"news.google.com",
+"published":"2026-09-04T15:42:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Lindsay Clancy’s attorney asks judge to remove a juror",
 "url":"https://news.google.com/rss/articles/CBMinwFBVV95cUxQX1YwdnIzWS1PU2FfeFBsS01JZWx6M013OWh1c2swS3NZaE5VWTJsNjdxbUFiN3ZNbEZGWDZNdjlvWEt6Tm9QWm1xdlQyeE8xd2x1b1Y3bTRjNVRFZ3lrVHhWZEV3TFBSUWpLNHdYbGdFazgzNjNQNjZ1bVp3a2VnQmNLZDdGcVlsQkdxb19UVi0wczFrYklYMkRsTjRES00?oc=5",
 "source":"The Washington Post",
@@ -619,6 +1422,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"Lindsay Clancy murder trial ends in mistrial after days of deliberation, delays",
+"url":"https://news.google.com/rss/articles/CBMihwFBVV95cUxNRl9BaGpvWGZLd1VyMkFLRjEtWVNuYUxXYjlGQW1SRHNrVDZ2QklEMVVvYWVLQUdGbS0xT19zRi14NHpjbmpZNVF2enJqaVZfSGtUbkx0OHJJNkg0WkRHUFNncmRSNXY5SjlrTUNmU0VON1l2b2l1T041elJtNEx3b0J5ZzJKcUXSAYwBQVVfeXFMTUtnY1ltSWhaLUZyVndzY3hwVE5qeEVjNktfX1dLbTdNUnRVUjNrQWlrX01fUXRGdUZnT1JoLWx0UWpfVUdFTUZQdHRWSXdCMV9fT2tURzdpYUotQVR4WEZwZGZiZ0dLTUZyNi1jazk2ZWRrSHVid3djNG5ONjB3YUs2Y0hpMTBmMWRYalQ?oc=5",
+"source":"FOX 2",
+"host":"news.google.com",
+"published":"2026-09-04T15:35:53Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Judge declares mistrial in Lindsay Clancy case after jury cannot reach a verdict over responsibility in child killings",
 "url":"https://news.google.com/rss/articles/CBMikgJBVV95cUxNajdld1k4VVBBNWMyMkUybGRmdnRGY0d0X0ZrVS1mLVhnbHBWanJqdWJncXRKSmIwNV9lVGZfZEJCd1pVend2d3VUTkE5S21BcGhPQ3pha3QyaUphYkt6Sm81NHNMeUZVekNIREtVem15bGdUSFphYzBoMDlhQVZoSHdTa1M0ektFaTJVVEVsc3hEWmkySHFDVFhhVTlaWmNWMk1tel9adV9xdVhCWnUyeDc1ci1qcjdDMm94bW9sbUxLZVhyVzAzRElrXzVoZUxTMFZDLTNrSGl3UnVIaFZWRFpFV2dxblFmUFB6amhXZ3pWSnE0Tmp5bHFnY05LTHBCZng2ZjRFSzUxbTRGS25kbUxB?oc=5",
 "source":"FOX13 Memphis",
@@ -628,6 +1442,17 @@
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Judge Declares Mistrial In Lindsay Clancy Murder Case",
+"url":"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXVHMzZhVW9kcDJUbl80UDdIU0RkVEJiNEJCQmEwZVpWQ2ZweHBDVDlOSlM3TE5jdGkwVHpySzJvZE5LazhraXdlZkJYeVF1V3djSy11SjNnTWwyaTJrZGhyd1NxeVZWT0dqVW9ZN05qdm1YQjczMXFfWkRvazhlUUZmaW16STFiRGJya2pmYUV0QktiT3NNa290eVBHSmxOSFJURHdJZFHSAbABQVVfeXFMTTU1NjJSN0VCN2hzZHNOOEstUWRsajEyOGN4bmhfWnVGQTRlWVoyS0lTblU0R2d0SWVPUDVZTm9Ha0F6dHJ0UHkzT0VRenFIa0xtMXZIaEJJeklCTkFMcGY1UFg3U2tsZVZnV1dXNnRXRk1WdzhyaVRZSWFHX05IRDVwNUpFM1NiRU4xMUo3ZTdGSzdfZk5Ec0pUVlo5emJROXNsd0ppcGZvWmpUVzAyY2M?oc=5",
+"source":"WBZ NewsRadio 1030",
+"host":"news.google.com",
+"published":"2026-09-04T15:33:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Lindsay Clancy jury hopelessly deadlocked, mistrial declared",
@@ -652,6 +1477,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"LIVE: Lindsay Clancy murder trial ends in mistrial after days of deliberation, delays",
+"url":"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZG00WVRwV2lHT3NVSnBHMzhrNjU0WXBIVHZxOVpyT1JjWS04bUxZUEVRNkNhMzZLQS1NMnEzdGhKTzNDSF9pd1RaV19sRVBDWFFDdG9aUVZxYzVUYVF0T3F0ZmUzNEQwWXJncXBGRU41OFFjWWk2RmhlMTlzdzFGdUVlX2p6TG94RDBIT1ZXQ1BRSGt5ZnZrdDVfZTjSAaIBQVVfeXFMUF9yTExOUWdFRTl1OUtHZ2k2MnMyN2E2d01kSW1wY3lGM2JIRmtJN2pHTUpwenBJMEdQRUNHV2MxLTJ6cjNaZ0FEOVdXV1pydkVKMXBzZG41dWlVbHBlS2ZjNjlSXzN2Y3AtVDdJd0lZRFZFSnpUYU9WWGxDQXZOSnZWZmdINzdfRDBPNE1iREFaSGJWLWdzWXRSa3JZcEZyMFVR?oc=5",
+"source":"KTLA",
+"host":"news.google.com",
+"published":"2026-09-04T15:30:42Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Judge Declares Mistrial In Murder Trial Of Lindsay Clancy",
 "url":"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQUdEdU1aSVhaX0RnYjNaYnliZUxmZFY1bmdYSVFoQXh1bjBQd1FrWEVuQzdQc292VWFsbEhheEpmYjRKZUtObFpDWFA3YU9FNjhmc3B1SWNsempMQU1HSXM3ajNNNkxMNXZnUHU0VVlVZnFuMW0wQW5TQWdnQVBSTWUyaw?oc=5",
 "source":"Yahoo News Singapore",
@@ -661,6 +1497,17 @@
 "via":"gnews-postpartum",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Judge Officially Declares Mistrial In Murder Trial Of Lindsay Clancy",
+"url":"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUNNMmQtclpla0xSVVoxdEdxUGpVT2t6TTliaHJicGRfMEpYVFk2Z3paZ2NnaGp2MXNMS1ZHVXRlQnJNVUNLSWpkelJOM2NzY3gzZTJwQ25Oa0pTaWR4U1JGcTQ1NDJ5OFVUQUpOTGk1WmVic3h5R3RyUWpPeE0tUndldlBZalVaUmFKSDVXVXbSAZYBQVVfeXFMUDlHUlNsZWxOMXFUY3liQno3YW1wc1g3RTJOaWtjZWd1NGhLSnVCNHJzMUl2QWRZUkZlaE9CeUZLV2NXSUZsaGlMMmdhX0pGMU1paTJ5WTlVcFBIdXFmbnljRlZaNWx2VU1hTC05RU4zLWEyeXo2WWF3N21XWEJuM2lSQzN4TG9JWHlVWjZMU0hSbHctTzVn?oc=5",
+"source":"HuffPost",
+"host":"news.google.com",
+"published":"2026-09-04T15:28:55Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Lindsay Clancy trial: Jury ‘will not be able to’ reach decision, judge intends to declare mistrial",
@@ -751,6 +1598,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"7NEWS obtains appeal filed by Clancy defense after asking justice on state’s highest court to intervene",
+"url":"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3huZjRZbHpxR3lHb1dRVGNfOU5SNEZSQlhzbndZbWVXczBsc0RmS19yRmt5QWhGY3c5WUxzTEpjRGEySy1tRFZkMFdZZWZVc2ZtRXR0N1RUcUpndU9uT1RaS0RNWWc4T3FiSk5scU14LW5iSHlEa3QxSW1XTTV1S0tpY1dXbFFZeGRVTVNsaF9rRzd5MTFrWGl0N3ZnX21jbU00RU00WGk2X21UMnhrRkt6c3pydHZPYlhQZ29BWlZ1R28?oc=5",
+"source":"WHDH",
+"host":"news.google.com",
+"published":"2026-09-04T15:25:48Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Judge declares mistrial in Lindsay Clancy murder trial after jurors remain deadlocked",
 "url":"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ON3NiUFFvakRiLURRNzhDc2J5UzRlMXpneDdHV0xCaHZqS0dSTkxGT2dsRmtWelZSemJIaktVYXZSR2h5OUhoOGRmeXBheFZ1bDRmVi14c2JZVG05d2M0bFpqYw?oc=5",
 "source":"FOX 13 Tampa Bay",
@@ -771,6 +1629,17 @@
 "via":"gnews-sjc",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Jurors tell judge they are deadlocked in Lindsay Clancy murder trial",
+"url":"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESE1DQ0NwUGpCQkM5ejFkdVVzX3RRbnZFTjNwOV9iQlNITUxJSGFFUzQwbnJrbk8wSVRKcFJacmw4UWQ1dWZhTkNaaGp3S0loV0h1dzUxTFVNV3V0X1l2RQ?oc=5",
+"source":"FOX6 News Milwaukee",
+"host":"news.google.com",
+"published":"2026-09-04T15:25:44Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Lindsay Clancy judge to declare mistrial — but grants lawyer Hail Mary bid to appeal",
@@ -828,6 +1697,28 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"How important was Patrick Clancy’s testimony in Lindsay Clancy case?",
+"url":"https://news.google.com/rss/articles/CBMilAFBVV95cUxNaldVWGZlaTd2SzlZaTFQejZvbW5zenFlX1lWRE1SYmZVVGdYSmN4TFNHQWpqbTdTNzJfRGgtRnhUNnhrT19RcTQtMWdzZTBwNUhNZVU1MGo3YldxY0d2by1HckkxVjNzUHFvV2RvYXdvTHJDRXQ0c0c1dGh6eXl1eXZhRnRobWRTZTBtZ0NQZk1lUFE40gGaAUFVX3lxTE5iSTM3V0ptVWF0OC03bUczUTlCc2VHNGxob1VKenk3OTBwclkyMkRHeGlZanlLTS1tcnVRT3daV2lpOF8zUzNOU2t3SlE0ZXdIWlJDOVNhYWtOQnNYejhGbkxZblNvSjQ2WGgwbXFqbm9uZGRHWGdUZ1ZZYk02UkctbHJhR2JKTDdwNERueWJtcFZ6YVVfMWp3eWc?oc=5",
+"source":"NewsNation",
+"host":"news.google.com",
+"published":"2026-09-04T15:04:37Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"We Love to Hate a Woman on Trial, So Why Are So Many People Defending Lindsay Clancy?",
+"url":"https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGxxOEJ6d2pHY29ZWThDdmI4UVhMRmRKV2luajlPZWdwUElPWDZtYWdqcy1adUFnQ3QtaF9XSFpRNEtGVXp6X09EbmJXTnM5Mi0zdWstRjNIa1pTZVlEU2RnYmNqRW5pQnd6SV9GUGY2dUhqNWZKb2w4dDJSaTJjQ0psQS1qN29ZVW9EeTNjNkdSUm9jMGd4STBVbjNCbWNncGc?oc=5",
+"source":"Cosmopolitan",
+"host":"news.google.com",
+"published":"2026-09-04T15:04:36Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Lindsay Clancy murder trial ends in hung jury, defense demands stay of mistrial declaration",
 "url":"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmNFd0FlRDVWS0RaNUdraEY2Vm9DVE1EaTljRzVtZzlXZl83dFd0UThBSjJwUkNTWEFZSDBJOHY5SXJhVDJzblBxWVlpTDRzMHB5RnFrZ1hGNWpsd0R2eGtIbUY1amwyNW94V0VYdkJKQkZQSWhHZ2lVLUFUSXFjQU0xY29Vcm53MnZRN2QwWnlNWlphd21Ld1NoQXdpb1Fq0gGmAUFVX3lxTFBwUEl5NG5PSXlvUGJwWTNiS015SlVqRXhsVExwMV9xRERjRDZWOV9iSm9WSG1lRWZvS3JHNnU4eV9QOEM3MFItY3FVTDdLM3E5TURwMXJkNDdYVkNLR0t6ckdwUXdyajJCYlN4SnU4QzliQ2FZVThBb0ZSdXVpVEprZER3NGYtRmU4Nkh6b0FlemtabE41OHNqUm13Zmd2TDd4ZTZWUWc?oc=5",
 "source":"The Hill",
@@ -870,6 +1761,17 @@
 "via":"gnews-postpartum",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Lindsay Clancy trial judge plans to declare mistrial but allows emergency appeal",
+"url":"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXhZSWRhYTV4c0I1cHNLRDRmdUFaSDVsS3J1VTV6blBiMnlFVFRzRHhBX0RERnREVzBMLTBDTnZPR1dTdTg3YTN1UTZHVXVreDdlWDhva1kzTUlISUZKb1J6WkhiSTlnOS1hQkRvbVFHblBURWRJdzI4bV9EZ19SUGF0QVJreU5saS1nYnpoOGxyN0ZLR0ZxbmZKVnJwTGZaUVRPWTJEOWRFUQ?oc=5",
+"source":"wiky.com",
+"host":"news.google.com",
+"published":"2026-09-04T14:46:37Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Lindsay Clancy judge, defense attorney spar over holdout juror",
@@ -982,6 +1884,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"Lindsay Clancy’s wheelchair becomes ‘silent star witness’ in murder trial",
+"url":"https://news.google.com/rss/articles/CBMiigFBVV95cUxPbFB2VmMtQ0h2V04xUmtfQ0NxQm5JZlZIUGM5M3VkcUdBU2o1a0lSNG5PQUlWUF80UE8xWUJBeWtfUWRTeTJPZnZjQ2xOeEpKeC10d2VsekhkMDFIejU2TWhQajFYa1NwNFdOMHdCYzZWWnRiZXFVRmFpblNudkF1QmFOd1RBMFpMX1HSAY8BQVVfeXFMTTFHLTZkMGJzeENrU1kyN3ltaDNZYzhLNzBFTm8zajFjN21zRlVEbFpyVnlUS1JPMlAzSFpwVzJ3MTBUZXMyaFpLQnFhVkMwNG5RZ1FXZFF4VG9SSzJwWEhjUERwY05LaVFrWG1FdWo0aURMWkR4clBfN0pMX1JIaktaT1YtdzdsMVZXRmpyR1E?oc=5",
+"source":"NewsNation",
+"host":"news.google.com",
+"published":"2026-09-04T13:47:55Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"WATCH LIVE: Judge in Lindsay Clancy case says he'll declare a mistrial, then gives defense 1 hour to appeal",
 "url":"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR2hwbkktVlRSXzZtZUgydEhfN0t3VlU0WHo3OGVGU2VBYWxNWU1XU29VQWZMQ3NXQkstRlBUY3F0XzFJYkE5YkhLeWxqVl9qc3ZNWXNKTmh3SDZramQzM2lQRmxPR3d3T2lFUG1KNTVQbUp4RDFLMkdMVlNRdTI2N0E3RHFYeUFjSE1lRVdjT2VmbEJRazhJdE9sNlpXUnJPNjNHSjd0NW1JeklTLUZ3YkVya0l2bmpnbi1NVjdOYVE2RFF1STJYMQ?oc=5",
 "source":"PBS",
@@ -1059,6 +1972,39 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"The Latest: Lindsay Clancy defense has filed emergency appeal seeking to avoid mistrial",
+"url":"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUnE3eUpkSlBXWTVxRzF3LXR4dy1aMmhtVlJXMUd4b2xHbDZOdnhkaGo2R2Q0b0tTM0NQNjNCRGF4T0p6bXR1QmlLQUs5VkJ1aWhVNkpEeVlPQkUwdzhzNXlaSEpIWnRQalBMZzdZRW9leUtoam5aUGJhem8zZlRkU2h2VnJrclNNM2FXNnZKNEpSVnhUVEhzWDAtUGFzdWc5V0dZdF9QTGdNOWw0OWxTU3dUSF9DaVZZOTJodXV3QWUyN2RGVlBn?oc=5",
+"source":"Audacy",
+"host":"news.google.com",
+"published":"2026-09-04T12:40:00Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"The Latest: Lindsay Clancy’s murder trial deliberations resume for a 7th day",
+"url":"https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmc0dzJVZG00UDJLalQyMEw0dl9wMkpVZWh5WkxTZTJ0cmJnYnU4bDYxbTBZQVY2Wi1yR3FLaU1GQ1MtTWxPRjFYM0pOZEZmdTVkaWdtQkQxV0o5RVNNdi1pbTlDOHJVTEJtcldUbHBDS2x5TTRiT3FOYXRvdy1DSU44bExNcXVRc0VEX0NKeUhPblU2OXMtLWlJcHVHd2xJc2dQOWFLbHV6Yml0NDFDWTduUGxubEFrV2JhOHR2T1FDbHlJTFhtLWd0WDZneFBtMkNz?oc=5",
+"source":"Audacy",
+"host":"news.google.com",
+"published":"2026-09-04T12:40:00Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"The Latest: Lindsay Clancy’s murder trial deliberations apparently stuck",
+"url":"https://news.google.com/rss/articles/CBMi0AFBVV95cUxObU1mdjQ2b0trcU9kNG5RbHJQTkd0aVVNU1ZEdURaMHFTVGZsdUZRR0JyQ2p5S0Q5QmtIazNDMUpIV3JxX0RZbnVjMmJYTkl6U3dJMGxibTVRWUVXWlRSS0FZa0tTNlRUcXVGRU02QjJuRjJMX0RqUUtkTUV6VE9YeFF4N19IQkc1bnpuYnhYUlNiODJuNUg0WDYyZml5VVJQLW5zN0g1WHZzd2NvLVlRUTM2U3J5VjZQMnROXzlGLTU2UEpqRnJVdnZyY0ZSNjJ1?oc=5",
+"source":"Audacy",
+"host":"news.google.com",
+"published":"2026-09-04T12:40:00Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Lindsay Clancy's defense wants juror removed: Watch the arguments",
 "url":"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbHp0ajlibDRyT2V4d2NwNGMzVTFWY2FKblhaR2RGdlgzLUZnalFtZW5MZFVaZUYwMEY3OW5tNU9qcXNkVF83bllnOVVhQU05S3BuaDNnS1hiakgxb25Cc1dkWVo1OEZSY3JZRWtqd3FPeDgteWtLYnVzM3gtZ2dUZU1JRzkwc3VJeHVRUDBKOHk?oc=5",
 "source":"WCVB",
@@ -1081,6 +2027,50 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"Lindsay Clancy trial over killing her children ends in mistrial",
+"url":"https://www.msn.com/en-us/crime/general/lindsay-clancy-trial-over-killing-her-children-ends-in-mistrial/ar-AA2bB4Yp",
+"source":"Reuters on MSN",
+"host":"msn.com",
+"published":"2026-09-04T12:17:50Z",
+"summary":"By Nate Raymond, Maria Alejandra Cardona and Luc Cohen PLYMOUTH, Massachusetts, Sept 4 (Reuters) - A judge declared a mistrial on Friday in the U.S. murder trial of Lindsay Clancy for killing her ...",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy mistrial declared after jury deadlocks in killings of her three children",
+"url":"https://www.msn.com/en-us/news/other/lindsay-clancy-mistrial-declared-after-jury-deadlocks-in-killings-of-her-three-children/ar-AA2bApAN",
+"source":"Fox News on MSN",
+"host":"msn.com",
+"published":"2026-09-04T12:17:27Z",
+"summary":"Lindsay Clancy's trial centered on whether severe mental illness relieved her of criminal responsibility in the January 2023 deaths of her three children.",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy murder trial ends in mistrial after days of deliberation, delays",
+"url":"https://www.msn.com/en-us/news/other/lindsay-clancy-murder-trial-ends-in-mistrial-after-days-of-deliberation-delays/ar-AA2bzn18",
+"source":"MyArkLaMiss on MSN",
+"host":"msn.com",
+"published":"2026-09-04T12:17:22Z",
+"summary":"After days of deliberation, the judge in the Lindsay Clancy murder case announced Friday afternoon that he was declaring a mistrial.",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy’s Emergency Bid to Stop Mistrial Is Denied by Massachusetts’ Highest Court",
+"url":"https://www.msn.com/en-us/news/other/lindsay-clancy-s-emergency-bid-to-stop-mistrial-is-denied-by-massachusetts-highest-court/ar-AA2bBhzY",
+"source":"People on MSN",
+"host":"msn.com",
+"published":"2026-09-04T12:08:00Z",
+"summary":"Lindsay Clancy killed her three young children, Cora, 5, Dawson, 3, and 8-month-old Callan, who were found strangled in the basement of their home ...",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Lindsay Clancy trial puts spotlight on the dangers of postpartum psychosis",
 "url":"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzJfMmpQZWFReEprOTI3SVlZb1FxcXF6UVJoY2pOeXplLVcwRmV2bWdETl9CQ05jWDBxeDZrN2w1d3lVYll0eHAyb2RfTGRvQnplQi1GektGSHg5ZVNTWDB3S2d4dnRqM2kzY0hMNVBJdHpwRjd2UFBzRWYtendSX0pYc0JkTmNBTXMzQXRFNnVudk9XMDkxZC1hM2tNSVFucnZBR3prS1ZuaTkzM1YtaUFkYU1HbjNFR1QwNXozNzU?oc=5",
 "source":"ConsumerAffairs",
@@ -1090,6 +2080,39 @@
 "via":"gnews-postpartum",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Mistrial declared in Lindsay Clancy child killings case after deadlocked jury",
+"url":"https://www.msn.com/en-gb/news/news/mistrial-declared-in-lindsay-clancy-child-killings-case-after-deadlocked-jury/ar-AA2bzlaF",
+"source":"The Irish News on MSN",
+"host":"msn.com",
+"published":"2026-09-04T11:52:34Z",
+"summary":"The Massachusetts mother strangled her three young children, a court has heard.",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Judge declares mistrial in Lindsay Clancy murder case",
+"url":"https://www.msn.com/en-us/news/other/judge-declares-mistrial-in-lindsay-clancy-murder-case/ar-AA2bBcuT",
+"source":"USA TODAY on MSN",
+"host":"msn.com",
+"published":"2026-09-04T11:50:04Z",
+"summary":"Lindsay Clancy's murder trial has ended in a hung jury. Here's what happened before the judge declared a mistrial.",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Judge declares mistrial in Lindsay Clancy case. What happens to her now",
+"url":"https://www.yahoo.com/news/us/articles/judge-declares-mistrial-lindsay-clancy-184946837.html",
+"source":"Yahoo",
+"host":"yahoo.com",
+"published":"2026-09-04T11:49:00Z",
+"summary":"With a mistrial declared, Lindsay Clancy won't go free but will likely return to a forensic psychiatric hospital.",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Lindsay Clancy verdict watch: Lawyers, media being brought back into court",
@@ -1123,6 +2146,17 @@
 "via":"gnews-postpartum",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Here's what the mistrial means for Lindsay Clancy and her trial over the killings of her three children",
+"url":"https://www.khou.com/article/news/nation-world/lindsay-clancy-murder-trial-results-hung-jury/507-6574fe38-9983-4efd-a8a7-e6f6df33efa5",
+"source":"KHOU",
+"host":"khou.com",
+"published":"2026-09-04T11:26:00Z",
+"summary":"The murder trial for Lindsay Clancy has resulted in a hung jury. The 36-year-old Massachusetts woman had been on trial for killing her three children. (AP Photo) ...",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Lindsay Clancy jury enters Day 7 after bombshell one-juror standoff and more top headlines",
@@ -1398,6 +2432,28 @@
 "via":"bing-name",
 "kind":"bing",
 "first_seen":"2026-09-04T16:55:43Z"
+},
+{
+"title":"Judge officially declares mistrial in Lindsay Clancy case after jury can’t reach a verdict",
+"url":"https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0VIQXU4akUyX1RuRXU2NU80NlcxenFhTXNJYzVMREpuLXVKdk1rQ3Bhd3RlYnpuSFVRaHVhR1RCalZIVGNPdFl1dXY3bVhIUUtGMHNmV01Jd1VFTHdZTkxiWnZXZUhTeHRfVThEVmdDTDByejc3bkVuVm04aHp1T0U3TnpPR3lXY3FjWlRoRElLNFZTUXJQYVB3eVlkZl9oVUFKSWQ3cG1MZkdVX0Y1b1hHVDDSAcgBQVVfeXFMUE82STBpdzB4WGNBa2piTk1ZamRSLWZ6MU1OTnBPVXI5WUdPS0xiTmNiM1Q3amdUTG52N2g3X2I0OWtIR2hCZmdGVkVQQi1PcEZXRVlGVEJYVzdwWWYyd3RyM25RR1RFRU5vOUZJcHp3UlBGX2tpdmpvemhaMUdYbDhnMDYxMzZHNW5CTVRNZUdSZ3EzbU1CVGFldW44Y1lzLUlxTFVxT0Y1NGpBQ1pTZWtQblpTT3FEb0tKYVk4SGpSb0dDVXA1Smc?oc=5",
+"source":"FOX Carolina News",
+"host":"news.google.com",
+"published":"2026-09-04T06:50:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Judge declares mistrial in Lindsay Clancy trial over killing her children",
+"url":"https://wsau.com/2026/09/04/judge-declares-mistrial-in-lindsay-clancy-trial-over-killing-her-children/",
+"source":"WSAU",
+"host":"wsau.com",
+"published":"2026-09-04T06:48:00Z",
+"summary":"PLYMOUTH, Massachusetts, Sept 4 (Reuters) – A judge on Friday declared a mistrial in the ​murder trial of Lindsay Clancy for the killing of her three young children at her home in 2023, a tragedy her ...",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Jury in Lindsay Clancy trial to resume deliberations for seventh day",
@@ -1774,6 +2830,17 @@
 "first_seen":"2026-09-04T16:55:43Z"
 },
 {
+"title":"Lindsay Clancy trial shines spotlight on maternal mental health",
+"url":"https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlBEQVFWMGZ5NmYxd0VNeXBhNExfUUthdmVHS2ZLeG9rVWg0RG5tSXRockc5WjRQR3BsdldPcW9pUFBlaW1OMElUZGtTeFhaT0otaW5VbWhiV0tkaTZZLWJBRUZSelNTN2tNQnJqVEJ1QWxVVktwN1Q3N3hsZ1hIOTlyRlBsNHBiV29Vd2pPZWtEWDdRQTBfaVd3VFhtc2ZVbFg3b01PeWVsdVMtY1QyUVp3?oc=5",
+"source":"ABC News - Breaking News, Latest News and Videos",
+"host":"news.google.com",
+"published":"2026-09-03T20:32:46Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Postpartum Psychosis: Lindsay Clancy case brings attention to symptoms, risks and warning signs",
 "url":"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZW5obEJ4eXMxbGVfWDQ4Z21id0pIakU2Q2k1RlhpeW5MVkxsaVlCbXN6UEZYTjhQZWVMNDd2YmhRYWhSbjlaazNScnBhRVpaZ0NWZ2V5Nm90MzFycm9LdExQMXU2Ynd1alpKTTFzaDlGRDZPT0NtU2JnXzlPcHVDYkFFSlhHRDFnQy1Ud9IBoAFBVV95cUxNMHFZZGppMjZwcWplMFVtUlJVLUFUMHFtZzdTTWs3VFBkRWR3ekFPSnlNc0tUbDVtOXpqNnZhbnBKZlBXdlhVdWt2SGtjeGp0MG5CdnBuM3h0bFhCRDBaWDhzNVRVWS1HZlR2STFJYndETXIxRDVnMWlZTkhjczVodkFmbXEzckxENTJvV2tfUU5PUFhTaWZsUVJFSUJWbl9V?oc=5",
 "source":"FOX Carolina News",
@@ -1818,6 +2885,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"What is a mistrial? What happens if Lindsay Clancy trial ends in one",
+"url":"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUjRZM25NS1o1Nlc0ZDdGLXRaa1dabDhlNmZHWDBHQ2lhOWFVUkZXVndwSG9YZHNGNk1XQTgzZ3BqaHI0RzlBbTVBRng3NFdJaGsxMW44aTA1ak05LVY1T3JsWHotTUFGS2tBUFVLekxqM0VaRkdpQjRzQ1Z2ek8tWkJIU0U1YTBXQ3pVak90aVpEeVZuc0ctSnNyWDZBdjVrR0JGMG5oa1VuYkZ4RndkSGx1UGZVNzh6Vkc3MGx4ZTVkS2J2STB3SXAxQ1NoaG13QVhPQ0ZSa2pqZG1WeXB2TUI1bnltRkR5VkZ3MTFOdw?oc=5",
+"source":"The Patriot Ledger",
+"host":"news.google.com",
+"published":"2026-09-03T17:25:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Lindsay Clancy Jury Enters Sixth Day of Deliberations",
 "url":"https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWZCTWtBUHUwQ2d4bFlYYUthcDJuVE9UYmhUR2RBb2NHXzRabnNLWWRjUWJFdGxtV0xyMTZsVjFjUVFOMjlRVmVKMFFBTWdDOVdvUFJ2elUzN3RkV05veEdnSGJPTWRmYVJkbzNWNFBWSmpIQ3Q0V3pZUXYtOHg0bHE1aFRsMEpYeG85RkZnWko?oc=5",
 "source":"streamlinefeed.co.ke",
@@ -1827,6 +2905,17 @@
 "via":"gnews-sjc",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Judge Declares Mistrial in Lindsay Clancy Case",
+"url":"https://www.medpagetoday.com/nursing/nursing/122906",
+"source":"MedPage Today",
+"host":"medpagetoday.com",
+"published":"2026-09-03T17:00:00Z",
+"summary":"A judge declared a mistrial in the Lindsay Clancy murder trial on Friday after jurors said they could not reach a unanimous verdict on whether she was criminally responsible for killing her three ...",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"A Woman Whose Case Resembles Clancy’s Just Won a Retrial",
@@ -2203,6 +3292,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"If the Lindsay Clancy murder trial jury can't reach a verdict, what happens next?",
+"url":"https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEZMekRTQU0yU09WM05nbFk2dkZla1ExZlpKZllVQ3RGalVsY2NlbktYTXh2Sm5HU1NxWWk0alcta0VOUFlnc21kLUNkWFFIUFpLUHphemxvbVlrYmIzRUlfbFZrcHFNUDBlcGY1OHNfelNHeG5lZ3FSbXlEZVJ5Z0RnZlFBSmVSdS1wZlZrQmE4WWhPS3ZvSWdfOWNEdjlHSUoyNTNzV1ZmOEhwNnBJYXhoM2M?oc=5",
+"source":"PBS",
+"host":"news.google.com",
+"published":"2026-09-02T15:20:40Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Judge questions Lindsay Clancy jury about a woman accused of filming them, lawyer says",
 "url":"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcXdfallrWmFvdE4zQU9VenRuOHpMQ3BPZVl4eEJQb0M2UjRJQXdOc0RIZV9UbG5YYUFIR2RWNjkwOE5vbW54anZCejRiOTJab2p6NGp3YlpMSmFhd1duU0FucDgyN2RVbEpsdG5PWm9pYkZtWF9WYzgtOXhDT2luck9lRExNckowQ3RVa0lDUTVVYU4xZ2lCSk1BWERFQXdMUkJGUnlyQUxnUGhpdFJLNlh4alllc19ReFIyRkZLODZUU2V1d3ktV25lczR2Sk50eUhzd2YyLXZFaHNxRm9oR0ZR?oc=5",
 "source":"PBS",
@@ -2555,6 +3655,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"Lindsay Clancy supporters have sent her enough letters to fill 3 boxes, lawyer says, as jury continues deliberating",
+"url":"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDhVV0VuWGZQTHZCY1E3TVduZGtRLVFvRGpJM3E2b21hZ1BOdVBORkJCeFFSWVQ5S2hydDlIUms3bDNPVHVybzF6QVlXS2Q4M3MtSTRkdmNHTzE2MHRVME9ZU3oya0t1aU12Zi1KbkR4ZHFIcjhLLXh0TS1Zek56eUJ2alRRNzlzM25UZUZLWVpfQ0ZLVW9udTRkMC1GRnNqTGg0Nl9lSkV0cHFHXzAxU00za3c5ZGl6?oc=5",
+"source":"NBC News",
+"host":"news.google.com",
+"published":"2026-08-31T19:55:05Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Lindsay Clancy trial live updates: No verdict after 3 days of jury deliberations in case of killing of her kids",
 "url":"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYzZoQWJ2dWYtTEdRcEhoN3hWWnJ3RlVmX181NlI2WkVBWjV0OG5ZUktuTE5EQTFpTUNSY3NsYjItTGJUNG1LU3c5QkU0VkZHQTRDQ2tpVGRTbGNXYUhGdzRyMzY1Mlc4ZE16U1N2OGVqdnV4VDViTXJBMjFZeUt5dVZFUTU0M1NQLVVvSjhmLUFXWloxdTdMR1ZrOUJHeU5zU1hITzI4UVR2VWw4bXdF0gG0AUFVX3lxTFBlajgtUEt0cEwxS3E5MHZIOFN1dUZEWGNlSm9WOVZNLXRmWXd4cVBaRUtHbkJwV0kyX3hfX0pVS25UZ1JUbUhnLXk3MExMblR3cWhyWlozTnE1YTQxb3EzbTM0eVNqa3FUSTdOREJROS1jbTVKRmFGZTlZRllLdjhpSkpnV3A3Y2dxSXM5R0tLTFBUTHJ6OUpWT09CXzBxUHlvS2drNnJrX3ZHa0hzbGxwbS1yUQ?oc=5",
 "source":"ABC7 New York",
@@ -2841,6 +3952,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"Lindsay Clancy trial: Psychologist testifies Duxbury mother is criminally responsible",
+"url":"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQVc3alNfZVNUMGgyZGJ0SE15bVpDUWJqVE56aXpybDBLakxBNTlDdXQtLTk2TU9HRU1VSm1NWFBNX1ZmVS1EVlkzdFQ2bTlpWTNGbjZnT1R1WmlFZlhKbVpTc2J5MnZ6dzF3c0xLbFB3bWNKS3Rjci1vendESzRaRGpBOWpiQlFnTW9SY3k0RjZjR0ZUUHVuTEVXWWNNMHpuTGd3Tm93aWQ0d1VZSlpxVVpNWU82MzJscmVUOThpQUttdEJvcG5EZE1mbGZrSXhPS052M1BOWWtKTTBiUktzT2swcEpCVGR0MDV6Zg?oc=5",
+"source":"Boston 25 News",
+"host":"news.google.com",
+"published":"2026-08-25T20:11:20Z",
+"summary":"",
+"via":"gnews-duxbury",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Lindsay Clancy murder trial Day 20: Watch live as closing arguments approach",
 "url":"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZXQ5TFM2MGJES3hyeGJwcmxSNFJpS0pvdTQ5Y0t1T2VYWDdjdzJNNWxRemJObGVjNEJ2WXR3Y215a3J0cldqOWl6cGI5QThuNEFmNXpIcGYxaDE0UGhoczJXZTk4cVl6ZVFLNTFzenZrb2xLMXlabWxPZHpKZy1LaGhFOGVDeXpxa2otQmVoMkZ5RGE0cDBzSk9heVF6THNLRlRKLUwwSFFmd202ZFZ4amJqeURkR1ZYM2txRmwxQUVPVHJ1LVU2TGpwNzVTMzdKenJCV3NMUTNpbk02VDB5ZHZ5VWQyMng3YU5jNXg1dFE?oc=5",
 "source":"The Patriot Ledger",
@@ -2949,6 +4071,17 @@
 "via":"gnews-sjc",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Lindsay Clancy killed her children. The jury will soon answer a more complicated question.",
+"url":"https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXZMSkhNQjdVWm1jRWc1RThhWTQ2dmpmREg1SE9NLTc4dGtwU0xEcUw3emRmaXNyMjFZRnB1X29CWEtCczlhUGQ1amhDcEZ2REtkYXlVYXg4YjBubUNZLWFiU1Y1THlnWDE5ZW1iamtBeTNybWJIbkRNUFpRN09Sd3BCeHZfSU44R01NZmRWNms4UQ?oc=5",
+"source":"NBC News",
+"host":"news.google.com",
+"published":"2026-08-24T07:00:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"As the Clancy case highlights postpartum psychosis, a mom stricken by it shares her story of hope",
@@ -3072,6 +4205,28 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"Lindsay Clancy trial: Supporters gather for Duxbury mom, defense set to call last witness",
+"url":"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcVZQeGZ3S0NxOFFxZnR0MFZ0dFBRT0dvV1R6U19wbVNYN1pqSzZxRlB5c0ZPaWJDWl8tY1V6cXRYWjZLU2daN3RoMkM2YnBRMWdfVnFJbjRCU05kQmxJdjlWdGhlZzhMdnFyRUc5aFJnSFNCZWNMVzZJRC1pLVB2MXR4LTJMX1UyUVhvVHdqQTBnTmxwUlB3MlVodzJXbEdFcmlobmV0NVJVbkptcVJHYXhvWk5xRVQ5emlUcFZRdVJ5X2VTOXdjTXpTeS1BSm1YdkJnSVhkWE5RamhHLU0yNdIB9AFBVV95cUxPSmFFMWp2MVAzd3lUX2J3MzdSaTN3VXpjc0FvS1BBR3RkLUNHZ0RGV2pxM2F0N25KRXdTTkVRVTgzaFNKaTlGSmIwZG1EQTc1T2xLWXZFUWJsNkx1cWVvNWZfWDlZaDB0Rmc0a1oxS1VNdzdzTGVIRnFhMUJWYUJiMTRiRXZ6Vm9VYnFEbXh2V0xyQmR0YXN5c1FWemhaZHFZUm5NUEdUWXVmYktMSk9Sa1R1WDJ2WnlpX1RsTFdQcXA4R2g0MDA4SndRaGxYUnZqSjA3Q1IzZzN4R1BUUm9SN2xFUEY4Yk5ydVd1YXg1RFU5Vl9E?oc=5",
+"source":"Boston 25 News",
+"host":"news.google.com",
+"published":"2026-08-20T07:00:00Z",
+"summary":"",
+"via":"gnews-duxbury",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Where has Lindsay Clancy been held since the 2023 Duxbury killings?",
+"url":"https://news.google.com/rss/articles/CBMigAFBVV95cUxORUxlXzVDZnlHQnNVN2hrZEgxb054QVpjZnRDUjJlX1FuWDNCWjFPWkpoMGdHTWZIM00xWU1IUVN6cWV5SF9kUnh5cVdCY1lkbFRCeTg0SUdFUnU0allzNEhLOGRYR21XaG1oUS1oM2xTMXByOTlUUlpQdHJ4NmdRWQ?oc=5",
+"source":"AOL.com",
+"host":"news.google.com",
+"published":"2026-08-20T07:00:00Z",
+"summary":"",
+"via":"gnews-duxbury",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Lindsay Clancy murder trial Day 16: Watch testimony livestream",
 "url":"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV2UwQ3VIVEY5QzI2THpHZ3h3VDJLZ3ZKNl9ob2JCOXEySC05eVZ2M21wQlRxTE9ILUxMdVFBSUJwVlkxcGNSS0FxWkkxYXUxcnBjWXZVWV84Vk1GMEdzZHV1MUF6bGpHS0xZcVhNR1FXWUc5U210NWw3NE9DLXpMdEVraDZyRzh1ZlBsb3k4QWppNkNRakNsNFh3QTcwZWJPYTNjN0NrSXhIanFPbEZlUFRyVnl4M3dCOUs4SzNCaU9HY0tmWG9jNEUtS1BRZ1hmTzJ1cjVFdk1Wc05yNzNqSjBuUVVsZE5lYVQ2dTBqbm1DUXIyeVE?oc=5",
 "source":"The Patriot Ledger",
@@ -3092,6 +4247,39 @@
 "via":"gnews-duxbury",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Lindsay Clancy's trial put postpartrum psychosis on the map. Experts want progress to follow",
+"url":"https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRkhvYzlsYTFKSlVNbnNmNzRaampjS2kxS0NFcEpGYnRnLTR4T3RiQkUzWU45RGh6WUFlZWIzQm0zNHRGNnFpY0lKUmRiMFIwOVN3dkd4SThqWVdq?oc=5",
+"source":"BBC",
+"host":"news.google.com",
+"published":"2026-08-19T07:00:00Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy murder trial Day 15: Watch testimony livestream",
+"url":"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYTV5UXNDSXh6aHNEVF9iR2ZUNkc3WXdVYjdraWs4Q29kWThsWVFXM25VTkVVWHNhTDFqSkdrNmJLMjh2a05XUU1ZNEZrQWRucGU4VkhvRVZ1eV9tTkxNMkdUSE83SktfY01EbXdDWDI1RnFFc2JvNmRLeEgyR2NjZjUxWmR0dy16RHdRSUxjUnI4SjN6N2dGNW1TdXRJbmltZkpZNG9PUmNGMThOMm94aV9mN2RjblJtMUJidi1YLXJhYS0xZGZSdzNBcEhMcmMybFBVb2RWYzVqbm95STIyLTB3cHRyRzI5SXd3TmlkOA?oc=5",
+"source":"The Patriot Ledger",
+"host":"news.google.com",
+"published":"2026-08-18T13:18:00Z",
+"summary":"",
+"via":"gnews-duxbury",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Why is Lindsay Clancy in a wheelchair? Duxbury mom charged with killing children",
+"url":"https://www.usatoday.com/story/news/courts/2026/08/18/lindsay-clancy-duxbury-mother-seen-in-wheelchair-throughout-murder-trial-heres-why-paralyzed/91349398007/",
+"source":"USA Today",
+"host":"usatoday.com",
+"published":"2026-08-18T11:41:00Z",
+"summary":"Lindsay Clancy, the Duxbury mother charged with killing her three young children, has appeared in a wheelchair over the course of her murder trial due to injuries she sustained on the night her ...",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Lindsay Clancy’s former Duxbury home: Who owns it now?",
@@ -3224,6 +4412,28 @@
 "via":"gnews-duxbury",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Who bought Lindsay Clancy's former home? A former local prosecutor",
+"url":"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbk50N1NlMWoxa1BiR0dhb3VBMmJhVGVLVktiaGFfaEhHNWkta2FKMjR0SWpiQTM2cWFWR3N1YjFHb25HNFpjS3ZsSDE0SVc5VEdhTzlPVVF0aEFqWS1pcV9QdXNpeGx3OHR1U2hlUmhwT0Y3bnBWalZaaG50Rk1vXzROejQ4YXgtZV9qeVlaNEkxTTY5N092NlItYVlBYjJZbGhON1BDazU?oc=5",
+"source":"Greenwich Time",
+"host":"news.google.com",
+"published":"2026-08-17T07:00:00Z",
+"summary":"",
+"via":"gnews-duxbury",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Patrick Clancy's uncle was former Duxbury police chief? New family claim sparks online speculation | Hindustan Times",
+"url":"https://news.google.com/rss/articles/CBMi-wFBVV95cUxORVNjNEV0dUJueXVYLUFjMG1Mbk1DSld0TWZvME9sOTZmSTFHVmZva2J5ajZyczM0dDlXYlhaU0daN2ZhcUpWYWJKTXNpQ2FfQ3N6b00yd1RvakZzVExnVGItVXBGX2RpTFdsMEpxNEVCcWNieEUwSllzU2FKSzlkUVlsazFFTVp0THRGdUpjdzIzUFVaeFppVnZpaXExTVdyRWZXZVl6TUM5LWFMZW92OHJCMG1UTVI1SnNodzI1VjdEbmt6S0V4SGpuZVM3R0pJX0ZBS2lDN1BTcE1nVU84NlNZMUFuQnF5TXZDMlNQMkR0TE53Y0xGd0lHRdIBgAJBVV95cUxQSGFNTERUWFFVZTRxR2hVOU5RUDhIVzItand4WXZwQXVZLWtYMVhmaEpJWDJ5cTBDUjdLd0VpcFhKVXhXN3dITjJsbW1ad01taW1HRmI1dENzdEJRLVpOdzZkZmZPcVVVcm5vNWxBdk5IaVlhRTNMVUtURW9mcHhLVDYydHMzYUoyUWxocEFYVm9uX1dUczE2dldvMGxSVDluY3ZvaW90T0c5dDdra0gyV2d5dzZ1UHZ5SHlXUDNiN0wtV0FmeHh0UkxabXF4WDkwNkw4aHBOOEdqUmdVRS1idE9lQW93Y0d0WVF4LXpiREN0Ujc3Q01FMEM4ZHFjazFt?oc=5",
+"source":"Hindustan Times",
+"host":"news.google.com",
+"published":"2026-08-17T07:00:00Z",
+"summary":"",
+"via":"gnews-duxbury",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Lindsay Clancy's trial highlights gaps in understanding, treating postpartum psychosis",
@@ -3523,6 +4733,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"MA v. Lindsay Clancy: Daily Trial Highlights",
+"url":"https://news.google.com/rss/articles/CBMitgFBVV95cUxNbTZpaWk1SEdRbmRtejhsak9MSzA4RXE0YzJhMFRUd1dzRjY4N0RpQnVlWmhwR3FmOGF5NFVPcUdpb3NOXzltaEZIYmdJVk5DZGpKZml6NXpfQlZ1Z05hbC11bEs5OVJoZl9hcjNXbkJyYUhuS1htbEZUQmZicTQzVVBiNG1jSTRyQW8xbHJ1ekIyNUpBc1lmZkhNWVQtVlF4UkJPSHM1Y2hDS09NazZyUnZpUnM5dw?oc=5",
+"source":"Court TV",
+"host":"news.google.com",
+"published":"2026-08-10T07:00:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Lindsay Clancy Told Her Kids “Go To God, Baby” as She Strangled Them, Her Defense Says, Describing a Male Voice That Commanded Her to Kill Them and Herself",
 "url":"https://news.google.com/rss/articles/CBMipwJBVV95cUxNc2h0QkxCcE5ianNpMklNNEFXYzEtZG5vc1RTeVpQRXpDVHZlLUl6MGMwclc2aHQ2TW5FeVpTMDNYM1hLTGVyMzBQWVNBSHVCVVBNeXYySWM0cmJFQVptMlhUQWFzRHJwWUVscGlzZ2xWYk0zVk5JdGRiNGdzTDk0WTd2OTZSNEJtNmdGcUVsS25JYXdsWHNYa3dFQmQ4TjdIeXJZaE5EVEJkSHB3ZGhpcEM2bGRwNTh2T2NIOEljeFhSWVBvZlNlS2JQZDg3eHkxQnRpWFpEbHNtVmxET0FseXhhOEFRaWhDZE1fZ3ZFY3NicVhqS0VaXzQ0M2NGUFVfZjFoVUpnT2hqTm1LLUJWa0QzYUllWHJUSkFsYWFNQ2ZHamkxRnBn?oc=5",
 "source":"thoughtcatalog.com",
@@ -3587,6 +4808,28 @@
 "via":"gnews-duxbury",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Lindsay Clancy trial (live updates): Psychiatrists who treated Duxbury mom take the stand",
+"url":"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdHNidlhsSTBIbm5pRC0xZjczUXRuNDdyRFN4b2FhOE5sRGhiSlZkUzFlR25aMnVaaWMtd2F5RnlrV3hndjRWd3RCc04tZ3VHZV9BM3M2Nmg5RGtXM1hYT1NrTWljcmFNVlNJTHdmSDE4cG56Z1M3RGhiNF9qc2JkSjdDTzRxWTIySDk5TTBobnJiRDBtenVQQmo4THkxclo0UzdqUlhmQ0dQRWFfWDN0LVdveTBOUWpRZUZjOU9fbEF3and6aE5fVlJfNFJDY0hMT1ZBdnd2V0Q1Nk1kWnA3Y3ZqanpKM1ZpOGww0gH_AUFVX3lxTE9USFlVTy1GUUpTMEtHeDZDTHVVZktsb0VZc09fdVliT0J3VHJ3RzNmWU1NUHJ0RTBxd2F4VGthTWQ5VVJHNG41eTdGZkl5dThObUt4eXdXWTFrQ21IZDJ2czJHM3gxWmxnQUtnT3Zycmt6YXFqUTdiWEVKdVgtTHRZbkllNEs1ZjVTNlBoMzVBTEV1TzdKb1Nxc3BFRi1fTThKS29ETDhLY1VvYjVSSVl2a0MwdGZEYjZGYldKX2ltWUV3V2FlNnVCbWlVMkFZWnE5Z0lTVzBIWmoxa3cxSDZfalNfcGtwaGljZjZETXdPcXY5dnVzdnJkU25jeDg0NA?oc=5",
+"source":"Boston 25 News",
+"host":"news.google.com",
+"published":"2026-08-07T07:00:00Z",
+"summary":"",
+"via":"gnews-duxbury",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Lindsay Clancy trial: Psychiatrist who treated Duxbury mom expected to testify",
+"url":"https://news.google.com/rss/articles/CBMimwFBVV95cUxORkFKbGVJMTVfS19MaWFQWExfaXR1Rl8xNXQxM2NfRDZDWTY1WmRhM1RBWm1Za3BNbkVGZ2dwNmRrN2UxdE1ycXFMVFE5NzNLWElhWndOVXBpRmVqZ01vQTRfOC1xZ2tSMFpEbFlmTnJZalJ5cEN5cnNaOTl4dzVBY3Uycy1iLTJOaF9LbDJWUldCNjA2Skg5MjFrNA?oc=5",
+"source":"Yahoo",
+"host":"news.google.com",
+"published":"2026-08-07T07:00:00Z",
+"summary":"",
+"via":"gnews-duxbury",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Lindsay Clancy sobs at murder trial as jury is shown baby's autopsy photos",
@@ -3776,6 +5019,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"Trial of Lindsay Clancy, the mom who killed her 3 children, enters second week of testimony",
+"url":"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHNXS1pVSkl3ODBJWEhfRWZjVzY0dFJ0Zzc3clZZQlo3Mi05TnZJSFRQYTRNbXFrbm9HbG5vZElrVGJDQlFfZGJDbENOOEVVLTU2djVmODVRR1cwMVpvOXVwY29ibnNLUWxBcWp4UVk3U21wTW9fOHdJZlFVeWw0RXRJbWc4TjZpOF9SSTNnWDlGZnpBMWZOWDRCV1BIamRHS3hoM2Zud0I5ek1ucTZpSl9hUTBmMU1HZHN0S2dPQnFNckk?oc=5",
+"source":"PBS",
+"host":"news.google.com",
+"published":"2026-08-03T07:00:00Z",
+"summary":"",
+"via":"gnews-duxbury",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Jurors in Lindsay Clancy’s trial visit the home where she killed her children",
 "url":"https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2p6b0ZFTTYzZk1RMm1NN0dOSEdFUTYtbmRySjV6bXg4dzFVNmVzUkVoQi0yajJ4MWlKOHhvbERQZnU2WGFBaWJ5ck1POVVTSWdKemFsZXVFcDlCRFpjUW1Zc3pwanIwanRKWF9jNlRGNWZIUERiU3YtN0FubHVLd2JEYWlUd2FCSUREWWEzR3F0WkIxb0pPX0RyZFdUamd2aVZ3dNIBuAFBVV95cUxQVjl1QUNXY043U0hhaXBfUDV2NzRlMWZzSHJQck5JZHhQZ1BBX2NKWFo0dzBpQWlRdDNoZFpyTWtIa0ktRk5DbkNGU21ram13NTNTV2Njc1A3SUZ1RFZrMy1xR0JDX3BqUlJ0NnRpRnpRY19WbHBlR1R5bVJZb1lKTHFWZjZpeXpCaUZ2LTVhN0E1bldlaGlheHVnWXZLTXRPREVyVDhmYnRoazZUT0p6dXQyc3pJNEtr?oc=5",
 "source":"WFSB",
@@ -3818,6 +5072,17 @@
 "via":"gnews-trial",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Prosecutors trying to show Lindsay Clancy faked suicide attempt, legal expert says",
+"url":"https://news.google.com/rss/articles/CBMingFBVV95cUxNWWljZWoxNFBxWkJLd1hmdEtHZjJMMFpKanR2b1RaNmJXcEdtcy1KaXZKR2l0MEM5ZXdqZjNEdWI1OFVlZ1ZoU0hXazM1cWZqU2NOTXhVR2lNekQxcm9LamM5ZUNJQ3psQkh0bndRdWVpV3BtcUY3Z0hGVHpNZjNCaHZReHB1V0NYbHpFZ3kwdDlVSVYyNE50LVRkLUUzdw?oc=5",
+"source":"CBS News",
+"host":"news.google.com",
+"published":"2026-07-31T07:00:00Z",
+"summary":"",
+"via":"gnews-duxbury",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"First responders describe discovery of children at Clancy home",
@@ -3917,6 +5182,28 @@
 "via":"gnews-trial",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Lindsay Clancy's jury will tour Duxbury home where she's accused of killing kids",
+"url":"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkxrX2Q4Q0dQaWlfTGtxU0t2blU2d1hFYWVjd0RGZmVncnNkaGl4UVAyWkFrTEt5YThnWVVCQS0zMi05Mk9hTGNlTURKdGNMaVBTSm41Z0wtVkgzeXB2ZkJJMFpfOXl0amlZdnU0R1prSUdZbEZZZ1d3SEhtMVBjWndaZzQ1QTBrWGk3dHJGX0hycjV3THlF?oc=5",
+"source":"WCVB",
+"host":"news.google.com",
+"published":"2026-07-28T07:00:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
+"title":"Jury to tour Duxbury home where Lindsay Clancy is accused of killing her children",
+"url":"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaEZ1UmRsR3Z4YkFCVzlrbTBVdnhBVnZCaEhrbHdMVC1sU01KQ0tfV0cxOEtlZkhDcG1LanZPUHl6R1lua1l4aDQ0QlVpWmRjLUNhNnZhWTVXVTZ3SDRpZ29HLU9BNXJYU21tckFQdGxqVTczZi1weDRxcHN6ZnpYSWFwdlpvREJyLXhIc3YzQUJXUnVYcFpaVUZjTzZfRW1YUlp4SkNvRG1nR1V5NUtEVmFXNk5LZW85QUNJaks0Njlab0Q5WEtHd2VQNzlMX0lwUzlyaEJESE9vLWPSAe8BQVVfeXFMTUtrM1pCY2UwWi1ZdUVwYTBRc3BobGtGM245Qm8zMXBNSlk1Q3pCTXN2ei1CdDkwOFYwQ3lna1E1cllzVEo2RDdmM0laWFVTLUdmalJTMllWX0VIeVpBbzV6eUN3WUh5eEtJRGJ1WFl0Sm9zMkxfU09JWDJMdUtYcXJpei01WDg3ZkY3STRxSXE1RWw2dVRrNFZXalUtZ2plMTRZbTdJZEd6VDhuenRYUG5uODNoQ2hXWnMzMVlwU3pBSFR2dk9IRVVHaldmRE5VaERZdkYyWEU5WXQwRVlkeXU4Y18xZTFfc0t0NnhvdEk?oc=5",
+"source":"Boston 25 News",
+"host":"news.google.com",
+"published":"2026-07-28T07:00:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Who is Kevin Reddington? What to know about Lindsay Clancy's attorney",
@@ -4073,6 +5360,17 @@
 "first_seen":"2026-09-04T16:42:42Z"
 },
 {
+"title":"Lindsay Clancy, Massachusetts mother accused in deaths of 3 children, to undergo psychiatric exam for prosecution",
+"url":"https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjBfXzlWUERGOHl0a2NTRVFiVHVWWHdmSzFSRHUwY2VDODRta2hEb3pBbm0zd0l1N1FIc28wdkowcUxzVThJQkJrZjcwd3FqMFg1UEktM2RnTFlUdnFEZXBqYmtzUzlKX0cyLUV5Z0xHazRLalVRQVVjV19QZmVmY1YwTWUzUC14a3lSXw?oc=5",
+"source":"WCVB",
+"host":"news.google.com",
+"published":"2025-01-15T08:00:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
+},
+{
 "title":"Trial date pushed back for Lindsay Clancy, Duxbury mother accused in deaths of her 3 kids",
 "url":"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR1ZWcjZBUkM3VTdRamxRQ01aWk5DdWp2b3RVVldPeWcyZzNHUGFxSzgzTGFBVVc1ZEpqS29JRnFObGs4WEtXWTZqSDlPdmEzcjE0UkhlNERxSFBiMkFmemRoV1J1ZGhRa05WMmlvOEpwMDgxNVRfelF0WWtKd2hVWk9SaGVKNC1iZFBaZWtkR0ZHbW80QTdOZ3JOR3pDRU83RHVvMktSNllWOUJGUFo5OHhhU2ltR3lQMlZYZ3o5aHVTdFdXaDdVdjJqbTMya0RCS29xVlBCQ0xkT1ppRWhB0gHzAUFVX3lxTFBXRGNSRGlEaUtTcElYQTdEZDg5TDJhMkYzTGtqUjNtcWpaaXJtdzBnajJvWF85X3Y1OHplTVpVUm1VSTFHemtPeFI0QTdJZFdPWGZWT0xGWG1VNEgwMmJieTFNTlE3Wml2bktaNHphbV9MUUtEVDVuT1k1ZlBOMmdLZ29CWGZXVUVjSWdnUVU2Snk5NlNaYTdyaEt0V0xUYzlTMW5oLU5lX2hiN3VPNUxKeUstbF9FZWt2NGtaTVlEZUQzOF9fUDI5UURJSy1rX2tpNzY2N1RjTVRPNTZDbXZvdFFsdV8wRjhiSnIxQ1hHWGVHZw?oc=5",
 "source":"Boston 25 News",
@@ -4093,6 +5391,17 @@
 "via":"gnews-sjc",
 "kind":"gnews",
 "first_seen":"2026-09-04T16:42:42Z"
+},
+{
+"title":"Patrick Clancy, Duxbury father of slain children, to run Boston Marathon in their memory",
+"url":"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3RVRTZueGxKbHFhakhSS2xrdHBia0xBYjhlbnlqU1hlcUd2ZURJWXlzczdJYm9JaW03U3pVTzgzeG1rSGlCczFwRGx1QU03RWdBMTYtLWE5NVRzQzZyemJxTWFoNnhZajdGRU5sSzBxbU05VUJndUZ1bGdLTG8wRFNZUjhjSGxKX2hQUEJ6cWs0dw?oc=5",
+"source":"The Boston Globe",
+"host":"news.google.com",
+"published":"2024-04-11T07:00:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-04T19:39:58Z"
 },
 {
 "title":"Lindsay Clancy: Massachusetts mom accused of killing her 3 children could face life in prison without parole",
