@@ -314,6 +314,13 @@ def main() -> int:
         health.append(entry)
         print(f"[{'ok' if entry['ok'] else 'FAIL'}] {src['id']}: {entry['items']} items {entry['error'] or ''}")
 
+    # If every core (non-optional) source failed, the network is the problem, not the feeds.
+    # Write nothing so a broken environment can never publish an empty or all-failed status.
+    core = [h for h, s in zip(health, SOURCES) if not s.get("optional")]
+    if core and all(not h["ok"] for h in core):
+        print("all core sources failed; leaving data/ untouched", file=sys.stderr)
+        return 1
+
     articles, a_added = merge(articles, new_articles, MAX_ARTICLES)
     videos, v_added = merge(videos, new_videos, MAX_VIDEOS)
     discussion, d_added = merge(discussion, new_discussion, MAX_DISCUSSION)
@@ -335,11 +342,6 @@ def main() -> int:
         "history": history,
     })
     print(f"added: {a_added} articles, {v_added} videos, {d_added} discussion; totals {len(articles)}/{len(videos)}/{len(discussion)}")
-    # Only fail the job if every core (non-optional) source failed — a partial outage should still publish.
-    core = [h for h, s in zip(health, SOURCES) if not s.get("optional")]
-    if core and all(not h["ok"] for h in core):
-        print("all core sources failed", file=sys.stderr)
-        return 1
     return 0
 
 
