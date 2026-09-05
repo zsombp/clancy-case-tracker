@@ -1,13 +1,13 @@
 {
-"generated":"2026-09-05T16:51:43Z",
-"runs":9,
+"generated":"2026-09-05T19:05:17Z",
+"runs":10,
 "added":{
-"articles":32,
-"videos":4,
+"articles":19,
+"videos":0,
 "discussion":0
 },
 "totals":{
-"articles":755,
+"articles":774,
 "videos":126,
 "discussion":150
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":105,
+"items":102,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":28,
+"items":29,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":93,
+"items":94,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":48,
+"items":45,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":12,
+"items":2,
 "error":null
 },
 {
@@ -73,7 +73,7 @@
 "label":"YouTube: WCVB",
 "kind":"youtube",
 "ok":true,
-"items":7,
+"items":6,
 "error":null
 },
 {
@@ -89,7 +89,7 @@
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
 "ok":true,
-"items":11,
+"items":10,
 "error":null
 },
 {
@@ -105,7 +105,7 @@
 "label":"YouTube: Court TV",
 "kind":"youtube",
 "ok":true,
-"items":11,
+"items":9,
 "error":null
 },
 {
@@ -201,6 +201,11 @@
 {
 "at":"2026-09-05T16:51:43Z",
 "added":36,
+"failed_sources":3
+},
+{
+"at":"2026-09-05T19:05:17Z",
+"added":19,
 "failed_sources":3
 }
 ]
