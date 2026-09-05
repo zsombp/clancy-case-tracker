@@ -1,14 +1,14 @@
 {
-"generated":"2026-09-05T01:02:36Z",
-"runs":5,
+"generated":"2026-09-05T05:50:36Z",
+"runs":6,
 "added":{
-"articles":51,
-"videos":10,
-"discussion":25
+"articles":49,
+"videos":2,
+"discussion":0
 },
 "totals":{
-"articles":622,
-"videos":118,
+"articles":671,
+"videos":120,
 "discussion":111
 },
 "sources":[
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":27,
+"items":29,
 "error":null
 },
 {
@@ -88,9 +88,9 @@
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":true,
-"items":12,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-boston25",
@@ -112,9 +112,9 @@
 "id":"yt-lawcrime",
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
-"ok":true,
-"items":4,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 500: Internal Server Error"
 },
 {
 "id":"yt-wbur",
@@ -128,16 +128,16 @@
 "id":"yt-nbcnews",
 "label":"YouTube: NBC News",
 "kind":"youtube",
-"ok":true,
-"items":2,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 500: Internal Server Error"
 },
 {
 "id":"reddit-search",
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":25,
+"items":24,
 "error":null
 },
 {
@@ -182,6 +182,11 @@
 "at":"2026-09-05T01:02:36Z",
 "added":86,
 "failed_sources":2
+},
+{
+"at":"2026-09-05T05:50:36Z",
+"added":51,
+"failed_sources":5
 }
 ]
 }
