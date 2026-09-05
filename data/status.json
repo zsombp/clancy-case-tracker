@@ -1,14 +1,14 @@
 {
-"generated":"2026-09-05T13:53:59Z",
-"runs":8,
+"generated":"2026-09-05T16:51:43Z",
+"runs":9,
 "added":{
-"articles":24,
-"videos":1,
-"discussion":22
+"articles":32,
+"videos":4,
+"discussion":0
 },
 "totals":{
-"articles":723,
-"videos":122,
+"articles":755,
+"videos":126,
 "discussion":150
 },
 "sources":[
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":104,
+"items":105,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":30,
+"items":28,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":2,
+"items":12,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":12,
+"items":11,
 "error":null
 },
 {
@@ -73,7 +73,7 @@
 "label":"YouTube: WCVB",
 "kind":"youtube",
 "ok":true,
-"items":8,
+"items":7,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":12,
+"items":10,
 "error":null
 },
 {
@@ -89,7 +89,7 @@
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
 "ok":true,
-"items":10,
+"items":11,
 "error":null
 },
 {
@@ -105,7 +105,7 @@
 "label":"YouTube: Court TV",
 "kind":"youtube",
 "ok":true,
-"items":12,
+"items":11,
 "error":null
 },
 {
@@ -136,9 +136,9 @@
 "id":"reddit-search",
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
-"ok":true,
-"items":22,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 },
 {
 "id":"reddit-sub1",
@@ -197,6 +197,11 @@
 "at":"2026-09-05T13:53:59Z",
 "added":47,
 "failed_sources":2
+},
+{
+"at":"2026-09-05T16:51:43Z",
+"added":36,
+"failed_sources":3
 }
 ]
 }
