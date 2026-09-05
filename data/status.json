@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-04T22:24:05Z",
-"runs":4,
+"generated":"2026-09-05T01:02:36Z",
+"runs":5,
 "added":{
-"articles":76,
-"videos":34,
-"discussion":23
+"articles":51,
+"videos":10,
+"discussion":25
 },
 "totals":{
-"articles":571,
-"videos":108,
-"discussion":86
+"articles":622,
+"videos":118,
+"discussion":111
 },
 "sources":[
 {
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":100,
+"items":99,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":28,
+"items":27,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":95,
+"items":93,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":44,
+"items":52,
 "error":null
 },
 {
@@ -73,7 +73,7 @@
 "label":"YouTube: WCVB",
 "kind":"youtube",
 "ok":true,
-"items":12,
+"items":8,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":14,
+"items":12,
 "error":null
 },
 {
@@ -105,7 +105,7 @@
 "label":"YouTube: Court TV",
 "kind":"youtube",
 "ok":true,
-"items":14,
+"items":13,
 "error":null
 },
 {
@@ -113,7 +113,7 @@
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
 "ok":true,
-"items":3,
+"items":4,
 "error":null
 },
 {
@@ -129,7 +129,7 @@
 "label":"YouTube: NBC News",
 "kind":"youtube",
 "ok":true,
-"items":8,
+"items":2,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":23,
+"items":25,
 "error":null
 },
 {
@@ -176,6 +176,11 @@
 {
 "at":"2026-09-04T22:24:05Z",
 "added":133,
+"failed_sources":2
+},
+{
+"at":"2026-09-05T01:02:36Z",
+"added":86,
 "failed_sources":2
 }
 ]
