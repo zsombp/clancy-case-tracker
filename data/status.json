@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-06T23:59:05Z",
-"runs":19,
+"generated":"2026-09-07T04:49:46Z",
+"runs":20,
 "added":{
-"articles":7,
+"articles":15,
 "videos":0,
-"discussion":22
+"discussion":17
 },
 "totals":{
-"articles":890,
+"articles":905,
 "videos":130,
-"discussion":333
+"discussion":350
 },
 "sources":[
 {
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":105,
+"items":108,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":31,
+"items":32,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":94,
+"items":92,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":11,
+"items":12,
 "error":null
 },
 {
@@ -113,7 +113,7 @@
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
 "ok":true,
-"items":3,
+"items":2,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":21,
+"items":17,
 "error":null
 },
 {
@@ -152,9 +152,9 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":true,
-"items":6,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 }
 ],
 "history":[
@@ -252,6 +252,11 @@
 "at":"2026-09-06T23:59:05Z",
 "added":29,
 "failed_sources":1
+},
+{
+"at":"2026-09-07T04:49:46Z",
+"added":32,
+"failed_sources":2
 }
 ]
 }
