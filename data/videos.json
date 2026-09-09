@@ -1,7 +1,18 @@
 {
-"generated":"2026-09-09T06:04:00Z",
-"count":158,
+"generated":"2026-09-09T11:31:03Z",
+"count":160,
 "items":[
+{
+"title":"Exclusive interview: What happened in Lindsay Clancy jury room?",
+"url":"https://www.youtube.com/watch?v=jDxCUuppghE",
+"source":"NBC10 Boston",
+"host":"youtube.com",
+"published":"2026-09-09T03:43:12Z",
+"summary":"",
+"via":"yt-nbc10",
+"kind":"youtube",
+"first_seen":"2026-09-09T11:31:03Z"
+},
 {
 "title":"Lindsay Clancy trial juror describes tense deliberations",
 "url":"https://www.youtube.com/watch?v=N5LG6N3XPiA",
@@ -23,6 +34,17 @@
 "via":"yt-lawcrime",
 "kind":"youtube",
 "first_seen":"2026-09-09T06:04:00Z"
+},
+{
+"title":"Patrick Clancy responds to online conspiracy theories",
+"url":"https://www.youtube.com/watch?v=HSXieBFIEIw",
+"source":"NBC10 Boston",
+"host":"youtube.com",
+"published":"2026-09-09T00:23:26Z",
+"summary":"",
+"via":"yt-nbc10",
+"kind":"youtube",
+"first_seen":"2026-09-09T11:31:03Z"
 },
 {
 "title":"Clancy trial juror says holdout was 'arrogant'",
