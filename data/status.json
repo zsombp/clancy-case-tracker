@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-09T19:49:36Z",
-"runs":34,
+"generated":"2026-09-09T22:36:06Z",
+"runs":35,
 "added":{
-"articles":42,
-"videos":3,
-"discussion":20
+"articles":35,
+"videos":4,
+"discussion":26
 },
 "totals":{
-"articles":1374,
-"videos":173,
-"discussion":648
+"articles":1409,
+"videos":177,
+"discussion":674
 },
 "sources":[
 {
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":101,
+"items":104,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":12,
+"items":8,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":5,
+"items":4,
 "error":null
 },
 {
@@ -89,7 +89,7 @@
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
 "ok":true,
-"items":3,
+"items":6,
 "error":null
 },
 {
@@ -129,7 +129,7 @@
 "label":"YouTube: NBC News",
 "kind":"youtube",
 "ok":true,
-"items":4,
+"items":0,
 "error":null
 },
 {
@@ -152,9 +152,9 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"ok":true,
+"items":8,
+"error":null
 }
 ],
 "history":[
@@ -327,6 +327,11 @@
 "at":"2026-09-09T19:49:36Z",
 "added":65,
 "failed_sources":2
+},
+{
+"at":"2026-09-09T22:36:06Z",
+"added":65,
+"failed_sources":1
 }
 ]
 }
