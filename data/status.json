@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-10T16:29:41Z",
-"runs":39,
+"generated":"2026-09-10T19:45:53Z",
+"runs":40,
 "added":{
-"articles":44,
+"articles":47,
 "videos":1,
-"discussion":18
+"discussion":22
 },
 "totals":{
-"articles":1536,
-"videos":184,
-"discussion":755
+"articles":1583,
+"videos":185,
+"discussion":777
 },
 "sources":[
 {
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":102,
+"items":106,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":94,
+"items":95,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":2,
 "error":null
 },
 {
@@ -89,7 +89,7 @@
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":0,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":19,
+"items":23,
 "error":null
 },
 {
@@ -351,6 +351,11 @@
 {
 "at":"2026-09-10T16:29:41Z",
 "added":63,
+"failed_sources":2
+},
+{
+"at":"2026-09-10T19:45:53Z",
+"added":70,
 "failed_sources":2
 }
 ]
