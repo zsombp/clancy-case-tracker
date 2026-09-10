@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-10T19:45:53Z",
-"runs":40,
+"generated":"2026-09-10T22:39:02Z",
+"runs":41,
 "added":{
-"articles":47,
-"videos":1,
-"discussion":22
+"articles":38,
+"videos":2,
+"discussion":20
 },
 "totals":{
-"articles":1583,
-"videos":185,
-"discussion":777
+"articles":1621,
+"videos":187,
+"discussion":797
 },
 "sources":[
 {
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":106,
+"items":102,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":29,
+"items":30,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":51,
+"items":54,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":10,
+"items":5,
 "error":null
 },
 {
@@ -73,7 +73,7 @@
 "label":"YouTube: WCVB",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":2,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":23,
+"items":20,
 "error":null
 },
 {
@@ -356,6 +356,11 @@
 {
 "at":"2026-09-10T19:45:53Z",
 "added":70,
+"failed_sources":2
+},
+{
+"at":"2026-09-10T22:39:02Z",
+"added":60,
 "failed_sources":2
 }
 ]
