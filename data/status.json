@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-09T22:36:06Z",
-"runs":35,
+"generated":"2026-09-10T01:08:32Z",
+"runs":36,
 "added":{
-"articles":35,
-"videos":4,
-"discussion":26
+"articles":23,
+"videos":3,
+"discussion":22
 },
 "totals":{
-"articles":1409,
-"videos":177,
-"discussion":674
+"articles":1432,
+"videos":180,
+"discussion":696
 },
 "sources":[
 {
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":104,
+"items":102,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":47,
+"items":48,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":12,
+"items":2,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":8,
+"items":12,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":4,
+"items":3,
 "error":null
 },
 {
@@ -113,7 +113,7 @@
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
 "ok":true,
-"items":2,
+"items":3,
 "error":null
 },
 {
@@ -121,7 +121,7 @@
 "label":"YouTube: WBUR",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":2,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":23,
+"items":22,
 "error":null
 },
 {
@@ -152,9 +152,9 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":true,
-"items":8,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 }
 ],
 "history":[
@@ -332,6 +332,11 @@
 "at":"2026-09-09T22:36:06Z",
 "added":65,
 "failed_sources":1
+},
+{
+"at":"2026-09-10T01:08:32Z",
+"added":48,
+"failed_sources":2
 }
 ]
 }
