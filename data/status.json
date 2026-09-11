@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-11T01:10:34Z",
-"runs":42,
+"generated":"2026-09-11T06:06:31Z",
+"runs":43,
 "added":{
-"articles":15,
-"videos":1,
-"discussion":17
+"articles":12,
+"videos":0,
+"discussion":20
 },
 "totals":{
-"articles":1636,
+"articles":1648,
 "videos":188,
-"discussion":814
+"discussion":834
 },
 "sources":[
 {
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":101,
+"items":100,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":95,
+"items":96,
 "error":null
 },
 {
@@ -65,32 +65,32 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":6,
+"items":2,
 "error":null
 },
 {
 "id":"yt-wcvb",
 "label":"YouTube: WCVB",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":true,
-"items":1,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":true,
-"items":1,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-boston25",
@@ -104,9 +104,9 @@
 "id":"yt-courttv",
 "label":"YouTube: Court TV",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-lawcrime",
@@ -114,23 +114,23 @@
 "kind":"youtube",
 "ok":false,
 "items":0,
-"error":"fetch failed: HTTP Error 500: Internal Server Error"
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":true,
-"items":2,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbcnews",
 "label":"YouTube: NBC News",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"reddit-search",
@@ -367,6 +367,11 @@
 "at":"2026-09-11T01:10:34Z",
 "added":33,
 "failed_sources":3
+},
+{
+"at":"2026-09-11T06:06:31Z",
+"added":32,
+"failed_sources":9
 }
 ]
 }
