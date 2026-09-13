@@ -1,13 +1,13 @@
 {
-"generated":"2026-09-13T19:30:33Z",
-"runs":59,
+"generated":"2026-09-13T22:28:02Z",
+"runs":60,
 "added":{
-"articles":5,
+"articles":8,
 "videos":0,
-"discussion":11
+"discussion":0
 },
 "totals":{
-"articles":1874,
+"articles":1882,
 "videos":196,
 "discussion":1108
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":100,
+"items":92,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":33,
+"items":34,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":8,
+"items":12,
 "error":null
 },
 {
@@ -89,7 +89,7 @@
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":0,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":18,
+"items":19,
 "error":null
 },
 {
@@ -451,6 +451,11 @@
 {
 "at":"2026-09-13T19:30:33Z",
 "added":16,
+"failed_sources":2
+},
+{
+"at":"2026-09-13T22:28:02Z",
+"added":8,
 "failed_sources":2
 }
 ]
