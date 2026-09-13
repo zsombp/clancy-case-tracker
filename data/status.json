@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-13T16:24:29Z",
-"runs":58,
+"generated":"2026-09-13T19:30:33Z",
+"runs":59,
 "added":{
-"articles":12,
+"articles":5,
 "videos":0,
-"discussion":18
+"discussion":11
 },
 "totals":{
-"articles":1869,
+"articles":1874,
 "videos":196,
-"discussion":1097
+"discussion":1108
 },
 "sources":[
 {
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":102,
+"items":100,
 "error":null
 },
 {
@@ -446,6 +446,11 @@
 {
 "at":"2026-09-13T16:24:29Z",
 "added":30,
+"failed_sources":2
+},
+{
+"at":"2026-09-13T19:30:33Z",
+"added":16,
 "failed_sources":2
 }
 ]
