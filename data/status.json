@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-16T11:44:03Z",
-"runs":73,
+"generated":"2026-09-16T17:05:02Z",
+"runs":74,
 "added":{
-"articles":17,
-"videos":1,
-"discussion":15
+"articles":31,
+"videos":0,
+"discussion":22
 },
 "totals":{
-"articles":2212,
+"articles":2243,
 "videos":204,
-"discussion":1374
+"discussion":1396
 },
 "sources":[
 {
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":100,
+"items":99,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":29,
+"items":31,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":2,
+"items":0,
 "error":null
 },
 {
@@ -89,7 +89,7 @@
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
 "ok":true,
-"items":2,
+"items":0,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":23,
+"items":22,
 "error":null
 },
 {
@@ -152,9 +152,9 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":true,
-"items":5,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 }
 ],
 "history":[
@@ -522,6 +522,11 @@
 "at":"2026-09-16T11:44:03Z",
 "added":33,
 "failed_sources":1
+},
+{
+"at":"2026-09-16T17:05:02Z",
+"added":53,
+"failed_sources":2
 }
 ]
 }
