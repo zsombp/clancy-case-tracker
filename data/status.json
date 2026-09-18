@@ -1,15 +1,15 @@
 {
-"generated":"2026-09-17T22:14:36Z",
-"runs":81,
+"generated":"2026-09-18T00:27:32Z",
+"runs":82,
 "added":{
-"articles":24,
+"articles":23,
 "videos":1,
-"discussion":13
+"discussion":7
 },
 "totals":{
-"articles":2424,
-"videos":206,
-"discussion":1493
+"articles":2447,
+"videos":207,
+"discussion":1500
 },
 "sources":[
 {
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":99,
+"items":102,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":33,
+"items":32,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":96,
+"items":97,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":7,
+"items":12,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":11,
+"items":10,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":2,
 "error":null
 },
 {
@@ -561,6 +561,11 @@
 {
 "at":"2026-09-17T22:14:36Z",
 "added":38,
+"failed_sources":2
+},
+{
+"at":"2026-09-18T00:27:32Z",
+"added":31,
 "failed_sources":2
 }
 ]
