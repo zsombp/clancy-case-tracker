@@ -1,13 +1,13 @@
 {
-"generated":"2026-09-19T14:28:59Z",
-"runs":91,
+"generated":"2026-09-19T18:05:12Z",
+"runs":92,
 "added":{
-"articles":6,
+"articles":17,
 "videos":0,
-"discussion":6
+"discussion":19
 },
 "totals":{
-"articles":2760,
+"articles":2777,
 "videos":218,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":102,
+"items":101,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":33,
+"items":31,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":56,
+"items":53,
 "error":null
 },
 {
@@ -57,16 +57,16 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":11,
+"items":12,
 "error":null
 },
 {
 "id":"bing-duxbury",
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
-"ok":true,
-"items":2,
-"error":null
+"ok":false,
+"items":0,
+"error":"not well-formed (invalid token): line 1, column 41"
 },
 {
 "id":"yt-wcvb",
@@ -137,16 +137,16 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":24,
+"items":21,
 "error":null
 },
 {
 "id":"reddit-sub1",
 "label":"Reddit: r/TheLindsayClancyCase",
 "kind":"reddit",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"ok":true,
+"items":10,
+"error":null
 },
 {
 "id":"reddit-sub2",
@@ -611,6 +611,11 @@
 {
 "at":"2026-09-19T14:28:59Z",
 "added":12,
+"failed_sources":2
+},
+{
+"at":"2026-09-19T18:05:12Z",
+"added":36,
 "failed_sources":2
 }
 ]
