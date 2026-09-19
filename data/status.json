@@ -1,13 +1,13 @@
 {
-"generated":"2026-09-19T20:46:44Z",
-"runs":93,
+"generated":"2026-09-19T23:11:45Z",
+"runs":94,
 "added":{
-"articles":12,
+"articles":8,
 "videos":0,
-"discussion":4
+"discussion":8
 },
 "totals":{
-"articles":2789,
+"articles":2797,
 "videos":218,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":99,
+"items":100,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":32,
+"items":35,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":57,
+"items":59,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":20,
+"items":23,
 "error":null
 },
 {
@@ -620,6 +620,11 @@
 },
 {
 "at":"2026-09-19T20:46:44Z",
+"added":16,
+"failed_sources":2
+},
+{
+"at":"2026-09-19T23:11:45Z",
 "added":16,
 "failed_sources":2
 }
