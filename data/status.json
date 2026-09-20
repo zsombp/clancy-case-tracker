@@ -1,13 +1,13 @@
 {
-"generated":"2026-09-20T01:16:03Z",
-"runs":95,
+"generated":"2026-09-20T06:26:33Z",
+"runs":96,
 "added":{
-"articles":3,
+"articles":7,
 "videos":0,
-"discussion":5
+"discussion":0
 },
 "totals":{
-"articles":2800,
+"articles":2807,
 "videos":218,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":101,
+"items":100,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":34,
+"items":35,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":95,
+"items":97,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":11,
+"items":12,
 "error":null
 },
 {
@@ -88,9 +88,9 @@
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 500: Internal Server Error"
+"error":null
 },
 {
 "id":"yt-boston25",
@@ -112,9 +112,9 @@
 "id":"yt-lawcrime",
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-wbur",
@@ -136,9 +136,9 @@
 "id":"reddit-search",
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
-"ok":true,
-"items":22,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 },
 {
 "id":"reddit-sub1",
@@ -152,9 +152,9 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":true,
-"items":5,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 }
 ],
 "history":[
@@ -632,6 +632,11 @@
 "at":"2026-09-20T01:16:03Z",
 "added":8,
 "failed_sources":8
+},
+{
+"at":"2026-09-20T06:26:33Z",
+"added":7,
+"failed_sources":10
 }
 ]
 }
