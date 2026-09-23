@@ -1,13 +1,13 @@
 {
-"generated":"2026-09-23T20:27:31Z",
-"runs":115,
+"generated":"2026-09-23T23:45:43Z",
+"runs":116,
 "added":{
-"articles":16,
+"articles":13,
 "videos":0,
-"discussion":18
+"discussion":10
 },
 "totals":{
-"articles":3268,
+"articles":3281,
 "videos":237,
 "discussion":1500
 },
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":95,
+"items":96,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":12,
+"items":2,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":10,
+"items":11,
 "error":null
 },
 {
@@ -73,7 +73,7 @@
 "label":"YouTube: WCVB",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":0,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":24,
+"items":25,
 "error":null
 },
 {
@@ -731,6 +731,11 @@
 {
 "at":"2026-09-23T20:27:31Z",
 "added":34,
+"failed_sources":2
+},
+{
+"at":"2026-09-23T23:45:43Z",
+"added":23,
 "failed_sources":2
 }
 ]
