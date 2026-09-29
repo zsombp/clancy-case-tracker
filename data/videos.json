@@ -1,7 +1,29 @@
 {
-"generated":"2026-09-29T02:03:15Z",
-"count":242,
+"generated":"2026-09-29T08:38:25Z",
+"count":245,
 "items":[
+{
+"title":"Clancy Case Back in Court Tomorrow",
+"url":"https://www.youtube.com/watch?v=m9eBk_HyGyg",
+"source":"WCVB",
+"host":"youtube.com",
+"published":"2026-09-29T03:47:28Z",
+"summary":"",
+"via":"yt-wcvb",
+"kind":"youtube",
+"first_seen":"2026-09-29T08:38:25Z"
+},
+{
+"title":"Watch Lindsay Clancy's 1st court hearing after mistrial over hung jury",
+"url":"https://www.youtube.com/watch?v=qD9VFlbjdyg",
+"source":"NBC10 Boston",
+"host":"youtube.com",
+"published":"2026-09-29T02:21:11Z",
+"summary":"",
+"via":"yt-nbc10",
+"kind":"youtube",
+"first_seen":"2026-09-29T08:38:25Z"
+},
 {
 "title":"Lindsay Clancy's Next Court Hearing Could Change Everything",
 "url":"https://www.youtube.com/watch?v=9jDiFwTOrbs",
@@ -23,6 +45,17 @@
 "via":"yt-cbsboston",
 "kind":"youtube",
 "first_seen":"2026-09-29T02:03:15Z"
+},
+{
+"title":"Analysis: Previewing Lindsay Clancy's 1st hearing since the mistrial",
+"url":"https://www.youtube.com/watch?v=bld9w7X1vJQ",
+"source":"NBC10 Boston",
+"host":"youtube.com",
+"published":"2026-09-28T22:15:57Z",
+"summary":"",
+"via":"yt-nbc10",
+"kind":"youtube",
+"first_seen":"2026-09-29T08:38:25Z"
 },
 {
 "title":"LIVE HEARING: MA v. Lindsay Clancy | Accused Killer Mom Trial",
