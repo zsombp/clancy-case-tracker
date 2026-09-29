@@ -1,7 +1,513 @@
 {
-"generated":"2026-09-29T15:57:38Z",
-"count":3659,
+"generated":"2026-09-29T20:52:13Z",
+"count":3738,
 "items":[
+{
+"title":"Prosecutors in Lindsay Clancy case seek gag order over 'circus atmosphere'",
+"url":"https://news.google.com/rss/articles/CBMikgFBVV95cUxNVGtkUXZ0Tnh4Nk1iZlNydktzeVA3OU9pV05FQk1WX1FpdWVqa0t2R0ZzRzFHYzExRXI2ZktTM0p3SF9abkFOZlFpS2hVdXRRMC1Gd3dmOUNlSnJDcjhRdk1BbktjNEl4X2ljSTNwN3RtcVc1dzhrcjZmMlV0RU1WSnVzX0pZUnVUMVRsRGliNmNfUQ?oc=5",
+"source":"CT Insider",
+"host":"news.google.com",
+"published":"2026-09-29T20:38:27Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy back in court after mistrial",
+"url":"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOWtZT19ya3psNEgyUHRoaXl1clhlUEV4Z1pSdVNLb0h4c3Q0am9zemhxZ3h3ZldRZ3NoSF82V2kwVlE3cXhkMmxpUmF1a1ZENzF2dnpxX1RJd2pMeDRab3JBN2daVDY1enlSZm9VLUpfNkxVZ2lldE11a0xuWlpzNE1PZ05kb0VHR0NWSWFhNDJWZnhpakRqZjktTEpyOWNfVEZVUzlhZ3gtU2E0Yi16RjRNY0J2bVVGYXozZkhQVkEyMzlmM3Rnb0VvdENkWUpE?oc=5",
+"source":"newscentermaine.com",
+"host":"news.google.com",
+"published":"2026-09-29T20:35:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"DA in Lindsay Clancy case won’t confirm if he’ll prosecute her again",
+"url":"https://www.bostonherald.com/2026/09/29/da-in-lindsay-clancy-case-wont-confirm-if-hell-prosecute-her-again/",
+"source":"Boston Herald",
+"host":"bostonherald.com",
+"published":"2026-09-29T20:21:07Z",
+"summary":"The district attorney who charged Lindsay Clancy with three counts of first-degree murder for the strangling deaths of her children won’t say whether his office plans on prosecuting her again.",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy Trial Lone Holdout Juror Michael Desronvil Speaks Out In New Video After Hung Jury",
+"url":"https://news.google.com/rss/articles/CBMiogFBVV95cUxOV3oyQ2Vyc1BJalpyakVPTGIzYVNIbHgzLTluOGxGWWZHMHNtQW0wVHpSX2drNUdfRVR1TzYxTDhaMERaWlNvV3MySlZFeGF6clJPaTRhaVpvM1kxNW9HQzBpa0h2UkhIMEFmZzc1ZFFXTEZ2M0pibWh0VkhXUDFGalNoYy0wWWRDNlg5NE9JaGwxcFRSZkhrcGlDMGlYd2g3Z1E?oc=5",
+"source":"oxygen.com",
+"host":"news.google.com",
+"published":"2026-09-29T20:16:02Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Watch: Lindsay Clancy appears in court for the first time since mistrial",
+"url":"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GRjBmRWVDd1dyYjV2WnVjeUdCQnRRTHJJY3pGel9VYlRkYVplbzJjNlNtRnlQMnJCMzFwWEFycDRIX1NhTkVIaGw3cUZGNzR0SFVuMldxYjA?oc=5",
+"source":"BBC",
+"host":"news.google.com",
+"published":"2026-09-29T20:09:23Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Christa Pike Feels \"Kinship\" With Lindsay Clancy Days Before Her Execution for 1995 Murder",
+"url":"https://news.google.com/rss/articles/CBMingFBVV95cUxOc2NWeUZYdUFHdXdXMklvR2lnaFNVUU9zZ0hucWc1Wk5QYXp1ZWF3bTFPR214V25OanBhY0tPU1IydW5SMkozRGpFMWloeEcwQ3lQTUZ3eGUzUktOa3BTX0dRSndnTWZWb3dwQ2tuLTQ0QWQ0aUVZR0lXR1phTkc3T3QxaVRYZUE2a1N0MGlhbE1qcGFqM1RLLTlDUExGQQ?oc=5",
+"source":"oxygen.com",
+"host":"news.google.com",
+"published":"2026-09-29T20:07:51Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Reddington’s apparent reversal stuns in Lindsay Clancy hearing",
+"url":"https://news.google.com/rss/articles/CBMiswFBVV95cUxPelMxcHZjcy12MEVKcEZYVjM3NVoyX1JCZ1oyN2pEREFUWEg5c0dHa3UxWTRGbS1BQW5DREZEeUpZMzZoUHZZUHZ3cHJmR29YcGtybUtIQkNUcDhRQU9yLUhYSmd6eWt3TWo0RjVDV1cyelJrc3JkNm1reG1ZdHc3cW9RUTAzUGpEdHA2aVphczJhTlM1YTl3THdmLTA1UERBbVpTRXNrVVdPem1ZRUNISkN1MA?oc=5",
+"source":"WCVB",
+"host":"news.google.com",
+"published":"2026-09-29T19:41:47Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy hearing takeaways: Retrial news, surprising defense strategy",
+"url":"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTE5leGpQWW5yd01HZ29DdFBzS2s2bFhUY0lXOGZoNlRxd3J2M28zY3ktVTNKeEdQc193QzlaTWl5NlRURDRBNDlQblFiWHpQYnpOdVByN3N4WTBabEdWYXVTRTlIX2ZFZEpnbWVOeHpwVTRSNU9zejdzWFo3UXhYa2ZVQmp0NktBRHllSXo2NlhUWlFVTEJvbUtIY3pVN3dYWWEtRFRXTXE?oc=5",
+"source":"USA Today",
+"host":"news.google.com",
+"published":"2026-09-29T19:36:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy case returns to Massachusetts court in brief hearing",
+"url":"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaE1RS09MRDZRUnNnYVVwNEpRdkFZSVRWVl9EMDZSU1FuZ25hVF8yWE1lYkxCcENxSTNCUnFpTmxrQ3lNc3Rqamd2MFJtclU3VkJnMHgteTVYQndQV3BPel9TYkt3b3I1LWNzalBEYWZCRURNajJDUU52X09lTDcwc1VfSml6cU1Hcnl6cGhwR09aMlV0VGdJR3o3VjUwTmh4QXNPT1hEWHRVOW9PZVkwNENESkhLSHF4Zlg3el9MaHlNdE9rWlpjQTU2bVFjbF9J?oc=5",
+"source":"USA Today",
+"host":"news.google.com",
+"published":"2026-09-29T19:33:37Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy set to return to court for first time since murder trial ended with deadlocked jury",
+"url":"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ245NF9ZcjVrdzd5eEwtdEZtTXhZdjZ1d29GdkFWTXNPV2o4WlZlQW9Sb2QyOXJCVnJwYXJnV1U4cFJiVUJIbGUtQVROYXVPWXpNTndreFB5YjhCZE95OF93OXNlc2QyYjM0cW5RSE9LeXNDVHptMGpFZ0tBaWVYek52WEJQYUdNODFNTzJ3SzZrczJhOWxFOGIyd1BlUC1oNFdwLUVuc0ZmTzFYQXpDSl9lOEdabWx5b3FjNVU5SHQxakFrVk9iQ2JDWEg3M3BT?oc=5",
+"source":"ksl.com",
+"host":"news.google.com",
+"published":"2026-09-29T19:31:47Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy's defense shifts strategy in bid to avert retrial",
+"url":"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWZsYldKMVZ4REtwLWd0VGF0TVlyRHRoa2RXOTJ4UjVUYV9Lb2dqMDJtWms4clpBMXRiV2NvVVVNRzNaQXIwVEF3XzB0SV91U3phaWVYRHM3dWVPdHAzcVJtUTFwVTYwUklzSFFuYVFSb2NVRUNVLThyQklFRS1XSk9GUjJ4Wm5FSnhhcTFQMHFlVi0yRFN1VVdGenFPbkdLQmZEbUx3WHVTUjZDWEZNMzVRczBERzd5a0pja0JxaUU?oc=5",
+"source":"Reuters",
+"host":"news.google.com",
+"published":"2026-09-29T19:07:02Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"The holdout juror in the Lindsay Clancy trial spoke out on video for the first time in a recorded statement to “Hannity” on Fox News, saying he wanted to put the focus back on Clancy’s three children.",
+"url":"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNU5HRnJubXFlLU5qSUlRc3E3NTUzVk1mbTRDdTNGMUM2ZS1ha0V6RFpZSDVnbmstNXBoQUQ3RC1JNnRaTlk4eE1zSjluTFRGUzFzTDhOQk5ZMlI2b1VYR3Axd1BWYlBMcW5Cd19GX3NzRExxYWowYlBGMVA5SFl6Y3lFZ2RNM3I5OUVaaEdFLUROUmFGbmZ2dW1ueExaSnFrSmFnclNWcU0wdVNhZHdvYjFKckVfYjRoODN5dnh1YVk3MXJKaWtLakxRRlpkbUFEcF84RkRIeHJsZw?oc=5",
+"source":"facebook.com",
+"host":"news.google.com",
+"published":"2026-09-29T19:06:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy holdout juror speaks out",
+"url":"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFF5NUROZnZWLVk2bDAzOVJEcmJxVWYwMGVYTDlqZ3JaSDBSWmZLSGpMYnZrXzhlQXJ2ZHA2TXVBdFVBY1JKamlVNU1FcXlETnphUElVRTV4MEhXUVhzQWhsTHlkS2RleGNrRkdJUFV4VDhfOGY2ZlAyR2stU0NIWGVMdldQZWhjUWFLbndpR195U0tTQW9CMVVxWHItaVZzaXlrUEVmZW51Y0ROaWtDaQ?oc=5",
+"source":"WKYC",
+"host":"news.google.com",
+"published":"2026-09-29T18:53:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy's attorney says there's no evidence she killed her children",
+"url":"https://news.google.com/rss/articles/CBMi1gJBVV95cUxOSjh0M0hDelBkMGZ6TklSR1VBX05UY3B5ci1UbnZFYm91eWFuVk5BYTNMcHRwTDRoZGRhQVVjWlpBNlhwY0hDWjcyNEFqT1pwajY1WnpTRlJ6TU5jcnF1anZCRkx4UHRUbGxkaUlCbzVqSEdpSlpyWDZXT1lac0llZG5DV2c4a0xjc0tQZ1otRkVnV2draE9aUkVNVDBuQXJmQ1B1SmZDU0FuaktQY0pjc2lqdzVVam1raHp5RFVtakhlSkpoU2U0WVFTdm1wcHpuOHBvWTFXUlQyR091WEFIdjdqdmhiR0w4QU9iQ01PT21lc0RkRlY4VW93UXU0ZXJndDQxLXZyVVAyQ09zbzlnRmdPY0VPWXNpb2VXd3RSM0liS1FReWRDT0hzTDFwOXVSb21JcnE1dkVmcEs1MkdsMVNHU09LdHloMWFSNC1QcmFiVWg3Umc?oc=5",
+"source":"WLUK",
+"host":"news.google.com",
+"published":"2026-09-29T18:52:46Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy's attorney says there's no evidence she killed her children",
+"url":"https://news.google.com/rss/articles/CBMi0wJBVV95cUxQMmE2dTNDS2ZnVzF3NXViWHMtR2RGQnNJdW1KVTlwam5mUjg5aHJPeW1FNnlmYTRneGRrRzhPS2dJOWM4Xzg3VnNCa29jaUxqYjNjMHFHSjlFcEduMFJNSGpWdVBFWm1BUWhpOXFITkRNaUdIZVNrak9nd0ZKS3lKNG9aWnk4SThKQ3B1Sm8tWTdkMGl3NU9UQklvYWJkd1RqeFhLNGpGYk1EbkZYZmV4TjZ6blF1QWJFQWxSMHVoMEx2bjQzQVhkV3NuaW5KZzd6eE85SEhqOHJGOVFCSU5pWjJTd3JXLVlwcmVBTHg1Yy03VWlySjZQRGV2bjl5cTJ2RkItQ1ZiYXVWdlJZTUsxaHozeGdfNFhnZkN0VWRKN05VZk1HM3M1Y2FkRkdMblVvNEZPWldtZGpwRmpiTWdtOFYzZUdRUDZVT1pCaENPWFg2X1k?oc=5",
+"source":"KATU",
+"host":"news.google.com",
+"published":"2026-09-29T18:52:06Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy’s Lawyer Now Says There’s a ‘Total and Complete Lack of Evidence’ She Killed Her 3 Children",
+"url":"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMV9OeWJUWkVObDhlQWVqc00zS0xSenNMTFBrRHZfZV9SdHJEUEhQZ1dzQjhHd0NlZno2YnZZakNBbkNYVXB5eUE3NmlFWnFDVnRKOV80Y1dqclllQ2xWRk5aaHltRVM0OVQtRkJOUFhDdUZHcGhmSUxpMmNjNHZqbVNtZVI2YWJZaEE?oc=5",
+"source":"People.com",
+"host":"news.google.com",
+"published":"2026-09-29T18:51:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy defense calls murder case ‘speculation,’ seeks to end prosecution",
+"url":"https://news.google.com/rss/articles/CBMivwFBVV95cUxQME9na19ra3BSOTI4Wm1lVTlEd3VBSGpmdUFLOElCSUJIRUdzZVFXVEZGZlhNU3RvWUhmOTBoZzhJUHNsYWcyWjc4N3dQZ08tSWlpYTFRR25ReW82MXNlVDhlSXo0akdxcW5qOHp1UTNSRURkNzlseV9lQ3lEWkpnZ2Y1X21hc2d2WllfTUZyTW1VS3RIX1dNa3RBWVBGMWR4WkR3Zy1rUEtoWWNsMU5FSXJ3ZGlVNDJ5RkhqeXVQZ9IB0wFBVV95cUxPS29rVlo4eE9TTVlCRW42TXV5WHRCUldySW9rQTFRMkZ0QWJhZWlORkZpLWgtcy1LVjVvWE5NekU5UGZVMzdXMFNrc05BTnNNeGRYUkF4eFI1M1R1RjBSN0lxQmdVQl9XUTFBZVJQVkpXY2tqYTAzSkhmenZhN3FlanFRWVpJNDhJc09aZWpseFhkMUFrVWJQazZZU2dhRTVQSTJaRGZKQXpycnNWZ1pSUmxFZEdMRmpnbnF0Njc2cmc0ZUlqZUJVQktEUUJHUGJWeDZj?oc=5",
+"source":"MassLive.com",
+"host":"news.google.com",
+"published":"2026-09-29T18:43:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy's potential retrial, other issues remain unresolved after hearing",
+"url":"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjVna3lSUVpCdENhV01uQ1VYRE10UTFTdG1mLTJIQ0tuTVJqbWhhLXc5MnBsVzAwQjVtYmVpUFR0OGl3Q0t2ODdrSzFzZHlmR3RRaEMyS01Kc0ZBMVA5U0VRSDRHT01OX1U3WFRHMVNQQ0Rsb1FGV0JxbTBBWXJ1ajRObkppeXlu?oc=5",
+"source":"WCVB",
+"host":"news.google.com",
+"published":"2026-09-29T18:25:53Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Boston 25 News. . Boston 25’s Bob Ward spoke with Attorney Kevin Reddington outside court Tuesday about his reaction to the prosecution’s motion for a gag order in the Lindsay Clancy case. #LindsayClancy #Boston25",
+"url":"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcGJMVFkyUjh6d3d1bngxUGUxaVBwR0o1N21QNVJqd2JBZEFHQkhLQnpGek5lVXpoQlZjQVNHRG5MbGcwTjNnUzJzT2ROVXNJdFhCQzJfcTBoZlNKZFRhNFotbEtBWmxhTWVxbDlZQkRFWVM1eEczQ2lZcFJObkdEMUZoSExzYXFnNDBLcEdPald4bzZxcWZZdWJpckxwYzVuWUpGLTJLcWNGUUVGOEFCNkZYcFk5QmRFeWVrSGh1cnBpN1liUXVwMEpRSWlOVFFKNF9fdjktdHZNR2c?oc=5",
+"source":"facebook.com",
+"host":"news.google.com",
+"published":"2026-09-29T18:22:16Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"What happened in the Lindsay Clancy case? Patriot Ledger reporter recaps",
+"url":"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGhaVHNRYnE3YXBnU0dfOXJibE9tTDlEOVg3Y1N2QVlSN3JXZkIxWmF1OTNPdU90MFlLa182WGpkRnZOUVJKMmdrd3pUREpPUFdUSUJvS1ZHcDRDd3NrdkYwczY3N282bEtoODZZTG56T0MzdVhUelNlOGEtaFZTbnJLNG5tc1d1WldqU05NWW5wdlZNMkpybW5weF81djJ0ZHRyU1MyUTJ2RUJmd2RWTmZOem9tSWxnSGRFbEtXQkJMUzd2dk5kdWg4WTVoQnVaTHNr?oc=5",
+"source":"The Patriot Ledger",
+"host":"news.google.com",
+"published":"2026-09-29T18:21:29Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Judge weighs dismissing charges against Lindsay Clancy after attorney blasts ‘total and complete lack of evidence’",
+"url":"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVV1SE90bnNwZlRCcElmRmFfbjUwTGlYby1raTBfdkdMWGE1RFlHTW9HRF94cVROck9CZVhkeVNyemJtWVFtcGoweTItU1pIZ2M1OUZmR1RmdTQxdnhrSzBRWXR1WFliY3JoQUZOSVFfel9OaVFvQzlPZld6V080dHJ6eWY4SmpCcWZDNXg2ZDR6WWhwS3lLSl9YdGptV3hyNmRFS2JwUTNSZXJLWDhyVVU3NkxVcGoyUzdsQlpybW1SUk05MUZHYUlpekRleDVGdUdzbG5zNGZEZw?oc=5",
+"source":"Court TV",
+"host":"news.google.com",
+"published":"2026-09-29T18:11:48Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy supporters in pink show up at court",
+"url":"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRlYzc3NsZU1rdjVQUmRTMGlRTkVnNUlHdk1LRzhCaGdpWW1QclM5UE9JcEJYYmlrTEhkenp5UHhGRGdUZVVFNWdpQ0I2ZnJ3VExRUDBEeUZQbzFpOElPd1VvS1lETE40aXlwTDBCekZQTTV3eS1YTmM5M21aNkNJTS1fcGJqNWlUSUhjSlN1RVZRdWtaUzh3X214dzhNRUU1VEMyVFpta0dVbnZqUHZIaUJKMF9oSjBqaFpB?oc=5",
+"source":"The Patriot Ledger",
+"host":"news.google.com",
+"published":"2026-09-29T18:11:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy status hearing following mistrial [FULL]",
+"url":"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MeTFYQ2lmcGJkdVFGaFA0R2dGME96b28wakc0S0FZajU2WUNOLWF5ZGtqT1JsdGhsYzZhWG1rVXdYRFBka3NKODN2amdtdnpySGVkT0laMVhiUVHSAWBBVV95cUxPMTJkS3dDOTByNlU2RzgyZkYwckh3RmlpeUFoVmtZeWdteGVKT1RxNmJMcldHRmlrYXpySkE1VDFZRGlpbjdESkhzRklfdUlfN043MEZMSnY0emhQQWxvSkI?oc=5",
+"source":"FOX 9 Minneapolis-St. Paul",
+"host":"news.google.com",
+"published":"2026-09-29T17:52:25Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Rep. Mace named by Lindsay Clancy attorney during tense status hearing in Massachusetts",
+"url":"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOREQ4NWhCTXRPSERJbU9hYVZHUTNmbnZxTnUwUHVCSEZ2WFhZZHhKd1lfcVp4bGhsMXJoejhqZEE3S3pqWjNmUnRJTXFxSWQwdE8tRl9YZVZncHZadTFPYnRYdnZRM0lzcDdWYk94ZTY0ano2M2oxLW44akNscFJjYlY4UWVZUkFCRjZIeFA5ZlZJbm40S2Z4Umd0Y0w4T3V5dlFFZkZfcVNCLXIyS2p3WVk1ZmJWNXNuTE8ybFdoUmNfdm15cGtQell4UTRkLU42clEtS0lxUTdweTgxcUFpVl85aw?oc=5",
+"source":"abcnews4.com",
+"host":"news.google.com",
+"published":"2026-09-29T17:49:27Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Attorney for holdout juror in Lindsay Clancy mistrial on protecting her client",
+"url":"https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHVDbS1oQ1VMUG9xUlA4dmxkRWhFNU9abDhSQm13TkMzTURuQ2lQbmVrVHVrRDhURkZ0SVl5ZWY2ZHpwdkk4ZHZHblhCLTVGNnZkbmM2cWo5RkFWSXBwdjVkWnh3Um5MX2lITEdkcUpyU1NDd2did0xLUVNNVmdrLVVqR1lZOVllWnhlMlJxRW02NHVhUUpDLVR1aWdkMDdMT3UxMk01c0tkb2FLNDhzb2FWaHRJZWs?oc=5",
+"source":"CBS News",
+"host":"news.google.com",
+"published":"2026-09-29T17:39:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"A pivotal court hearing is set for Tuesday as Lindsay Clancy prosecutors weigh a retrial after the mistrial that captivated the nation, while the Duxbury mother's defense fights to dismiss the case.",
+"url":"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQUtzR2I2Z2VacEk4eFRmZ3N4ZVdtanVCVlg1U2FxeWRHVzE3QkpEX2hFSktUcXYtMXVueE9EREZjR2xHTjdycVpsUnlRZ1VqSjUtdDNlXzM3b0hURDl5QVFKZXBzTkZScGdyZmJqNEJjUDg3SmFkOEREZ2RyNWp2RmFmNE5idURwQWs4MlZlNktMM3ZtbXlLSnRoSXVRTlEyY2Zud0pxVWZvTFZrZzFjdEFvN3ZUa2ZTRG1raG1Xdk8xNlFDaExTaFRhUXBsUEZ4ZXJ1RC1Va3l6UQ?oc=5",
+"source":"facebook.com",
+"host":"news.google.com",
+"published":"2026-09-29T17:38:51Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy to return to court",
+"url":"https://news.google.com/rss/articles/CBMisgFBVV95cUxONGlQTWM0X0haemxiUFg5WVVhREdFTmRFTUZwaXRMSlNPZEttTWtsVTNaUnhSeGUwa0QwV01tSm5kYjk5ZGYzSjExWEpSZmU3ZVd2cXhIRENGU3JQMUtsV3dIZmZWNlZodDNYRFptbXF5T2hRZmozdXdwTW1BeDlaOWY3am9VcGVEVmN6UmF2NWNKcmRNTEEyMnJRZDQwNllkbXZJS2o2VTFPbnJQV21xa3JR?oc=5",
+"source":"WPSD Local 6",
+"host":"news.google.com",
+"published":"2026-09-29T17:36:47Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
+"url":"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUYVJyVkNWeEJKclZONlZRN1hEbW9fcUNrUzVJcTQ5c0JqcHg2NURSeVZIUVh0di0tdGE5cjVna0oxWDRSOThMY29VeU1qQXUybHdqS3hSX2NYblRMdXc?oc=5",
+"source":"BBC",
+"host":"news.google.com",
+"published":"2026-09-29T17:31:30Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy returns to court",
+"url":"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlS00yUWlZQVMxU0FFMXJMSnlZRERTLXdrdUg1MlBiaXl6dHJVRG5laUcyQmlibE1NU1ZtUkRDVUZSbS1XS3JLa2w2ZzFkQUFqclR0VTV4dGEyd1JuT2fSAWNBVV95cUxQalZ3VHhwWDhJb09HYUVoQ2g5OWZnWXllUUZSbUxTdUNJSEVCNGZEa0tZd1I4TlQwQ04wTHdnbXg2cUoyOWlMVk4xMVN1aVlqcFc0cjJKYm1IOG1YdDNlVkZXQUk?oc=5",
+"source":"FOX 5 DC",
+"host":"news.google.com",
+"published":"2026-09-29T17:19:11Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy defense now says there's no evidence she admitted to killing children",
+"url":"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXBBdVpaQS1xOFlJbGlFVW0wUlQweG9DWFUzX1lHS256Mzh5ajkwam1JWTE2WHhOWUlPaVh1SkJCSndNc0FydzhtVmhtd25ONTJMeHZ2bV85dnJycm5OcXl2TkJlemNmUHVmVWsxYmJHckNQTE9YZ2Vka3NPX1FFQThhVHRkc1RqVXhId3I0WnZJU0VOd1ZpV0NyZWZYV1paUENvenlWOW81anUwbGhEMm03Q28?oc=5",
+"source":"CBS News",
+"host":"news.google.com",
+"published":"2026-09-29T17:00:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy’s lawyer changes tune on evidence she killed her children",
+"url":"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZE5qYWtZNEIzTXlYUXRRNHRmZkVnLTg1ejc1THJLQW41d2otRVgtdTBQYjRNMzFjRjNPYTBNZFE3eGV2b1QtOVhOeVRUMmpJZGo2MS1jRk1IcEVxLVZtOF95dnZrdlhkUVJRakNMbVpOeVZNQWpvdm8xd29fVE9wYlpqZUMtQnV2UmsxTUNfZ2pUbFFSeWQ1dVhQN01IanNDTXI4WVN4d0Y3UjRvLWVDYnVnZjlYN25Ub1E?oc=5",
+"source":"Washington Examiner",
+"host":"news.google.com",
+"published":"2026-09-29T16:58:00Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Inside the Lindsay Clancy Trial: Can Postpartum Psychosis Really Cause Such Extreme Actions?",
+"url":"https://news.google.com/rss/articles/CBMieEFVX3lxTFBndnZxNExfQ3cteXNhSVN2S0puckZXNVYzRWlDWE5CcjJHQXhGZDgzN2l5MTlpak5zOHlDX1JVZW5SenprLTVpT19OR3BJRzZ2clhSX1YyOHBIRXhiaU5IWG9qNE5BNkdFcW5CQl90RFUtMS1FNW5qUQ?oc=5",
+"source":"India Weekly",
+"host":"news.google.com",
+"published":"2026-09-29T16:54:24Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Could Lindsay Clancy holdout juror be investigated?",
+"url":"https://news.google.com/rss/articles/CBMingFBVV95cUxQdnJJdHdwQlJOWHZiTGxoclEtWHNtWU8yTzItejJlbFA2Z1IyeHZRbHc0cHJDQ1l3QXB4bmhsbHlHb1FoN2lkZThhUG9xQ0NEXzFKUjAxMFlwQ3ZJcC1OdG1ta2dfaXdjTENOUnJWSm1SRlNaUEE0WUY1MU9nM3dOck1LdTdMMFNKc2JtajVtR2pGMUczRl8tb2hVU2s3Z9IBowFBVV95cUxNR0dyaWtDU1g5WnNEYXZoa1M0NkxGOV9ZYVctczgxOXlPTlRfaGszUnFXcW1MZTg2Y2g0VHhHOUU2c0tXeXhVYk1jT3h5MlhFQ0hESnVreDl3bno5dnhVN3NLVG1wTmtKY3ZkZ0VWQlEtNlNuLVVraGZKYndMT05sNFpZeWRaeWpvTjRLdGFZbjl5UUlBRW1WcUNaaVhpbkl1aHBj?oc=5",
+"source":"NewsNation",
+"host":"news.google.com",
+"published":"2026-09-29T16:51:30Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Clancy's lawyers seek to head off retrial over killing of her children - as it happened",
+"url":"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVlMX0ZWY0VXVk9VU1ZacS1rLWRaT05Mc1YxSDlnbVhxQlpPaWRlSjhuS1Z4Q2JUcENidk41QVRGczRMU2lVTE9QWEdYTnZLWm00YTNrOW9JNUY0OXNMMjFYbTVWNkV5OXcwN3hSY2tERzYyRkxPZTh2bFJnQkZWcXlzUDBQMDVTSGJFZGo3cjRadThJVVpTWE5WN0pUQXVVUTNz?oc=5",
+"source":"Reuters",
+"host":"news.google.com",
+"published":"2026-09-29T16:48:51Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy appears in court for the first time since mistrial",
+"url":"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEpIR3BVc2hhWjhXWkoxSDZDWGdSTDljZVpzcjFPSWluT1pua2t5UFNCbXI5ZUYwSW94LWdVS0xDQzZ3M0M2WjZGN1FQXzZJSWcwVjhsUkhoQWhEaUE3QXQxTng5M3ZQZF9QSFlndnotTUljOHBRdDVrMHRFNUo1aDBjMXRnTFJSTFhDaGFTVF9UdHFVUW43VjJRMS1kN1ZLdWc0bzMtdw?oc=5",
+"source":"CBS News",
+"host":"news.google.com",
+"published":"2026-09-29T16:46:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy’s lawyer now questions whether she killed her 3 children",
+"url":"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVFE1QTYxRTdQMkVzUjJNWDQwcHoxbi1RV0dSMTNKaFdpQ2hldlZldmx3aTlUSVcxMVRaaGZ6OFVmWkJMaURsMllVcE5ZREdZT2dkbGtKbzZpUmYzUktiV1RBV0dPR3pPYlpuMXgza25nVjZ4Y2ZSSnFERUJOVFphUVUyU3FBYjZCaUFEWFo2MVV1TGZ1aGF2eUNyTEFKbUduMVo0VzFpRXo1cXp0TUdGRno5bGhfOVY3WDFsYmRqVS1TNlAtQU9XRHZ3Z29kb3IyWjYtWWFLR1VrQQ?oc=5",
+"source":"Boston 25 News",
+"host":"news.google.com",
+"published":"2026-09-29T16:43:50Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Will Lindsay Clancy face retrial? DA says he's still 'working on' decision",
+"url":"https://news.google.com/rss/articles/CBMimwFBVV95cUxPREZsdUpCNXRZZnJoS0dfRlRaNWJoa2ZUcnZOVzR6SmhxMXctcnlsQVc5Wk4xbm1wX1ZjanZuRXJUelRVbExZT2tBdDgyVzRVWlBXRDNZazByRkxiaTVJZk9wYlhfRzY3WHdZYW1kVUE0TWRPS0c1MWZ2LTA5MERnZWpMMzlqcXVObnc0M0hUeko3MG1Ma3kzcjhmSQ?oc=5",
+"source":"WCVB",
+"host":"news.google.com",
+"published":"2026-09-29T16:42:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy lawyer tears into evidence, timeline",
+"url":"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XaHhRbUItanFOZG1la1FPc1lRdl80a2pZaVd5ZEgyZm5xVUZfZS1Kd3FJa0NGdFdETndJNnRweTNWOTlJaGw0Zkg2ZG8yWk5SUGVOdXgycFdDd0HSAWBBVV95cUxPM1VJcDFfNl9jS0UxbDVDUzJFN1VOeUl4ZnRqcHpDUVVZX01aYUozVlBSbGliZTMyY0YydE1yam5ubFd5elFTNXRWNjRUS0FfN2JBX0VYTXdiOWRCcEZtSmo?oc=5",
+"source":"FOX 9 Minneapolis-St. Paul",
+"host":"news.google.com",
+"published":"2026-09-29T16:41:06Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy judge and attorneys discuss potential retrial date in first hearing since mistrial",
+"url":"https://news.google.com/rss/articles/CBMi0gFBVV95cUxON09CcXJqOWRWeV9FN1lRanlVaEYySC1sMmhzSmZMTGw1cHU3LUlVdDJlRHdQdkNXRWRRczZCcllfdm9CMXprTjZCXzZPWVlqRVdwLWExbnR0cGk0aHpfcm56dmFwNWZ1V2N6ZHNFZXJYSjVOU0Z0ODh5X1JjRmR4OTJ5WlVKQWw3bmhsMWU4WV9QZmFQVE1UWFpqeGI1YlI3cWNOYUp6X3FzaHFpUExkQkp4WU5Zam1XQ1ZxMkhkRm1LQi1TS1hDNXlCM2dGSUZtSEE?oc=5",
+"source":"CBS News",
+"host":"news.google.com",
+"published":"2026-09-29T16:29:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy’s defense says prosecution did not prove she killed her children",
+"url":"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcEJhR1dHOFdZaHRtdUlRaFR5T1FVWXlzTVhXNWtPTkZMUDI5N0dDZUhOakVaT1JCRzRsem9zUzVfM3VmbHNlWFJRMEtQT2pDaExCWGN0XzNFYmZGVG5lOHQ0Ui16ck11Q2hNT3hMTlJ4azFoaXdqNVJZSXg0X24wSE5XN2lLSFNRdUNVSlQ5XzNQMmw0aFV4aWd0RzBjYmRtcmpjMFZtdF9KQklJbU9kZzFfRzhRQmY2My1XLUZkZnVhRXY3?oc=5",
+"source":"NBC News",
+"host":"news.google.com",
+"published":"2026-09-29T16:21:02Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy back in court",
+"url":"https://news.google.com/rss/articles/CBMidkFVX3lxTE5DcXV0YWl2ZUFjMlFTdFowZHBQR29sa0toVVRwNVItVkgxMDBWQ2V2RmZHUWtLU1c2Z1J1dGJYNE1DSmFoRnhLc1VCcHAxQmZnTWRKTG1SVUJvem5pNXlicEVSd19YakdOMUtoaU9IRmtQU2NULUE?oc=5",
+"source":"CBS News",
+"host":"news.google.com",
+"published":"2026-09-29T16:18:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Judge punts retrial date for Lindsay Clancy, schedules new hearing",
+"url":"https://news.google.com/rss/articles/CBMikgFBVV95cUxNRkdGZ05OV2NfQlExcFYzcEhPdkVQZWpEZkJhZHdmeWlQRXdrZXdtamJKdnFpWWdSLXJNZVVaNXdxM3RNTHNSaFkzcDBoU3ljUTlvX1hWajM3VnBwakUxS29DeVdzSWt3eV95elJvLXg4U1NEQU4za1hRMDFaWnJRNnctLVFpMWdIbEMycmVPem43Z9IBlwFBVV95cUxOV0tFSElyTF83WWFoMXpVeFVjckZ1dnQ5RmhOeTczeU9pRXh5RVNiaEdPUGYxSmtpa00wc2ZrQWFwX1d0RllOSUU3ZGFsUVNJa2dxdzF1SjNlcTdYN1drV0taQ3ZHQXJCQUk4c0VaVEZfNGhMcGlOSnpxNl9TVDl1M1lCWDFDTFJWLWhCZU05LWw2MHFqek1n?oc=5",
+"source":"upi.com",
+"host":"news.google.com",
+"published":"2026-09-29T16:15:16Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy back in court as lawyers seek to have murder case dismissed",
+"url":"https://news.google.com/rss/articles/CBMingFBVV95cUxOV2hDMGZQdFRJWWVKWnkzakVqdmFZbS1PR0xRM011dW1TWjl2MHAzbkl5N3JOUTV1VERuTEVFQXVWN0JGNjhvTENJSENrWHZvY0NTVHV5N0p2MHZycmpacVFjTXJjbTRHdlBKSG5ZTFpMb0V4cVRxN09vLW9aZTBGRjZlbElzQk5qcnNPdjd0MXVoSVdWR05oc2IyWVZ5Zw?oc=5",
+"source":"ABC News & Headlines – Australian Broadcasting Corporation",
+"host":"news.google.com",
+"published":"2026-09-29T16:13:48Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Judge in Lindsay Clancy trial sets hearing for early Nov., tells lawyers to be ready to discuss possible retrial date then",
+"url":"https://news.google.com/rss/articles/CBMinwFBVV95cUxQd0E4cUNWNlg1RFhySlRBOGZFc2YwZVVYSGc2enBEOXBMc2pDOTk2aDZ6ZFp4NzJ0dUNSUWxwWTRVOUlhbDMzbEdZY05pekFjcFhHZWtpMU5KV2xQWXZ6SE9wY0UxbTBQNjFPQ0ZSN05JYUNoNmV2TXFkbXpPZkkxbVpjS29WSGNYZXdVYlNNSWtIaUFMdlpsLTNKbEw0Y00?oc=5",
+"source":"bostonglobe.com",
+"host":"news.google.com",
+"published":"2026-09-29T16:13:37Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy's lawyer now questions whether she killed her 3 children",
+"url":"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOalFjdXg2bDlhR1N6NTlDTElkTjg0d2dNelMzdTM5N3NRRGpEZ042X3BCOV9QOVpEbl9QNU4xWXFEZC1QVUwtamFKWDlUa1p0SVhwNUZWYXRVN2VLTXI1clhfSFZHWlllMlROYzdJUGxfTjR1Sk5McHFOaTNJdWc3ZV9xMHQzdUlQdUQyX1JGWUl4Wm1fOS0zR0JQcThqeDYxMzRUck1ZWGVPR2NZOGJZVUtacUNXT2RLVEFmbVJkYkZKd05EeTVqcE84anlfdDlfR1N6MllIblpfdDZzUDYzaDJuTTV5RmptWi1aQ3hOMklyeFItVW15Vm90b3g?oc=5",
+"source":"Bozeman Daily Chronicle",
+"host":"news.google.com",
+"published":"2026-09-29T16:11:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy returns to court for hearing after murder case mistrial ruling",
+"url":"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tYlNna196WmROeUM4Z0JERTVlX2Q3ZktJcjY3bVhKbHFXdjJvMFppX1ZreXNOMWdpcHNVdjJqYU5KUzI4eWZjVkpmNEtLWW4tU21iaVlTaFBMSEw5cmhj?oc=5",
+"source":"The Jerusalem Post",
+"host":"news.google.com",
+"published":"2026-09-29T16:03:16Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
 {
 "title":"Holdout juror in Lindsay Clancy speaks as she returns to court",
 "url":"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmw2dWloUHVvNmNjOW85MWxKRU9KbHlZNV9OdG1xZ29UazY1b2lteTQxM1pzeHh2ZllIcktBQ2p6VGlOek5IMkFtVVpIcEZjTHM3T1VVQng0VEJkVGpVQU1Oa01OVkk3R2xTSjY1WHlmdkZ6V09YUXVrcnFvTDBTSUk4ZWZZUHpaVXAybmdqRUJ4cVZ3dEVF?oc=5",
@@ -47,12 +553,23 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
-"title":"The holdout juror in the Lindsay Clancy case spoke publicly for the first time. He says the focus should be on the children, not him (with video)",
-"url":"https://news.google.com/rss/articles/CBMilwJBVV95cUxOTk1LdC1SV3lNWnRaZmVnM3FqTElyMHdrMjJwZFY0NFprT01QRVV0bGJMNWcwZklTZ2VZbWxscnd6U2cza1JTWmVLYTZZZng5S0NOYU1xdVQ5YUVVSUZ0b3hTOVJJNlo4aU8tMmpfekpsRHB0YUdCT09naXRwY1JpNVdoRkpWNF9aMmY2TE1TUXR4a3VMeXdjVkMwNHNNLTJ4NGxZRDFMeXJ2T2JXVFJ6TDYyNkdraGtHRHY4SEhRbWpvMEZ4M0JJVXBJZ2t2Q3J3RFczSVdwWHIzOWhaZTN6Yi1zdWNkZWhIaW1LVVk0Qy1manBSbkFTb3ktME13RTBmc1B3TTFPSGgxLTUyWFg5UmM4QmZwUjA?oc=5",
-"source":"Plataforma Media",
+"title":"VIDEO: 'Get off me, lady!' | Chaotic scene unfolds as Lindsay Clancy case returns to court",
+"url":"https://news.google.com/rss/articles/CBMijgNBVV95cUxQdFRBTi0zM2RLMnJZeUF2ZlpXMXVacXlkakhhb2hCcGpGcEVGbGVwNkN2VGwyM3BLZ3h4SW5DWUtUcVFMTWNJanpRcVVodmphTmFCOEVMcFpQektwQlI5ZjJkMEc5b2VEUWlpblJoY3lIYjc3RTd2TklSaXo2dFhZcmM3bWVMR1lYT1pIRGw0aml1Q0lEeVdiQ3pTTkpFS090OEpDTnZfMG9GSE9sLUN6NTNfR1F1WnNoMG9oOUMtT1VSMzRnRjZDeGVqNTduZWNRazRtVTNxLTd2eXV1N1BNTGl1TDU4SzEtWWRCX1NBRlcxb25NalRTLXA3M2JtdlhNVWNrV2tVZjd4ZlpoNjg3cDJSNzBZRm83Z2I2MVprZnlQLW9CVlFwV1BwUC1xYVJqb3VfdFBaOFdvRkcyTHBSdFJLMjNsUk8ydk9lTWUzSThyY3p0U3ZMQU1laHBSQ1M5MDRBWE9JS09uMjNKRGdMUW5Ma2xCaFRVX0Z2dWp3UTNzUm5tVTNzNmxuTkhfdw?oc=5",
+"source":"KSNV",
 "host":"news.google.com",
-"published":"2026-09-29T15:43:17Z",
+"published":"2026-09-29T15:46:28Z",
 "summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"The holdout juror in the Lindsay Clancy case spoke publicly for the first time. He says the focus should be on the children, not him (with video)",
+"url":"https://www.plataformamedia.com/en/2026/09/29/the-holdout-juror-in-the-lindsay-clancy-case-spoke-publicly-for-the-first-time-he-says-the-focus-should-be-on-the-children-not-him-with-video/",
+"source":"Plataforma Media",
+"host":"plataformamedia.com",
+"published":"2026-09-29T15:43:17Z",
+"summary":"The sole holdout juror in the Lindsay Clancy murder trial speaks out in a new video statement following a declared mistrial in the Massachusetts case ...",
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
@@ -179,6 +696,17 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
+"title":"Clancy’s attorney argues for not guilty ruling after mistrial",
+"url":"https://news.google.com/rss/articles/CBMikwFBVV95cUxPUlBEeGpJNWtETVJZeVBnbm0yRG1IS0FHZTMtdl9QNVc1RnlqbjVpSThzeHlsbk9mdkdLX3o5YV9oZG9udVp5Qlhzci1aY1dBQlBjNFVNdzJVbjZVSFA1TFUzMGZNQm9wRmdFQzd1djR4VkNrbTRrZVRCSk53Uk4tOXhUSDBfN243Z2E1a2RNUVJHMlk?oc=5",
+"source":"WFSB",
+"host":"news.google.com",
+"published":"2026-09-29T15:23:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
 "title":"Reddington argues prosecution didn't prove Clancy's guilt",
 "url":"https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0dibXJRMjRZWHZkd01GZlgxMFdtUHBkakdEMXZwOGktNDNrMDdONS1XQ0lOblc1eE1ub0d0eUpVUVVsQWtuSVEydi1UTnhiYnVSYVRycUhCQUVZbWxLWXhvbi16RzhZUVFaaTlXTlNJUUhqNF9KQlRwNGx6bXFydlQ0YlltWWhFVXVqLTlSbzlMTW4xWGx2azdZVk9oSUpxaTQ2MnVrZEhHZ2w0X3lNcDBGcXdPRm5hQVIwTEdR?oc=5",
 "source":"USA Today",
@@ -188,6 +716,17 @@
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
+},
+{
+"title":"Live updates: Judge hears Lindsay Clancy’s defense motion to dismiss, next court date set",
+"url":"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRmZOY3pRM3poRHFvV0tPMVdhR0c1Ym5rRzM1SXBYQ2ZDdlpLTTdOUnd3b2dCNUZsTnE0SUhXN1hXZ3JqZHhRdFE2cDhaTmNLYmxfajJCQlk4TkhEdkRtb0ZjUHY0NXp2MHVvT2hGdVdaSVRFaWQ2UkxNaFlnWGl1LTZwdkVJSkNtMVhiU0VwNmh4azVZb2ZrUnRyYzlZLWxXOG5fWGtGaDM4QWNXbk82Mk1ZWmJ4QW5ZQnUwczM2WGQzUGY2RHFESUg0RnlMNFl4NTlUaU5mUkROLXQwMm9vbmozcGxPZ9IB-gFBVV95cUxPMG1ITHJHaHlZNTdWSkJ1YnJ0WFZ4alpmbXk2eU4wVXdaS3BGMDBmUmFoVFFiMkZJTHRydExIZ2FmMWdXenFoQ3hOY2tnajdhNmF0RTdvZTNIS3BfLXBiVEVROTlqMVVqMjNlM3JJdUZhQW5QWXdFUGRiU2pCUW51Rm4tNTc2Yzd2dWJoQ1NMOXcyb21fTElBOWRTMHM0V005dWtubjFuNmk4VlhNSWhfUTBiSElRTHBMbnM2ckg5cTdncUtwaDE2LUhibUtpYWVpb1VWZm1Nel9BNG9aNlQyQmNxM2JhZ1dTUHpyYmExcUxXZUUySmIyRWt3?oc=5",
+"source":"Boston 25 News",
+"host":"news.google.com",
+"published":"2026-09-29T15:19:57Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Lindsay Clancy holdout juror speaks out",
@@ -221,6 +760,17 @@
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
+},
+{
+"title":"Lindsay Clancy's lawyer now questions whether she killed her 3 children in 1st court hearing since murder trial",
+"url":"https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWVrTnowa1V4NVFVNExhY1JpbURBMGtxQnFER1RuNU5LV2xNbnhVMHdyU1BRcGNYYmgwWDlZcWZaRjZXRW45UG9SRkVkeDBqWmJCSDJaZFlsV2FWM3FYZnNtbnNxbDB4R3lZVmtZc3FZN2E5ZjZBUDVodXZsMjBMTG5FSk02V3pNNHhmWDJvX1ZyRDYyMEZzTHZEdnhXQXg2TklRVk12QkZlTjdqUmfSAbMBQVVfeXFMTllmWGhKdGJ1WEFRX2pFcFdndm1IbnlZeGl1YjJsamwwUHIxQkZUNXZRZU0tSEZuX193MTA4YTVBN1FFTHA3eXZpd1FzTGdhLTJKdkR2VjFTZWRUVHBhcnZIZHR0bnFFMGVvVWI5Y3dnR2JfZnlwWWVwd2pISHZITDdEaWpfeE11eHhZN3dxSHQ1eGpYYng0WXdtcXFFR3BmU3FtRTlEeVNZWG9meUI4elE4WXc?oc=5",
+"source":"6abc Philadelphia",
+"host":"news.google.com",
+"published":"2026-09-29T15:13:17Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Reddington argues prosecution didn't prove Clancy's guilt",
@@ -377,6 +927,17 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
+"title":"Duxbury Mom Lindsay Clancy Back In Court To See If She Faces Another Triple Murder Trial",
+"url":"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUDh5OUVkWXFuczltS1RBd0h0MWFnaTlvSUs4eVZuZlNfM0RsVGlMOEV0XzJFeUNZZm92anlCU0wzUFpxM1FvdkdSOS12eUdvRVdzQlJyOWdCcDNoVDIxX2RYMEdhMl9pNkI5U0Jha0FCTjktV3c1RGF6cmdSa1Qyd2kzTW9pcXY4QVR4d0tMZUh3TFVGUldpOENrMTczR0VDelZtdWxWTVcxekl1bzJkRnZKN29zS1hE0gHaAUFVX3lxTE1jT05jQjFuNlZIb1ZMbWYtamp5bmllRkY1MWtiYVF6VjNyb0lDWlJvZWxqX1FGY1BrYy1nQWZOc1FQWkV0Wkg4alhSUzVacXZwZk9jZERiUzlldGJ5ODliZUdrbExVenN2alpqYUhTVl8yVU9Td1hESC1iaWFCeTRZRjdnRTR0MWwzVlp2ZGRwN3dYMWRDZ0psV3l2QjZBVDNpS0wyVm8zZmVjMlRYSGd2SGdLaW5ackJnamd5YVpJOVVQaTQyakpveC1vY3J0N2xybk91Rm9MbGNn?oc=5",
+"source":"Patch",
+"host":"news.google.com",
+"published":"2026-09-29T14:33:10Z",
+"summary":"",
+"via":"gnews-duxbury",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
 "title":"Lindsay Clancy Speaks in Court for First Time Since Mistrial in Children’s Killings",
 "url":"https://news.google.com/rss/articles/CBMisAFBVV95cUxOV1BCNFN4d2ZiMm9rUVM4MzlTbmZmbThOdDRHYUxfNUwyZXI2SEhRRXFpQmtlM3pST0x3ZEFyRTY1bHVfYTU3dlhYTmRrTi00WnFQOUw4akhNSV9tQTdjdDZBUWp2dGExVDg0QUhhLTJoaWhlOFduRXZ4OEtjT1pQX0pnSmVyYktaNnBmUFVsOXhhbWtQNzV1YnFaZWNVYmQxdnZZX3JFU1JiMkg3SE1iMQ?oc=5",
 "source":"people.com",
@@ -408,6 +969,17 @@
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
+},
+{
+"title":"Lindsay Clancy's attorney calls out police investigation",
+"url":"https://news.google.com/rss/articles/CBMimgFBVV95cUxORUF4TVl1c2pXU05LeHJYZy0xZEFEdUdUS3B5U0Q4Q0pJbVlieE5Sb1hYMVdzakhaZGh3Y3JZTEhlcjBoQ29jRFMyRTJWOTNEcTQ1OXdCNlV4R2tzUHhLdElJUDA0T2R0MUVoWU9DOE1NMERXdG1NM3p1TnJNMllPakloSUg3UTVDS0NwNHZhQWJ1LXFsUjVVY0h3?oc=5",
+"source":"WFSB",
+"host":"news.google.com",
+"published":"2026-09-29T14:21:48Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Lindsay Clancy returns to court as prosecutors consider retrial",
@@ -465,6 +1037,17 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
+"title":"Lindsay Clancy's lawyer now questions whether there is proof she killed her 3 children",
+"url":"https://www.msn.com/en-us/news/other/lindsay-clancys-lawyer-now-questions-whether-there-is-proof-she-killed-her-3-children/ar-AA2daiBG",
+"source":"Associated Press News on MSN",
+"host":"msn.com",
+"published":"2026-09-29T13:21:55Z",
+"summary":"Lindsay Clancy's lawyer argued Tuesday that there wasn’t enough evidence to prove she killed her three children, a striking turn after a lengthy trial that focused more on her mental state than on ...",
+"via":"bing-name",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
 "title":"WATCH LIVE: Lindsay Clancy returns to court for hearing to help determine whether she will be retried",
 "url":"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0YyeHhpQl9OM1JlM0N4Vl9HM0JZcnZwZHdPYWFGZ0ZzNnFSa3NUY2lPT3RhTVpkeE9PR3lWSmtKZk9wUVdLVzJTV2Zoa1A2RkRuV0lPaV9iZ1BGNVpVTmlUaUpGLTAtLXlTbW8xZHNqNWR2MFhWY1czYWFMU2tsY1dBaEhsd2MwUkJkNTYwZWpVdDI1TzVsalRtdlVCWW5OOXBNamV0V0hPTjZqNFVQT2x6RGplM05XMDJHWXoxb0NMaS13TW1wa1lKVmhIOEJ2Z3c?oc=5",
 "source":"PBS",
@@ -474,6 +1057,39 @@
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
+},
+{
+"title":"Lindsay Clancy's lawyer now questions whether she killed her 3 children",
+"url":"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR0V3bm52LWtnaUpsNXVIVTNNSmdqdXNrTUo2STBDNWp4b2ptNXFTZmk1Tk1ETTZSNE9ld251d2xsRWJDSWdJOUVjUEhtLXhMQmg4MXZCbmowTkU1OEJMOVhFWDlJa0VydlNyazh6TXc5TjRhX2c4TllvdGJ1V1hkUTAyd2R5d1NSakdNSXRlbzlWNk4zUE40MUs2aXpXczhZeVN4WjUyYUp5VF9idWFyMUhCSVlnaFpOTU9JbnVGR2dsdzFMTnNBRXJNTDhYRE1lNFozYXk2cmFfS1BibHpBNUFkZ2NKa2hQMHBvLTZFalk5d28?oc=5",
+"source":"KHOU",
+"host":"news.google.com",
+"published":"2026-09-29T13:12:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"How Lindsay Clancy's return to court after mistrial unfolded",
+"url":"https://www.bbc.com/news/videos/c64gvn7v1401o",
+"source":"BBC",
+"host":"bbc.com",
+"published":"2026-09-29T13:09:00Z",
+"summary":"The BBC's Ione Wells describes what happened in court, as the US mother's defence for the first time argued there was not enough evidence to prove Clancy killed her children.",
+"via":"bing-name",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Determination yet to be made in Lindsay Clancy retrial",
+"url":"https://www.yahoo.com/news/videos/determination-yet-made-lindsay-clancy-200600433.html",
+"source":"Yahoo",
+"host":"yahoo.com",
+"published":"2026-09-29T13:05:00Z",
+"summary":"Clancy could have been sentenced to life in prison if convicted of murder. If acquitted, the judge could have ordered her confined to a mental health facility. Sophia Szabo shares more. Read more: ...",
+"via":"bing-name",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Tennessee Death Row Inmate Compares Herself to Lindsay Clancy Before State Execution",
@@ -509,6 +1125,17 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
+"title":"Lindsay Clancy's Attorney Now Argues There Isn't Enough Evidence She Murdered Her Children",
+"url":"https://www.huffpost.com/entry/lindsay-clancy-attorney-now-argues-not-enough-evidence_n_6abbea2ae4b06becc45baae7",
+"source":"HuffPost",
+"host":"huffpost.com",
+"published":"2026-09-29T12:43:00Z",
+"summary":"The prosecution called Reddington’s argument “laughable,” saying Lindsay was the only adult in the home with the children at the time of the killings, and how she told a hospital chaplain afterward ...",
+"via":"bing-name",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
 "title":"Lindsay Clancy returns to court for first time since mistrial: WATCH LIVE",
 "url":"https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1U0ZGF2SXhSWENrYUh4QW5pSmM4bkFwVTNQY3ZfbGo1ZjNjS1NxbTRTMDVFQ2JWSFlrOXZHZzIyeWhCLWFNUmJhY2VwbWZBOXo1dEdkZ0p0cG5DOGlYUktndDdkeVcxMzFsQWlOVnF3RDdjRmE3VGQ1UjdabE9xWk5xWTI3aVV2TW9oMUJMZUtLSGY1bHpXajBPRnhkakdkMmdXb3NYSEhTNmhNZnF6V9IBtgFBVV95cUxPazVORnZ5cUlSblVkQ2hPN0Zkbm9kZ3hTTWFkOWRQb3NUZ29hNUhKd1FfRUV0T0NaUm9pQ0tBVFhoZklheDFMX25fQktpcEctSW0wYTVFNElUYlI3QTZCcF9XSDg4cjRVOU5uSlFZTzZOTEtsOE5GbS0zZER1MVRtTXh1WXNsRXA1ZjRpcG5zQi0wNWtHbVc4MFhpSWFZZWdmejNEamZkX1cwLTNITmp3UkhNWXJBZw?oc=5",
 "source":"WTNH.com",
@@ -518,6 +1145,17 @@
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
+},
+{
+"title":"Lindsay Clancy lawyer stunningly suggests no evidence mom killed her kids in wild U-turn after mistrial",
+"url":"https://www.msn.com/en-us/news/other/lindsay-clancy-lawyer-stunningly-suggests-no-evidence-mom-killed-her-kids-in-wild-u-turn-after-mistrial/ar-AA2dd756",
+"source":"New York Post on MSN",
+"host":"msn.com",
+"published":"2026-09-29T12:37:00Z",
+"summary":"PLYMOUTH, Mass. – Lindsay Clancy’s lawyer asked, “Where is the evidence” that the Massachusetts mother of three strangled her kids – an apparent flip from the defense strategy at trial that she was ...",
+"via":"bing-name",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Livestream: Lindsay Clancy returns to court for hearing on defense motions, potential next steps",
@@ -543,11 +1181,11 @@
 },
 {
 "title":"Watch Lindsay Clancy Sept. 29 status hearing: Livestream from court",
-"url":"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPalZXQWNWRjVSUGFIVlNIZXAxWTJTd2xaVS05QVgyZElyZ2NZWFMwZ0c5TWhyZlRzVi03Y3Zyc3cyeHQ2N3FiVndGX1JqSlRqeGRfQktKSEpiY3h2dEdMd2VfOG9xOXRzVUc0TGxDLUhHT2gtak9FSm5WVndIcjk2MWVUMTBadXRHRkJHQ3BxSjYwelBtZm44b3NUeGMwVWdWQkRTNzRIVjNxYWRXLUo1Z0hfR0RVVm1tTk9QakM4X3U1Y3diR3NSb3kyWWRzVWJLbnp3LThrYmVfcnItOEY3aG9ubHZWcTN5YTBIVUpXRUVyanRrUXc?oc=5",
+"url":"https://www.patriotledger.com/story/news/courts/2026/09/29/livestream-watch-lindsay-clancy-status-court-hearing-on-tuesday-sept-29-plymouth-courthouse/92000214007/",
 "source":"The Patriot Ledger",
-"host":"news.google.com",
+"host":"patriotledger.com",
 "published":"2026-09-29T12:33:00Z",
-"summary":"",
+"summary":"Here's how to watch the hearing live. You can watch the Lindsay Clancy court livestream below, as her status hearing gets underway. You can also follow our coverage from the courtroom here. Peter ...",
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
@@ -575,6 +1213,17 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
+"title":"Future of Lindsay Clancy prosecution may be determined at court hearing",
+"url":"https://www.msn.com/en-us/news/other/future-of-lindsay-clancy-prosecution-may-be-determined-at-court-hearing/ar-AA2dctTO",
+"source":"WISN 12 News on MSN",
+"host":"msn.com",
+"published":"2026-09-29T12:24:00Z",
+"summary":"Lindsay Clancy, the Massachusetts mother accused of strangling her three children in 2023, returned Tuesday to Plymouth Superior Court for a hearing; however, no decision was made as to whether she ...",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
 "title":"Lindsay Clancy returns to court as retrial decision looms",
 "url":"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUI5WDJrdFlQUGx0STZTNF8ydHhvU3ZoLXJ1bnpZbEZNbjlDQWJVTExQYWpwYXpTaWMxUmpCU3pXUjVKSDVyZ3JwTzRJTEdKVHZSZUxBMmFRcWQycVN1NHNBa29ldWtKQmJMSGpYaEVqSjhZb2lva0Q5Y2pDRWVCSHN1LTNiLXVxNDRpbHhn?oc=5",
 "source":"FOX 10 Phoenix",
@@ -584,6 +1233,28 @@
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
+},
+{
+"title":"Watch live: Lindsay Clancy returns to court as retrial decision looms",
+"url":"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcjFUMmRBelRweGZsME5mSXZub19KSktZcnlVU1YtVzJ1TGs3SzBaQ3FpQmxScURqZFVGN3N1Z3N6RUg3MjlqVnRhbC10d1NHMDYyckRRVVpWT0U3ekN2YXFqTDQ1NVlJd0JxOWdmU25kcVJWcGVwZ2FodUpNNFJrYmN0YzFXUWZjTnVj?oc=5",
+"source":"LiveNOW from FOX",
+"host":"news.google.com",
+"published":"2026-09-29T12:21:09Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"9 AM ET: Lindsay Clancy returns to court after mistrial",
+"url":"https://news.google.com/rss/articles/CBMigwFBVV95cUxPVU85SGRqUEt6TS05am5pTW1IWmNxZTBBSEhIdE55OWFheldJVXVFR2pJaURERmhiN2pCTEl2emV0ZmZ0UTJzUlJZM0hnb2VGWWtWTy05dlVvM2o4U0RBWk1HQ1JXWHl4aWc2YU9HUHBzZ01TVFhBa0ozZzlYVVpPUWNHVdIBiAFBVV95cUxNSnB4QXltRlJER0ZQVk44Yi0tc0QyekJiekRVM1RUMENRQ1JvUDNNS3A1V0I3QXVWNnFpUmtjRTZ0S3h2SkJYWHJJZlRlTGNHcHBrRFJXZ1BhV2l6bUtMdlNoU3Q3RjhlU05NMXRPZ1pKR2Q2X0N3dlV5RktvN2YtU1JGVWQzenFm?oc=5",
+"source":"KTVU",
+"host":"news.google.com",
+"published":"2026-09-29T12:21:09Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Watch Live: Lindsay Clancy hearing on where her murder case goes now",
@@ -597,6 +1268,28 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
+"title":"Lindsay Clancy's defense says 'complete lack of evidence' amid retrial delay",
+"url":"https://www.foxnews.com/live-news/lindsay-clancy-court-appearance-plymouth-massachusetts",
+"source":"Fox News",
+"host":"foxnews.com",
+"published":"2026-09-29T12:13:00Z",
+"summary":"Lindsay Clancy is expected in court in person for the first time since her trial ended in a deadlocked jury and the judge declared a mistrial on Sept. 4. A Massachusetts judge overseeing the Lindsay ...",
+"via":"bing-name",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy back in court for key hearing after mistrial",
+"url":"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUXNWVXEwcUVMTEJhQVJPXzkyWmJNbWszMTFJaWxPUkVZVTJEaDN1M3h4OGczY1pTeGx4TDVRYVJpVEZGZ2tJanQxbGYwRGNtSlpqMldVX3VEZWNOd2hGZndnclBtMXA3QnVZUWVnR3VDUm43ejZKSW9pSWhNcnJIOGwzSmtSLTRGNWNldzJNSlQ3RXdLUGM4S3d6MDg5M1UtME1V0gGfAUFVX3lxTE9Id24tMWZVTG91WmNYbXpIMUdHbHN5Z3prSWhtRmdGbXRyeWFfVGdCNHZYemFGLXpia2pYM1pMOGhzVGhBVTgzblBqdmlnTXFCZDE5UjhyZEJkUlJkT1ZmNGtESThoeVBoN2wzN09EWVNQN0YzU3FVR19xaG4yMG00d3VkdnlHT01nZjBFUHVvbHFOOEFjbndFUUdWelNYVQ?oc=5",
+"source":"The News International",
+"host":"news.google.com",
+"published":"2026-09-29T12:05:00Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
 "title":"Lindsay Clancy in court for first time since mistrial: Live updates",
 "url":"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTM5M0FTWnNVajBTRkVmS2tfSnBmbjgwdXF6UWRkb0I0aXh0TE14Wml5WWViNmVDOUc2MWxLRThBVnYtc0JCTGRTX1U5V2hKUVprS3B5WjRnTFlEWDBESEVxZnJ4dC0tVkQtUk5RZzdNUTBBRXd4b1ZuU3BlV2Zjc29OMWpSNTFpZFhDdGVVSkRFVDZaY3NvVnRuMHR1aXJJcl8zR1BjZGJ4UmFwamc2Y0t2cmJqa1Qz?oc=5",
 "source":"The Patriot Ledger",
@@ -606,6 +1299,17 @@
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
+},
+{
+"title":"Lindsay Clancy’s lawyer now questions whether she killed her 3 children",
+"url":"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQnlVcGhHYnNBTXlwaVVweHZVQjJtSUJUUHlkNjNnVHROTktzR3pSeHphX3VTQUlPbnBaQXVHU0ZZc0g0d3RkYzl2Z3VvTkhpc2RBbEZPdU4xU29FdXk2ZDNKdjNTRmFhb2t4VGRyT1hnOUFPU3VJdGREOWZVSnhTRXRHX0hjS2pNRWdpLVRhWTFicGFudFJERXFTWGQ0TklHS0JhYVZXZW9vellWLXBpRGV6RGVxQXd3OVBRWFZSbjXSAdQBQVVfeXFMTnI5d1h2V0tiUFhJM0JLYlNENmhnaHdmRC1UeS1XZXpyUkw3WFdiWXBLMG9mTDZCbXdhU3J6TWsyMjFqbGllZ0l5WnVEMlpvTWR3cnIwd1lsZ0xBdWEta2RyUnJyaEpQa0tsMWxyX3ltaVVYSE91Tjl6LXp2TUF4dURyaTZqTzVrZ0NLUXRLMnNqbXktVTNMN2owb09kX0FSMDJLMW9HVVUtSmNmOGhvSk9FZUJFQWdaX0JuQ05CdU1BRGFiMHlDWnN1Umg4QzB2OE1Ra3E?oc=5",
+"source":"KPLC 7 News",
+"host":"news.google.com",
+"published":"2026-09-29T11:45:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Lindsay Clancy to Appear in Court for First Time Since Mistrial",
@@ -630,6 +1334,28 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
+"title":"Lindsay Clancy holdout juror speaks out: ‘Put the focus on the three angels’",
+"url":"https://www.msn.com/en-us/news/other/lindsay-clancy-holdout-juror-speaks-out-put-the-focus-on-the-three-angels/ar-AA2ddb3t",
+"source":"Boston 25 News on MSN",
+"host":"msn.com",
+"published":"2026-09-29T11:31:21Z",
+"summary":"The holdout juror in the Lindsay Clancy trial spoke out on video for the first time in a recorded statement to “Hannity” on Fox News, saying he wanted to put the focus back on Clancy’s three children.",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy’s status hearing concludes, with no retrial date set",
+"url":"https://www.cnn.com/2026/09/29/us/live-news/lindsay-clancy-hearing",
+"source":"CNN",
+"host":"cnn.com",
+"published":"2026-09-29T11:31:00Z",
+"summary":"Judge William Sullivan is expected to address pending defense motions and a potential retrial in the Lindsay Clancy case at a hearing. Follow for the latest updates.",
+"via":"bing-name",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
 "title":"Nearly a month after a mistrial was declared in the murder case against Duxbury mother Lindsay Clancy, attorneys are set to return to court Tuesday for a status hearing that could shape the future of the high-profile case.",
 "url":"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMWlaYUdLTXI5cURpLTFxSkt4allQV3Z6QTBzdkFUS1g0eFROMURQekVJX252NFBKZ0FVYUJsa1hveXptaEtHS2tpSUJwSnkzRzhKQWdLVHRzOEFDSDc0Q2Z4c3cyS29ZSmRJa292a2o4LTFJUl9UTmd5UkdxTExlcTdoQU1aRjVmSWtaekZYcVBId0FMWnZZVURZaUN2SzRnT0NEcGFUcmdlWjY0aDY4MnVmQS1OMDRrVnUyRUk2ZlVBYVZWcFVIWnVqRG92aC0yZ3NVWVNSRWRIZw?oc=5",
 "source":"facebook.com",
@@ -639,6 +1365,17 @@
 "via":"gnews-duxbury",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
+},
+{
+"title":"No date set for new Lindsay Clancy trial as both sides argue motions",
+"url":"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGduNUgyZ0Q0ZHJYcGh1UTY5cE5wTWNIa3B5N0lNTnB2M1hHNDJzcmdyaFpaMXNDV1RVSUtCVkFhRnpUQTU0ck4zVTIzZWJPSVVGandqRTBJNGV0OEYzRlI1cHp4VnpEbUcxY0Fzc2tvSmxfWWx1Z25XUEJEamJobkFTbVlDV25ERHN5bFBRWlRVcC1taDNLUk1XMFRUNmxzdEZqcGNVYm83RmliYklyZWU0Z3JCZnJNelJJ?oc=5",
+"source":"National News Desk",
+"host":"news.google.com",
+"published":"2026-09-29T11:15:25Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Lindsay Clancy back in court after mistrial for potential new charges",
@@ -675,6 +1412,17 @@
 },
 {
 "title":"Lindsay Clancy due back in court as question of retrial remains unanswered",
+"url":"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTRsanFwMVNMNkczN3VPTDNsS2djSVgxMGs1VEJsaVNIbTM2ZlhLZUg5cGxPVDZzR1pxUmlUR0c0N2NYSHFhdFVYb0hkUlplQU0wUlFjZURydWZCMDRPd2N5UWk3TEVpbTNqb3k2TTlkc2RQNXpudG9JeW9GVEF1VHQxQkQxRy1QT2VLcUsxdUtkQjBLRmhMWUltZ09GTTRBQUdIc0QyMVlRLWpCXzZaX0hVcjU0MjNuejBJWUNqaFY?oc=5",
+"source":"fox23.com",
+"host":"news.google.com",
+"published":"2026-09-29T10:58:33Z",
+"summary":"",
+"via":"gnews-sjc",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy due back in court as question of retrial remains unanswered",
 "url":"https://news.google.com/rss/articles/CBMixgFBVV95cUxPc1o0aE9GTUVpOXlPeVFKN2hQaWZqTnBKY25SNVlmMTRocVdCS09TQ1FKV09WcDI5RTlIaWdZdG1SRkFpUFBjUkQ4QWFvTFVXbjczV2czTGNCemlya2dCeGEwRG11cm92SU1Ea0VrZzg2N0dMVmV6WEtodDZMNFdfMDV0RkNjVmhwdmJUMTIteEtlS3E0RVB4YlY2cE0yZXBpRkV2ZHNBZ2FvR0l5Z1p1RkRhUXU2ckZha3ZmazR5aGQ3cFJDMFE?oc=5",
 "source":"KEYE",
 "host":"news.google.com",
@@ -683,6 +1431,28 @@
 "via":"gnews-sjc",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
+},
+{
+"title":"One month after mistrial, Lindsay Clancy case faces new fights",
+"url":"https://www.msn.com/en-us/news/other/one-month-after-mistrial-lindsay-clancy-case-faces-new-fights/ar-AA2ddmPb",
+"source":"Patriot Ledger on MSN",
+"host":"msn.com",
+"published":"2026-09-29T10:55:44Z",
+"summary":"Here's what's happened since a judge declared a mistrial in the Lindsay Clancy case on Sept. 4.",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Retired judge weighs in on Lindsay Clancy hearing scheduled for Tuesday",
+"url":"https://news.google.com/rss/articles/CBMia0FVX3lxTE91bmVuMWgwM2tNTGw1M0d3SE9TN1RhOUVfeDljYWJQQlBSS3A5NndxbDA1RWhvTWlObFR0NnFiM0RJRm1OcEJDNFRlZGJLTUpZSk9uZUs4MzNXNUM2UjVHSjZPbFg1Y2hGQVF3?oc=5",
+"source":"WMUR",
+"host":"news.google.com",
+"published":"2026-09-29T10:31:00Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Lindsay Clancy returns to court for key hearing after US murder case mistrial",
@@ -718,6 +1488,17 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
+"title":"COURTROOM DRAMA: Clancy Judge Slams Fist In Tense First Court Appearance",
+"url":"https://conservativebrief.com/clancy-judge-reddington-104768/",
+"source":"conservativebrief",
+"host":"conservativebrief.com",
+"published":"2026-09-29T09:51:00Z",
+"summary":"Lindsay Clancy returned to Plymouth Superior Court Tuesday as her lawyer challenged whether prosecutors proved she killed her three children. And it didn’t take long for tempers to flare. Judge ...",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
 "title":"Lindsay Clancy back in court after attorney files motions to dismiss case",
 "url":"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZkloTzBKZE1hVlA2bDFhangwYWVkcENhcTNrS2UtUjJ5UTRzNGRpY05iZzJ0OHMxQTJlazk4M2VZNG5CbGFKSjdEcjBfbFpEOGRWN05tQ3R4Z25UaHdaNU9tcEtNMU0xWlF6T2xtWi1faXFNanVlODJGZkFFYnlUaEhPX0oxdXJ3R0tGYk5Zd2FuMkFCaF9ZcFJRZGh5eVNZTnV2a25JanZQbXFBTXc?oc=5",
 "source":"WFSB",
@@ -740,6 +1521,17 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
+"title":"Reddit Posts Reportedly Linked to Patrick Clancy Reveal His Concerns Before His Children Were Killed",
+"url":"https://cafemom.com/news/patrick-clancy-reddit-posts-lindsay-clancy-children",
+"source":"CafeMom",
+"host":"cafemom.com",
+"published":"2026-09-29T09:31:00Z",
+"summary":"Patrick Clancy walked into his home in Duxbury, Massachusetts, on January 24, 2023, to a scene that no parent should ever experience. His wife, Lindsay Clancy, reportedly strangle ...",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
 "title":"Pivotal Lindsay Clancy hearing could decide fate of her triple murder case after mistrial",
 "url":"https://news.google.com/rss/articles/CBMixwFBVV95cUxQVDJMcU1FbE1QaDVDYTA3X2tWSE5YbWZJUmk1UHJJbEVHRS1yVGhVV1MtN205eGRnUUVFdTdxTmVvQ2UwWHVXTUR6WG15WWdJOUtOanJUTlAwQXEzSldCb3V6X293aUpoMERYS2lxb3NyWjdiRTdreEowcUZ6VHlhTG5RZ0JDWkh4RVZTck40VE1iTVRVQWVkeTBtTVMxdC1HRGtqM3k1S2stQy02VHROck5KMHlwSGF1NHhueHJZLVpmOEJPS2xV?oc=5",
 "source":"New York Post",
@@ -751,6 +1543,17 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
+"title":"Lindsay Clancy's lawyer now questions whether she killed her 3 children in 1st court hearing since murder trial",
+"url":"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVkFfUy0wbENqT3E1SEI4YTNWUl9FaXZIZ2F1RlhqeExrMjFrbjBxbkdxSHBGZVhPVVU5STJSd1FjWktadVlncEpnVVdBWEdIeWVoekQ2US1aWFlLUktZOFd2c0hMdzVkN2JaY2RCT0lwT2lDbnJyWTVEN1c2bVhPdWFOTkRMeU1zbkdkOHdmd2huLXZvUmVfM0hEeFRqVFVFa3dhb0VzYnc2V1lNMy1PYUJQQdIBuAFBVV95cUxNUkJFZUlOYXFsN3VHanpuejNxM3FFbWpxakVJTzVTcFppYlRKckJodWNveWdENWkzd1NsUV9fRjZfLWRMT1VHaEJwRV9qZ282SXhnY28tZXJMc0xFZ0tSWElPRnBlV0lsaDgwbkFJMW1GRWpHWVItcWlKd3Bkc001cmJHTElvU0dRcmlOaThmX2tmcFhSSGl5UXBPeTktb3V2SnNQZy1IREtURTJpU284UHlwekdCSUVu?oc=5",
+"source":"ABC7 San Francisco",
+"host":"news.google.com",
+"published":"2026-09-29T09:15:35Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
 "title":"LIVE: Lindsay Clancy set to return to court for first time since murder trial ended with deadlocked jury",
 "url":"https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUZUbHVfcFRMRlRsN3ZHMFplVVNid0hxb1R1SVdPSi1kYVlPNXFvMEZCYk4tR3BLNGZCU2g2QkFfVkF1STlxaXVqeXdWM1VpZk9PT1VCaUlZckFOMGZNQ29jWG9ub2d6WXp1VnRVLVVMaEw3VjlnQXhRVXFTYVhFbmdveXlHMFVCMGU1MG9pYmJiYTVEcDQ0MFpGTlM1UUVTaUlnY3lWX3dUbUhYSTVKUNIBtgFBVV95cUxQNnc3RVNJV3JZdzBFQ2ttNU1YLXlUX0V3TlQwRmVKaGJ3N3RuTXVWS2hwd2xtYzdvNk5xYkk5dTlBaTlBQ2N1MWpNbWRKZ29rdmt5TjRuUmM2N3p1bzhaeWIzRGxzdHJqVzFZYjI0SGJ1eXRLNEN2bXY2Q280al9sdmhMNVFvdlZTWUFBSGpDUlpDSnJSc2U4UlpyQ3R1emlVdktPTm1OX3d2VHJVS0NNVUNPa3hzZw?oc=5",
 "source":"ABC7 New York",
@@ -760,6 +1563,17 @@
 "via":"gnews-postpartum",
 "kind":"gnews",
 "first_seen":"2026-09-29T15:57:38Z"
+},
+{
+"title":"Lindsay Clancy set to return to court for first time since murder trial ended with deadlocked jury",
+"url":"https://news.google.com/rss/articles/CBMitgFBVV95cUxQNnc3RVNJV3JZdzBFQ2ttNU1YLXlUX0V3TlQwRmVKaGJ3N3RuTXVWS2hwd2xtYzdvNk5xYkk5dTlBaTlBQ2N1MWpNbWRKZ29rdmt5TjRuUmM2N3p1bzhaeWIzRGxzdHJqVzFZYjI0SGJ1eXRLNEN2bXY2Q280al9sdmhMNVFvdlZTWUFBSGpDUlpDSnJSc2U4UlpyQ3R1emlVdktPTm1OX3d2VHJVS0NNVUNPa3hzZ9IBtgFBVV95cUxQNnc3RVNJV3JZdzBFQ2ttNU1YLXlUX0V3TlQwRmVKaGJ3N3RuTXVWS2hwd2xtYzdvNk5xYkk5dTlBaTlBQ2N1MWpNbWRKZ29rdmt5TjRuUmM2N3p1bzhaeWIzRGxzdHJqVzFZYjI0SGJ1eXRLNEN2bXY2Q280al9sdmhMNVFvdlZTWUFBSGpDUlpDSnJSc2U4UlpyQ3R1emlVdktPTm1OX3d2VHJVS0NNVUNPa3hzZw?oc=5",
+"source":"ABC7 New York",
+"host":"news.google.com",
+"published":"2026-09-29T09:10:13Z",
+"summary":"",
+"via":"gnews-name",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Lindsay Clancy returns to court for the first time since mistrial",
@@ -795,6 +1609,17 @@
 "first_seen":"2026-09-29T15:57:38Z"
 },
 {
+"title":"Lindsay Clancy live updates: Defense says there's no evidence she killed kids, retrial uncertain",
+"url":"https://www.stamfordadvocate.com/news/article/lindsay-clancy-live-updates-hearing-mistrial-22454003.php",
+"source":"The Advocate",
+"host":"stamfordadvocate.com",
+"published":"2026-09-29T08:23:00Z",
+"summary":"Follow live updates as Lindsay Clancy returns to court for the first time since her murder trial ended in a hung jury earlier this month.",
+"via":"bing-name",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
 "title":"No determination on Lindsay Clancy retrial as several motions discussed",
 "url":"https://www.msn.com/en-us/news/other/no-determination-on-lindsay-clancy-retrial-as-several-motions-discussed/ar-AA2dbS01",
 "source":"WCVB Channel 5 on MSN",
@@ -804,6 +1629,17 @@
 "via":"bing-duxbury",
 "kind":"bing",
 "first_seen":"2026-09-29T15:57:38Z"
+},
+{
+"title":"Lindsay Clancy defense calls murder case ‘speculation,’ seeks to end prosecution",
+"url":"https://www.masslive.com/news/2026/09/lindsay-clancys-lawyer-says-prosecutors-can-not-prove-she-murdered-her-children.html",
+"source":"MassLive",
+"host":"masslive.com",
+"published":"2026-09-29T07:43:00Z",
+"summary":"A second trial remains uncertain, and the defense is using the period of limbo to argue the murder case should end for good.",
+"via":"bing-name",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"The Lindsay Clancy case and the women we make into monsters : Code Switch",
@@ -1046,6 +1882,28 @@
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-29T08:38:25Z"
+},
+{
+"title":"Lindsay Clancy Moves Toward Murder Retrial as Judge Sets Key Hearing Date",
+"url":"https://www.nytimes.com/2026/09/29/us/lindsay-clancy-hearing.html",
+"source":"The New York Times",
+"host":"nytimes.com",
+"published":"2026-09-29T02:03:00Z",
+"summary":"Lawyers representing Lindsay Clancy have also asked a judge to find her not guilty, saying insufficient evidence was presented at her murder trial, which ended in a mistrial this month.",
+"via":"bing-name",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
+},
+{
+"title":"Lindsay Clancy murder case back in court. Latest updates on hearing",
+"url":"https://www.miamiherald.com/news/nation-world/national/article317423166.html",
+"source":"Miami Herald",
+"host":"miamiherald.com",
+"published":"2026-09-29T01:57:00Z",
+"summary":"PLYMOUTH, MA − Lindsay Clancy's case returns to a Massachusetts courtroom Tuesday for a consequential hearing that will shed light on the next steps in the case.",
+"via":"bing-duxbury",
+"kind":"bing",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Lindsay Clancy holdout juror asks for one thing in new video after mistrial drama",
@@ -2157,6 +3015,17 @@
 "via":"gnews-name",
 "kind":"gnews",
 "first_seen":"2026-09-28T22:06:41Z"
+},
+{
+"title":"Lindsay Clancy Expected Back In Court This Week",
+"url":"https://news.google.com/rss/articles/CBMingFBVV95cUxPU21zMHRmdHgzRk1nVXRTMUNYMWhLT0t3V0NtNTc0cWR4QmRDNjdqTlQ4dFl4TXZ5NnJHZG82UU5XYS1kSjlRN192bm5uUHVqNkNreUM1NkFnVXhGMzdCLW5MRWlIcWJ0dlU1eVN5ZFlhRWVramtubmd1eTRiRkFJcHVnWUZBMk84RWhaLWgxbmlrZUIwVHdSdkNwNEd0dw?oc=5",
+"source":"The Bobby Bones Show",
+"host":"news.google.com",
+"published":"2026-09-28T09:26:00Z",
+"summary":"",
+"via":"gnews-postpartum",
+"kind":"gnews",
+"first_seen":"2026-09-29T20:52:13Z"
 },
 {
 "title":"Lindsay Clancy returns to court Tuesday. Here's what's at stake",
