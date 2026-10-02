@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-02T12:45:12Z",
-"runs":156,
+"generated":"2026-10-02T18:28:53Z",
+"runs":157,
 "added":{
-"articles":23,
+"articles":16,
 "videos":0,
-"discussion":18
+"discussion":10
 },
 "totals":{
-"articles":4036,
+"articles":4052,
 "videos":287,
 "discussion":1500
 },
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":34,
+"items":35,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":52,
+"items":51,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":8,
+"items":10,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":0,
 "error":null
 },
 {
@@ -129,7 +129,7 @@
 "label":"YouTube: NBC News",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":0,
 "error":null
 },
 {
@@ -144,9 +144,9 @@
 "id":"reddit-sub1",
 "label":"Reddit: r/TheLindsayClancyCase",
 "kind":"reddit",
-"ok":true,
-"items":12,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 },
 {
 "id":"reddit-sub2",
@@ -937,6 +937,11 @@
 "at":"2026-10-02T12:45:12Z",
 "added":41,
 "failed_sources":1
+},
+{
+"at":"2026-10-02T18:28:53Z",
+"added":26,
+"failed_sources":2
 }
 ]
 }
