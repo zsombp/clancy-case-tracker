@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-03T08:16:28Z",
-"runs":160,
+"generated":"2026-10-03T13:29:02Z",
+"runs":161,
 "added":{
-"articles":2,
+"articles":10,
 "videos":0,
-"discussion":12
+"discussion":8
 },
 "totals":{
-"articles":4074,
+"articles":4084,
 "videos":287,
 "discussion":1500
 },
@@ -16,48 +16,48 @@
 "id":"gnews-name",
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":92,
+"error":null
 },
 {
 "id":"gnews-duxbury",
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":100,
+"error":null
 },
 {
 "id":"gnews-trial",
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":36,
+"error":null
 },
 {
 "id":"gnews-postpartum",
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":96,
+"error":null
 },
 {
 "id":"gnews-sjc",
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":52,
+"error":null
 },
 {
 "id":"bing-name",
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":12,
+"items":2,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":21,
+"items":23,
 "error":null
 },
 {
@@ -152,9 +152,9 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"ok":true,
+"items":8,
+"error":null
 }
 ],
 "history":[
@@ -957,6 +957,11 @@
 "at":"2026-10-03T08:16:28Z",
 "added":14,
 "failed_sources":7
+},
+{
+"at":"2026-10-03T13:29:02Z",
+"added":18,
+"failed_sources":1
 }
 ]
 }
