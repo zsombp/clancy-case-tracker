@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-03T02:04:44Z",
-"runs":159,
+"generated":"2026-10-03T08:16:28Z",
+"runs":160,
 "added":{
-"articles":9,
+"articles":2,
 "videos":0,
-"discussion":8
+"discussion":12
 },
 "totals":{
-"articles":4072,
+"articles":4074,
 "videos":287,
 "discussion":1500
 },
@@ -16,41 +16,41 @@
 "id":"gnews-name",
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
-"ok":true,
-"items":91,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 503: Service Unavailable"
 },
 {
 "id":"gnews-duxbury",
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
-"ok":true,
-"items":100,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 503: Service Unavailable"
 },
 {
 "id":"gnews-trial",
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
-"ok":true,
-"items":36,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 503: Service Unavailable"
 },
 {
 "id":"gnews-postpartum",
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
-"ok":true,
-"items":96,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 503: Service Unavailable"
 },
 {
 "id":"gnews-sjc",
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
-"ok":true,
-"items":53,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 503: Service Unavailable"
 },
 {
 "id":"bing-name",
@@ -72,25 +72,25 @@
 "id":"yt-wcvb",
 "label":"YouTube: WCVB",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-boston25",
@@ -104,25 +104,25 @@
 "id":"yt-courttv",
 "label":"YouTube: Court TV",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-lawcrime",
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"ok":true,
+"items":1,
+"error":null
 },
 {
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"ok":true,
+"items":1,
+"error":null
 },
 {
 "id":"yt-nbcnews",
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":17,
+"items":21,
 "error":null
 },
 {
@@ -952,6 +952,11 @@
 "at":"2026-10-03T02:04:44Z",
 "added":17,
 "failed_sources":8
+},
+{
+"at":"2026-10-03T08:16:28Z",
+"added":14,
+"failed_sources":7
 }
 ]
 }
