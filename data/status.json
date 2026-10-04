@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-04T13:16:01Z",
-"runs":166,
+"generated":"2026-10-04T17:40:14Z",
+"runs":167,
 "added":{
-"articles":6,
+"articles":3,
 "videos":0,
-"discussion":9
+"discussion":7
 },
 "totals":{
-"articles":4110,
+"articles":4113,
 "videos":287,
 "discussion":1500
 },
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":50,
+"items":51,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":2,
+"items":11,
 "error":null
 },
 {
@@ -113,7 +113,7 @@
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":0,
 "error":null
 },
 {
@@ -137,16 +137,16 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":23,
+"items":24,
 "error":null
 },
 {
 "id":"reddit-sub1",
 "label":"Reddit: r/TheLindsayClancyCase",
 "kind":"reddit",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"ok":true,
+"items":12,
+"error":null
 },
 {
 "id":"reddit-sub2",
@@ -987,6 +987,11 @@
 "at":"2026-10-04T13:16:01Z",
 "added":15,
 "failed_sources":2
+},
+{
+"at":"2026-10-04T17:40:14Z",
+"added":10,
+"failed_sources":1
 }
 ]
 }
