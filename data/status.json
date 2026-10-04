@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-04T07:00:31Z",
-"runs":165,
+"generated":"2026-10-04T13:16:01Z",
+"runs":166,
 "added":{
-"articles":5,
+"articles":6,
 "videos":0,
-"discussion":10
+"discussion":9
 },
 "totals":{
-"articles":4104,
+"articles":4110,
 "videos":287,
 "discussion":1500
 },
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":51,
+"items":50,
 "error":null
 },
 {
@@ -64,25 +64,25 @@
 "id":"bing-duxbury",
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
-"ok":false,
-"items":0,
-"error":"not well-formed (invalid token): line 1, column 41"
+"ok":true,
+"items":11,
+"error":null
 },
 {
 "id":"yt-wcvb",
 "label":"YouTube: WCVB",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-nbc10",
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":22,
+"items":23,
 "error":null
 },
 {
@@ -982,6 +982,11 @@
 "at":"2026-10-04T07:00:31Z",
 "added":15,
 "failed_sources":5
+},
+{
+"at":"2026-10-04T13:16:01Z",
+"added":15,
+"failed_sources":2
 }
 ]
 }
