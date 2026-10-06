@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-05T22:43:01Z",
-"runs":172,
+"generated":"2026-10-06T03:04:51Z",
+"runs":173,
 "added":{
-"articles":7,
+"articles":4,
 "videos":0,
-"discussion":7
+"discussion":3
 },
 "totals":{
-"articles":4144,
+"articles":4148,
 "videos":287,
 "discussion":1500
 },
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":39,
+"items":38,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":52,
+"items":51,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":8,
+"items":11,
 "error":null
 },
 {
@@ -80,9 +80,9 @@
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbc10",
@@ -104,9 +104,9 @@
 "id":"yt-courttv",
 "label":"YouTube: Court TV",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-lawcrime",
@@ -120,9 +120,9 @@
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":true,
-"items":1,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbcnews",
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":23,
+"items":20,
 "error":null
 },
 {
@@ -152,17 +152,12 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":true,
-"items":8,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 }
 ],
 "history":[
-{
-"at":"2026-09-05T01:02:36Z",
-"added":86,
-"failed_sources":2
-},
 {
 "at":"2026-09-05T05:50:36Z",
 "added":51,
@@ -997,6 +992,11 @@
 "at":"2026-10-05T22:43:01Z",
 "added":14,
 "failed_sources":1
+},
+{
+"at":"2026-10-06T03:04:51Z",
+"added":7,
+"failed_sources":5
 }
 ]
 }
