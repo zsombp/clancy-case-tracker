@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-07T22:02:50Z",
-"runs":180,
+"generated":"2026-10-08T02:01:40Z",
+"runs":181,
 "added":{
-"articles":9,
+"articles":1,
 "videos":0,
-"discussion":5
+"discussion":3
 },
 "totals":{
-"articles":4202,
+"articles":4203,
 "videos":287,
 "discussion":1500
 },
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":99,
+"items":100,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":99,
+"items":98,
 "error":null
 },
 {
@@ -120,9 +120,9 @@
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":true,
-"items":1,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbcnews",
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":20,
+"items":18,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-06T04:47:03Z",
-"added":42,
-"failed_sources":7
-},
 {
 "at":"2026-09-06T09:29:54Z",
 "added":40,
@@ -997,6 +992,11 @@
 "at":"2026-10-07T22:02:50Z",
 "added":14,
 "failed_sources":2
+},
+{
+"at":"2026-10-08T02:01:40Z",
+"added":4,
+"failed_sources":3
 }
 ]
 }
