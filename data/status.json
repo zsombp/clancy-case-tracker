@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-10T20:07:46Z",
-"runs":192,
+"generated":"2026-10-10T23:37:50Z",
+"runs":193,
 "added":{
 "articles":3,
 "videos":0,
-"discussion":3
+"discussion":1
 },
 "totals":{
-"articles":4266,
+"articles":4269,
 "videos":287,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":101,
+"items":99,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":36,
+"items":35,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":97,
+"items":96,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":48,
+"items":49,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":8,
+"items":9,
 "error":null
 },
 {
@@ -80,17 +80,17 @@
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-boston25",
@@ -120,9 +120,9 @@
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":true,
-"items":1,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbcnews",
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-08T04:47:01Z",
-"added":43,
-"failed_sources":10
-},
 {
 "at":"2026-09-08T09:47:01Z",
 "added":28,
@@ -997,6 +992,11 @@
 "at":"2026-10-10T20:07:46Z",
 "added":6,
 "failed_sources":2
+},
+{
+"at":"2026-10-10T23:37:50Z",
+"added":4,
+"failed_sources":5
 }
 ]
 }
