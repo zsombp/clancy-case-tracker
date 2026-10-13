@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-12T19:51:00Z",
-"runs":200,
+"generated":"2026-10-13T02:05:12Z",
+"runs":201,
 "added":{
-"articles":4,
+"articles":5,
 "videos":0,
 "discussion":6
 },
 "totals":{
-"articles":4284,
+"articles":4289,
 "videos":287,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":99,
+"items":98,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":39,
+"items":38,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":95,
+"items":96,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":48,
+"items":49,
 "error":null
 },
 {
@@ -80,17 +80,17 @@
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 500: Internal Server Error"
 },
 {
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-boston25",
@@ -104,9 +104,9 @@
 "id":"yt-courttv",
 "label":"YouTube: Court TV",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-lawcrime",
@@ -128,25 +128,25 @@
 "id":"yt-nbcnews",
 "label":"YouTube: NBC News",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"reddit-search",
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":18,
+"items":16,
 "error":null
 },
 {
 "id":"reddit-sub1",
 "label":"Reddit: r/TheLindsayClancyCase",
 "kind":"reddit",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"ok":true,
+"items":10,
+"error":null
 },
 {
 "id":"reddit-sub2",
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-09T16:43:33Z",
-"added":94,
-"failed_sources":2
-},
 {
 "at":"2026-09-09T19:49:36Z",
 "added":65,
@@ -997,6 +992,11 @@
 "at":"2026-10-12T19:51:00Z",
 "added":10,
 "failed_sources":2
+},
+{
+"at":"2026-10-13T02:05:12Z",
+"added":11,
+"failed_sources":5
 }
 ]
 }
