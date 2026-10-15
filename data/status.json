@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-15T18:21:15Z",
-"runs":213,
+"generated":"2026-10-15T22:27:57Z",
+"runs":214,
 "added":{
-"articles":29,
-"videos":1,
-"discussion":14
+"articles":6,
+"videos":0,
+"discussion":3
 },
 "totals":{
-"articles":4417,
+"articles":4423,
 "videos":288,
 "discussion":1500
 },
@@ -16,41 +16,41 @@
 "id":"gnews-name",
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
-"ok":true,
-"items":92,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 503: Service Unavailable"
 },
 {
 "id":"gnews-duxbury",
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
-"ok":true,
-"items":100,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 503: Service Unavailable"
 },
 {
 "id":"gnews-trial",
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
-"ok":true,
-"items":35,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 503: Service Unavailable"
 },
 {
 "id":"gnews-postpartum",
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
-"ok":true,
-"items":95,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 503: Service Unavailable"
 },
 {
 "id":"gnews-sjc",
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
-"ok":true,
-"items":44,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 503: Service Unavailable"
 },
 {
 "id":"bing-name",
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":10,
+"items":8,
 "error":null
 },
 {
@@ -129,7 +129,7 @@
 "label":"YouTube: NBC News",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":0,
 "error":null
 },
 {
@@ -144,9 +144,9 @@
 "id":"reddit-sub1",
 "label":"Reddit: r/TheLindsayClancyCase",
 "kind":"reddit",
-"ok":true,
-"items":10,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 },
 {
 "id":"reddit-sub2",
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-11T19:47:00Z",
-"added":53,
-"failed_sources":1
-},
 {
 "at":"2026-09-11T22:38:49Z",
 "added":47,
@@ -997,6 +992,11 @@
 "at":"2026-10-15T18:21:15Z",
 "added":44,
 "failed_sources":1
+},
+{
+"at":"2026-10-15T22:27:57Z",
+"added":9,
+"failed_sources":7
 }
 ]
 }
