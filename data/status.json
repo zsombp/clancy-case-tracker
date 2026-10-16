@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-15T22:27:57Z",
-"runs":214,
+"generated":"2026-10-16T01:28:04Z",
+"runs":215,
 "added":{
-"articles":6,
+"articles":23,
 "videos":0,
-"discussion":3
+"discussion":2
 },
 "totals":{
-"articles":4423,
+"articles":4446,
 "videos":288,
 "discussion":1500
 },
@@ -16,41 +16,41 @@
 "id":"gnews-name",
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":100,
+"error":null
 },
 {
 "id":"gnews-duxbury",
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":100,
+"error":null
 },
 {
 "id":"gnews-trial",
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":36,
+"error":null
 },
 {
 "id":"gnews-postpartum",
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":95,
+"error":null
 },
 {
 "id":"gnews-sjc",
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":45,
+"error":null
 },
 {
 "id":"bing-name",
@@ -65,32 +65,32 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":8,
+"items":10,
 "error":null
 },
 {
 "id":"yt-wcvb",
 "label":"YouTube: WCVB",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-boston25",
@@ -104,33 +104,33 @@
 "id":"yt-courttv",
 "label":"YouTube: Court TV",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-lawcrime",
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbcnews",
 "label":"YouTube: NBC News",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"reddit-search",
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-11T22:38:49Z",
-"added":47,
-"failed_sources":2
-},
 {
 "at":"2026-09-12T01:11:30Z",
 "added":36,
@@ -997,6 +992,11 @@
 "at":"2026-10-15T22:27:57Z",
 "added":9,
 "failed_sources":7
+},
+{
+"at":"2026-10-16T01:28:04Z",
+"added":25,
+"failed_sources":9
 }
 ]
 }
