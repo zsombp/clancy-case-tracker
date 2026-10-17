@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-16T23:47:06Z",
-"runs":220,
+"generated":"2026-10-17T04:38:05Z",
+"runs":221,
 "added":{
-"articles":0,
+"articles":2,
 "videos":0,
-"discussion":0
+"discussion":1
 },
 "totals":{
-"articles":4470,
+"articles":4472,
 "videos":288,
 "discussion":1500
 },
@@ -16,48 +16,48 @@
 "id":"gnews-name",
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":92,
+"error":null
 },
 {
 "id":"gnews-duxbury",
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":100,
+"error":null
 },
 {
 "id":"gnews-trial",
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":35,
+"error":null
 },
 {
 "id":"gnews-postpartum",
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":95,
+"error":null
 },
 {
 "id":"gnews-sjc",
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":46,
+"error":null
 },
 {
 "id":"bing-name",
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":12,
+"items":2,
 "error":null
 },
 {
@@ -122,7 +122,7 @@
 "kind":"youtube",
 "ok":false,
 "items":0,
-"error":"fetch failed: HTTP Error 500: Internal Server Error"
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbcnews",
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":21,
+"items":20,
 "error":null
 },
 {
@@ -152,17 +152,12 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":true,
-"items":1,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 }
 ],
 "history":[
-{
-"at":"2026-09-12T19:27:03Z",
-"added":12,
-"failed_sources":1
-},
 {
 "at":"2026-09-12T22:22:05Z",
 "added":24,
@@ -997,6 +992,11 @@
 "at":"2026-10-16T23:47:06Z",
 "added":0,
 "failed_sources":14
+},
+{
+"at":"2026-10-17T04:38:05Z",
+"added":3,
+"failed_sources":10
 }
 ]
 }
