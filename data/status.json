@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-17T19:31:02Z",
-"runs":225,
+"generated":"2026-10-17T22:24:54Z",
+"runs":226,
 "added":{
-"articles":1,
+"articles":3,
 "videos":0,
-"discussion":1
+"discussion":0
 },
 "totals":{
-"articles":4476,
+"articles":4479,
 "videos":288,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":92,
+"items":100,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":20,
+"items":0,
 "error":null
 },
 {
@@ -152,17 +152,12 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":true,
-"items":1,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 }
 ],
 "history":[
-{
-"at":"2026-09-13T16:24:29Z",
-"added":30,
-"failed_sources":2
-},
 {
 "at":"2026-09-13T19:30:33Z",
 "added":16,
@@ -997,6 +992,11 @@
 "at":"2026-10-17T19:31:02Z",
 "added":2,
 "failed_sources":1
+},
+{
+"at":"2026-10-17T22:24:54Z",
+"added":3,
+"failed_sources":2
 }
 ]
 }
