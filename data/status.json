@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-17T17:16:44Z",
-"runs":224,
+"generated":"2026-10-17T19:31:02Z",
+"runs":225,
 "added":{
 "articles":1,
 "videos":0,
-"discussion":2
+"discussion":1
 },
 "totals":{
-"articles":4475,
+"articles":4476,
 "videos":288,
 "discussion":1500
 },
@@ -49,16 +49,16 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":47,
+"items":46,
 "error":null
 },
 {
 "id":"bing-name",
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
-"ok":false,
-"items":0,
-"error":"not well-formed (invalid token): line 1, column 41"
+"ok":true,
+"items":2,
+"error":null
 },
 {
 "id":"bing-duxbury",
@@ -152,17 +152,12 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"ok":true,
+"items":1,
+"error":null
 }
 ],
 "history":[
-{
-"at":"2026-09-13T12:04:57Z",
-"added":35,
-"failed_sources":2
-},
 {
 "at":"2026-09-13T16:24:29Z",
 "added":30,
@@ -997,6 +992,11 @@
 "at":"2026-10-17T17:16:44Z",
 "added":3,
 "failed_sources":3
+},
+{
+"at":"2026-10-17T19:31:02Z",
+"added":2,
+"failed_sources":1
 }
 ]
 }
