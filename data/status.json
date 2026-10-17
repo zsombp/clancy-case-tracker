@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-17T09:27:50Z",
-"runs":222,
+"generated":"2026-10-17T13:47:25Z",
+"runs":223,
 "added":{
 "articles":1,
 "videos":0,
 "discussion":4
 },
 "totals":{
-"articles":4473,
+"articles":4474,
 "videos":288,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":100,
+"items":92,
 "error":null
 },
 {
@@ -49,24 +49,24 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":45,
+"items":46,
 "error":null
 },
 {
 "id":"bing-name",
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
-"ok":true,
-"items":12,
-"error":null
+"ok":false,
+"items":0,
+"error":"not well-formed (invalid token): line 1, column 41"
 },
 {
 "id":"bing-duxbury",
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
-"ok":true,
-"items":12,
-"error":null
+"ok":false,
+"items":0,
+"error":"not well-formed (invalid token): line 1, column 41"
 },
 {
 "id":"yt-wcvb",
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-13T01:05:35Z",
-"added":18,
-"failed_sources":2
-},
 {
 "at":"2026-09-13T06:18:03Z",
 "added":17,
@@ -997,6 +992,11 @@
 "at":"2026-10-17T09:27:50Z",
 "added":5,
 "failed_sources":2
+},
+{
+"at":"2026-10-17T13:47:25Z",
+"added":5,
+"failed_sources":4
 }
 ]
 }
