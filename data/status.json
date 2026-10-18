@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-18T11:16:56Z",
-"runs":229,
+"generated":"2026-10-18T14:40:56Z",
+"runs":230,
 "added":{
-"articles":1,
+"articles":4,
 "videos":0,
 "discussion":2
 },
 "totals":{
-"articles":4485,
+"articles":4489,
 "videos":288,
 "discussion":1500
 },
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":6,
+"items":46,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":22,
+"items":21,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-14T06:25:02Z",
-"added":22,
-"failed_sources":9
-},
 {
 "at":"2026-09-14T14:10:04Z",
 "added":39,
@@ -996,6 +991,11 @@
 {
 "at":"2026-10-18T11:16:56Z",
 "added":3,
+"failed_sources":2
+},
+{
+"at":"2026-10-18T14:40:56Z",
+"added":6,
 "failed_sources":2
 }
 ]
