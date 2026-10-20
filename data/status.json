@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-20T01:54:03Z",
-"runs":238,
+"generated":"2026-10-20T07:41:02Z",
+"runs":239,
 "added":{
 "articles":1,
 "videos":0,
-"discussion":3
+"discussion":1
 },
 "totals":{
-"articles":4502,
+"articles":4503,
 "videos":288,
 "discussion":1500
 },
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":36,
+"items":37,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":95,
+"items":96,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":46,
+"items":48,
 "error":null
 },
 {
@@ -88,49 +88,49 @@
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-boston25",
 "label":"YouTube: Boston 25",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-courttv",
 "label":"YouTube: Court TV",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-lawcrime",
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-nbcnews",
 "label":"YouTube: NBC News",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"reddit-search",
@@ -153,16 +153,11 @@
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
 "ok":true,
-"items":0,
+"items":1,
 "error":null
 }
 ],
 "history":[
-{
-"at":"2026-09-16T00:26:35Z",
-"added":49,
-"failed_sources":2
-},
 {
 "at":"2026-09-16T06:08:14Z",
 "added":65,
@@ -997,6 +992,11 @@
 "at":"2026-10-20T01:54:03Z",
 "added":4,
 "failed_sources":7
+},
+{
+"at":"2026-10-20T07:41:02Z",
+"added":2,
+"failed_sources":1
 }
 ]
 }
