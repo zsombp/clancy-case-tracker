@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-21T01:41:01Z",
-"runs":243,
+"generated":"2026-10-21T07:45:02Z",
+"runs":244,
 "added":{
-"articles":4,
+"articles":5,
 "videos":0,
-"discussion":3
+"discussion":1
 },
 "totals":{
-"articles":4512,
+"articles":4517,
 "videos":288,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":98,
+"items":99,
 "error":null
 },
 {
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":41,
+"items":100,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":39,
+"items":40,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":94,
+"items":96,
 "error":null
 },
 {
@@ -49,80 +49,80 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":48,
+"items":46,
 "error":null
 },
 {
 "id":"bing-name",
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
-"ok":true,
-"items":12,
-"error":null
+"ok":false,
+"items":0,
+"error":"not well-formed (invalid token): line 1, column 41"
 },
 {
 "id":"bing-duxbury",
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
-"ok":true,
-"items":12,
-"error":null
+"ok":false,
+"items":0,
+"error":"not well-formed (invalid token): line 1, column 41"
 },
 {
 "id":"yt-wcvb",
 "label":"YouTube: WCVB",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 500: Internal Server Error"
+"error":null
 },
 {
 "id":"yt-boston25",
 "label":"YouTube: Boston 25",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-courttv",
 "label":"YouTube: Court TV",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-lawcrime",
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-nbcnews",
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":23,
+"items":22,
 "error":null
 },
 {
@@ -152,17 +152,12 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":true,
-"items":1,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 }
 ],
 "history":[
-{
-"at":"2026-09-16T23:00:03Z",
-"added":46,
-"failed_sources":2
-},
 {
 "at":"2026-09-17T01:31:05Z",
 "added":25,
@@ -997,6 +992,11 @@
 "at":"2026-10-21T01:41:01Z",
 "added":7,
 "failed_sources":8
+},
+{
+"at":"2026-10-21T07:45:02Z",
+"added":6,
+"failed_sources":4
 }
 ]
 }
