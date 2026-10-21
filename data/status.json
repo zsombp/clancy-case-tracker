@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-21T13:53:01Z",
-"runs":245,
+"generated":"2026-10-21T18:42:49Z",
+"runs":246,
 "added":{
-"articles":10,
-"videos":1,
-"discussion":3
+"articles":18,
+"videos":0,
+"discussion":1
 },
 "totals":{
-"articles":4527,
+"articles":4545,
 "videos":289,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":99,
+"items":98,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":97,
+"items":59,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":48,
+"items":47,
 "error":null
 },
 {
@@ -64,9 +64,9 @@
 "id":"bing-duxbury",
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
-"ok":true,
-"items":11,
-"error":null
+"ok":false,
+"items":0,
+"error":"not well-formed (invalid token): line 1, column 41"
 },
 {
 "id":"yt-wcvb",
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":22,
+"items":21,
 "error":null
 },
 {
@@ -152,17 +152,12 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":true,
-"items":1,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 }
 ],
 "history":[
-{
-"at":"2026-09-17T07:45:31Z",
-"added":30,
-"failed_sources":2
-},
 {
 "at":"2026-09-17T13:33:15Z",
 "added":35,
@@ -997,6 +992,11 @@
 "at":"2026-10-21T13:53:01Z",
 "added":14,
 "failed_sources":1
+},
+{
+"at":"2026-10-21T18:42:49Z",
+"added":19,
+"failed_sources":3
 }
 ]
 }
