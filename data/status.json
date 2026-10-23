@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-23T01:36:40Z",
-"runs":253,
+"generated":"2026-10-23T07:38:05Z",
+"runs":254,
 "added":{
-"articles":3,
+"articles":5,
 "videos":0,
 "discussion":0
 },
 "totals":{
-"articles":4635,
+"articles":4640,
 "videos":292,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":88,
+"items":91,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":53,
+"items":99,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":45,
+"items":44,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":2,
+"items":12,
 "error":null
 },
 {
@@ -72,57 +72,57 @@
 "id":"yt-wcvb",
 "label":"YouTube: WCVB",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 500: Internal Server Error"
+"error":null
 },
 {
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-boston25",
 "label":"YouTube: Boston 25",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-courttv",
 "label":"YouTube: Court TV",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-lawcrime",
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 500: Internal Server Error"
+"error":null
 },
 {
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 500: Internal Server Error"
+"error":null
 },
 {
 "id":"yt-nbcnews",
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":18,
+"items":0,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-18T19:41:03Z",
-"added":69,
-"failed_sources":2
-},
 {
 "at":"2026-09-18T22:38:01Z",
 "added":59,
@@ -997,6 +992,11 @@
 "at":"2026-10-23T01:36:40Z",
 "added":3,
 "failed_sources":9
+},
+{
+"at":"2026-10-23T07:38:05Z",
+"added":5,
+"failed_sources":2
 }
 ]
 }
