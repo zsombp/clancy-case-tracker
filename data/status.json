@@ -1,10 +1,10 @@
 {
-"generated":"2026-10-24T11:11:06Z",
-"runs":260,
+"generated":"2026-10-24T14:37:13Z",
+"runs":261,
 "added":{
-"articles":1,
+"articles":0,
 "videos":0,
-"discussion":3
+"discussion":7
 },
 "totals":{
 "articles":4665,
@@ -144,25 +144,20 @@
 "id":"reddit-sub1",
 "label":"Reddit: r/TheLindsayClancyCase",
 "kind":"reddit",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"ok":true,
+"items":11,
+"error":null
 },
 {
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":true,
-"items":4,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 }
 ],
 "history":[
-{
-"at":"2026-09-19T20:46:44Z",
-"added":16,
-"failed_sources":2
-},
 {
 "at":"2026-09-19T23:11:45Z",
 "added":16,
@@ -996,6 +991,11 @@
 {
 "at":"2026-10-24T11:11:06Z",
 "added":4,
+"failed_sources":1
+},
+{
+"at":"2026-10-24T14:37:13Z",
+"added":7,
 "failed_sources":1
 }
 ]
