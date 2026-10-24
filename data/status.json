@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-24T06:00:03Z",
-"runs":259,
+"generated":"2026-10-24T11:11:06Z",
+"runs":260,
 "added":{
-"articles":0,
+"articles":1,
 "videos":0,
-"discussion":2
+"discussion":3
 },
 "totals":{
-"articles":4664,
+"articles":4665,
 "videos":292,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":99,
+"items":97,
 "error":null
 },
 {
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":99,
+"items":39,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":44,
+"items":43,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":2,
+"items":12,
 "error":null
 },
 {
@@ -72,72 +72,72 @@
 "id":"yt-wcvb",
 "label":"YouTube: WCVB",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-boston25",
 "label":"YouTube: Boston 25",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-courttv",
 "label":"YouTube: Court TV",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-lawcrime",
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-nbcnews",
 "label":"YouTube: NBC News",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"reddit-search",
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":20,
+"items":21,
 "error":null
 },
 {
@@ -153,16 +153,11 @@
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
 "ok":true,
-"items":3,
+"items":4,
 "error":null
 }
 ],
 "history":[
-{
-"at":"2026-09-19T18:05:12Z",
-"added":36,
-"failed_sources":2
-},
 {
 "at":"2026-09-19T20:46:44Z",
 "added":16,
@@ -997,6 +992,11 @@
 "at":"2026-10-24T06:00:03Z",
 "added":2,
 "failed_sources":9
+},
+{
+"at":"2026-10-24T11:11:06Z",
+"added":4,
+"failed_sources":1
 }
 ]
 }
