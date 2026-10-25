@@ -1,8 +1,8 @@
 {
-"generated":"2026-10-25T14:26:05Z",
-"runs":267,
+"generated":"2026-10-25T18:26:46Z",
+"runs":268,
 "added":{
-"articles":2,
+"articles":0,
 "videos":0,
 "discussion":2
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":99,
+"items":100,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":98,
+"items":58,
 "error":null
 },
 {
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":22,
+"items":21,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-20T22:30:33Z",
-"added":22,
-"failed_sources":2
-},
 {
 "at":"2026-09-21T01:11:02Z",
 "added":56,
@@ -996,6 +991,11 @@
 {
 "at":"2026-10-25T14:26:05Z",
 "added":4,
+"failed_sources":2
+},
+{
+"at":"2026-10-25T18:26:46Z",
+"added":2,
 "failed_sources":2
 }
 ]
