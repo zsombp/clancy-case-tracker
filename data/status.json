@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-25T09:52:54Z",
-"runs":266,
+"generated":"2026-10-25T14:26:05Z",
+"runs":267,
 "added":{
-"articles":0,
+"articles":2,
 "videos":0,
-"discussion":1
+"discussion":2
 },
 "totals":{
-"articles":4670,
+"articles":4672,
 "videos":292,
 "discussion":1500
 },
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":33,
+"items":34,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-20T19:30:36Z",
-"added":26,
-"failed_sources":2
-},
 {
 "at":"2026-09-20T22:30:33Z",
 "added":22,
@@ -996,6 +991,11 @@
 {
 "at":"2026-10-25T09:52:54Z",
 "added":1,
+"failed_sources":2
+},
+{
+"at":"2026-10-25T14:26:05Z",
+"added":4,
 "failed_sources":2
 }
 ]
