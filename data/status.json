@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-26T20:33:56Z",
-"runs":273,
+"generated":"2026-10-27T00:31:35Z",
+"runs":274,
 "added":{
 "articles":2,
 "videos":0,
-"discussion":1
+"discussion":0
 },
 "totals":{
-"articles":4680,
+"articles":4682,
 "videos":292,
 "discussion":1500
 },
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":99,
+"items":39,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":21,
+"items":6,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":44,
+"items":7,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-22T05:07:00Z",
-"added":58,
-"failed_sources":9
-},
 {
 "at":"2026-09-22T10:03:46Z",
 "added":24,
@@ -996,6 +991,11 @@
 {
 "at":"2026-10-26T20:33:56Z",
 "added":3,
+"failed_sources":2
+},
+{
+"at":"2026-10-27T00:31:35Z",
+"added":2,
 "failed_sources":2
 }
 ]
