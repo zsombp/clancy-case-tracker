@@ -1,13 +1,13 @@
 {
-"generated":"2026-10-28T23:18:29Z",
-"runs":282,
+"generated":"2026-10-29T02:33:48Z",
+"runs":283,
 "added":{
-"articles":38,
+"articles":8,
 "videos":0,
-"discussion":1
+"discussion":6
 },
 "totals":{
-"articles":4756,
+"articles":4764,
 "videos":294,
 "discussion":1500
 },
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":93,
+"items":100,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":7,
+"items":33,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":98,
+"items":58,
 "error":null
 },
 {
@@ -96,9 +96,9 @@
 "id":"yt-boston25",
 "label":"YouTube: Boston 25",
 "kind":"youtube",
-"ok":false,
+"ok":true,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":null
 },
 {
 "id":"yt-courttv",
@@ -114,7 +114,7 @@
 "kind":"youtube",
 "ok":false,
 "items":0,
-"error":"fetch failed: HTTP Error 404: Not Found"
+"error":"fetch failed: HTTP Error 500: Internal Server Error"
 },
 {
 "id":"yt-wbur",
@@ -137,7 +137,7 @@
 "label":"Reddit: search \"Lindsay Clancy\"",
 "kind":"reddit",
 "ok":true,
-"items":22,
+"items":24,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-23T20:27:31Z",
-"added":34,
-"failed_sources":2
-},
 {
 "at":"2026-09-23T23:45:43Z",
 "added":23,
@@ -997,6 +992,11 @@
 "at":"2026-10-28T23:18:29Z",
 "added":39,
 "failed_sources":10
+},
+{
+"at":"2026-10-29T02:33:48Z",
+"added":14,
+"failed_sources":9
 }
 ]
 }
