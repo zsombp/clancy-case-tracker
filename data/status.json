@@ -1,13 +1,13 @@
 {
-"generated":"2026-11-04T15:29:50Z",
-"runs":308,
+"generated":"2026-11-04T21:56:14Z",
+"runs":309,
 "added":{
-"articles":12,
-"videos":1,
-"discussion":3
+"articles":5,
+"videos":0,
+"discussion":5
 },
 "totals":{
-"articles":5205,
+"articles":5210,
 "videos":331,
 "discussion":1500
 },
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":35,
+"items":36,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":55,
+"items":57,
 "error":null
 },
 {
@@ -56,16 +56,16 @@
 "id":"bing-name",
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
-"ok":true,
-"items":11,
-"error":null
+"ok":false,
+"items":0,
+"error":"not well-formed (invalid token): line 1, column 41"
 },
 {
 "id":"bing-duxbury",
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":9,
+"items":10,
 "error":null
 },
 {
@@ -144,9 +144,9 @@
 "id":"reddit-sub1",
 "label":"Reddit: r/TheLindsayClancyCase",
 "kind":"reddit",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"ok":true,
+"items":11,
+"error":null
 },
 {
 "id":"reddit-sub2",
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-28T22:06:41Z",
-"added":59,
-"failed_sources":2
-},
 {
 "at":"2026-09-29T02:03:15Z",
 "added":47,
@@ -996,6 +991,11 @@
 {
 "at":"2026-11-04T15:29:50Z",
 "added":16,
+"failed_sources":2
+},
+{
+"at":"2026-11-04T21:56:14Z",
+"added":10,
 "failed_sources":2
 }
 ]
