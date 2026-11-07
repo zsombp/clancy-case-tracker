@@ -1,13 +1,13 @@
 {
-"generated":"2026-11-06T21:34:05Z",
-"runs":316,
+"generated":"2026-11-07T02:00:46Z",
+"runs":317,
 "added":{
-"articles":7,
+"articles":2,
 "videos":0,
-"discussion":1
+"discussion":2
 },
 "totals":{
-"articles":5254,
+"articles":5256,
 "videos":331,
 "discussion":1500
 },
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":36,
+"items":38,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":7,
+"items":8,
 "error":null
 },
 {
@@ -56,81 +56,81 @@
 "id":"bing-name",
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
-"ok":false,
-"items":0,
-"error":"not well-formed (invalid token): line 1, column 41"
+"ok":true,
+"items":2,
+"error":null
 },
 {
 "id":"bing-duxbury",
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":10,
+"items":11,
 "error":null
 },
 {
 "id":"yt-wcvb",
 "label":"YouTube: WCVB",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbc10",
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 500: Internal Server Error"
 },
 {
 "id":"yt-boston25",
 "label":"YouTube: Boston 25",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-courttv",
 "label":"YouTube: Court TV",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-lawcrime",
 "label":"YouTube: Law&Crime",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbcnews",
 "label":"YouTube: NBC News",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"reddit-search",
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-09-30T19:26:42Z",
-"added":50,
-"failed_sources":3
-},
 {
 "at":"2026-09-30T23:55:38Z",
 "added":30,
@@ -997,6 +992,11 @@
 "at":"2026-11-06T21:34:05Z",
 "added":8,
 "failed_sources":3
+},
+{
+"at":"2026-11-07T02:00:46Z",
+"added":4,
+"failed_sources":10
 }
 ]
 }
