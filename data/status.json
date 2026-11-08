@@ -1,13 +1,13 @@
 {
-"generated":"2026-11-08T13:34:03Z",
-"runs":323,
+"generated":"2026-11-08T18:52:34Z",
+"runs":324,
 "added":{
 "articles":1,
 "videos":0,
 "discussion":1
 },
 "totals":{
-"articles":5270,
+"articles":5271,
 "videos":332,
 "discussion":1500
 },
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":22,
+"items":21,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-02T12:45:12Z",
-"added":41,
-"failed_sources":1
-},
 {
 "at":"2026-10-02T18:28:53Z",
 "added":26,
@@ -995,6 +990,11 @@
 },
 {
 "at":"2026-11-08T13:34:03Z",
+"added":2,
+"failed_sources":2
+},
+{
+"at":"2026-11-08T18:52:34Z",
 "added":2,
 "failed_sources":2
 }
