@@ -1,13 +1,13 @@
 {
-"generated":"2026-11-11T01:18:56Z",
-"runs":332,
+"generated":"2026-11-11T07:51:54Z",
+"runs":333,
 "added":{
-"articles":11,
+"articles":4,
 "videos":0,
 "discussion":0
 },
 "totals":{
-"articles":5405,
+"articles":5409,
 "videos":338,
 "discussion":1500
 },
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":42,
+"items":40,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":54,
+"items":55,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":10,
+"items":11,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-04T07:00:31Z",
-"added":15,
-"failed_sources":5
-},
 {
 "at":"2026-10-04T13:16:01Z",
 "added":15,
@@ -996,6 +991,11 @@
 {
 "at":"2026-11-11T01:18:56Z",
 "added":11,
+"failed_sources":11
+},
+{
+"at":"2026-11-11T07:51:54Z",
+"added":4,
 "failed_sources":11
 }
 ]
