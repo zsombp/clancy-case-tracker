@@ -1,13 +1,13 @@
 {
-"generated":"2026-11-13T17:49:15Z",
-"runs":341,
+"generated":"2026-11-13T23:39:32Z",
+"runs":342,
 "added":{
-"articles":1,
+"articles":4,
 "videos":0,
-"discussion":4
+"discussion":0
 },
 "totals":{
-"articles":5428,
+"articles":5432,
 "videos":338,
 "discussion":1500
 },
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":40,
+"items":39,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":11,
+"items":12,
 "error":null
 },
 {
@@ -65,24 +65,24 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":10,
+"items":11,
 "error":null
 },
 {
 "id":"yt-wcvb",
 "label":"YouTube: WCVB",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-cbsboston",
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbc10",
@@ -96,16 +96,16 @@
 "id":"yt-boston25",
 "label":"YouTube: Boston 25",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-courttv",
 "label":"YouTube: Court TV",
 "kind":"youtube",
 "ok":true,
-"items":0,
+"items":1,
 "error":null
 },
 {
@@ -120,9 +120,9 @@
 "id":"yt-wbur",
 "label":"YouTube: WBUR",
 "kind":"youtube",
-"ok":true,
+"ok":false,
 "items":0,
-"error":null
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"yt-nbcnews",
@@ -138,15 +138,15 @@
 "kind":"reddit",
 "ok":false,
 "items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"error":"fetch failed: HTTP Error 403: Forbidden"
 },
 {
 "id":"reddit-sub1",
 "label":"Reddit: r/TheLindsayClancyCase",
 "kind":"reddit",
-"ok":true,
-"items":11,
-"error":null
+"ok":false,
+"items":0,
+"error":"fetch failed: HTTP Error 429: Too Many Requests"
 },
 {
 "id":"reddit-sub2",
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-06T10:27:04Z",
-"added":6,
-"failed_sources":2
-},
 {
 "at":"2026-10-06T17:15:33Z",
 "added":13,
@@ -997,6 +992,11 @@
 "at":"2026-11-13T17:49:15Z",
 "added":5,
 "failed_sources":2
+},
+{
+"at":"2026-11-13T23:39:32Z",
+"added":4,
+"failed_sources":7
 }
 ]
 }
