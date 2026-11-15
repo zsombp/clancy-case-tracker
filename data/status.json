@@ -1,14 +1,14 @@
 {
-"generated":"2026-11-15T17:47:52Z",
-"runs":349,
+"generated":"2026-11-15T22:55:01Z",
+"runs":350,
 "added":{
 "articles":6,
-"videos":0,
+"videos":1,
 "discussion":0
 },
 "totals":{
-"articles":5442,
-"videos":338,
+"articles":5448,
+"videos":339,
 "discussion":1500
 },
 "sources":[
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":100,
+"items":99,
 "error":null
 },
 {
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":40,
+"items":41,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":8,
+"items":9,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":11,
+"items":10,
 "error":null
 },
 {
@@ -73,7 +73,7 @@
 "label":"YouTube: WCVB",
 "kind":"youtube",
 "ok":true,
-"items":0,
+"items":1,
 "error":null
 },
 {
@@ -152,17 +152,12 @@
 "id":"reddit-sub2",
 "label":"Reddit: r/DuxburyDeathsFreeTalk",
 "kind":"reddit",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"ok":true,
+"items":6,
+"error":null
 }
 ],
 "history":[
-{
-"at":"2026-10-08T09:05:16Z",
-"added":11,
-"failed_sources":1
-},
 {
 "at":"2026-10-08T16:34:13Z",
 "added":8,
@@ -997,6 +992,11 @@
 "at":"2026-11-15T17:47:52Z",
 "added":6,
 "failed_sources":3
+},
+{
+"at":"2026-11-15T22:55:01Z",
+"added":7,
+"failed_sources":2
 }
 ]
 }
