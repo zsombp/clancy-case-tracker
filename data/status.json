@@ -1,14 +1,14 @@
 {
-"generated":"2026-11-16T11:35:32Z",
-"runs":352,
+"generated":"2026-11-16T22:14:32Z",
+"runs":353,
 "added":{
-"articles":15,
-"videos":2,
+"articles":117,
+"videos":16,
 "discussion":0
 },
 "totals":{
-"articles":5468,
-"videos":341,
+"articles":5585,
+"videos":357,
 "discussion":1500
 },
 "sources":[
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":72,
+"items":92,
 "error":null
 },
 {
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":41,
+"items":35,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":58,
+"items":72,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":15,
+"items":24,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":2,
+"items":11,
 "error":null
 },
 {
@@ -73,7 +73,7 @@
 "label":"YouTube: WCVB",
 "kind":"youtube",
 "ok":true,
-"items":2,
+"items":5,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":6,
 "error":null
 },
 {
@@ -89,7 +89,7 @@
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
 "ok":true,
-"items":0,
+"items":4,
 "error":null
 },
 {
@@ -105,7 +105,7 @@
 "label":"YouTube: Court TV",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":3,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-09T02:15:03Z",
-"added":11,
-"failed_sources":2
-},
 {
 "at":"2026-10-09T09:15:29Z",
 "added":10,
@@ -996,6 +991,11 @@
 {
 "at":"2026-11-16T11:35:32Z",
 "added":17,
+"failed_sources":3
+},
+{
+"at":"2026-11-16T22:14:32Z",
+"added":133,
 "failed_sources":3
 }
 ]
