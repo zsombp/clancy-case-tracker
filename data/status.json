@@ -1,13 +1,13 @@
 {
-"generated":"2026-11-17T14:33:48Z",
-"runs":355,
+"generated":"2026-11-17T22:57:33Z",
+"runs":356,
 "added":{
-"articles":26,
+"articles":15,
 "videos":0,
 "discussion":0
 },
 "totals":{
-"articles":5655,
+"articles":5670,
 "videos":361,
 "discussion":1500
 },
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":35,
+"items":34,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":78,
+"items":79,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":26,
+"items":24,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":12,
+"items":10,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":2,
+"items":1,
 "error":null
 },
 {
@@ -89,7 +89,7 @@
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
 "ok":true,
-"items":2,
+"items":0,
 "error":null
 },
 {
@@ -105,7 +105,7 @@
 "label":"YouTube: Court TV",
 "kind":"youtube",
 "ok":true,
-"items":4,
+"items":3,
 "error":null
 },
 {
@@ -138,7 +138,7 @@
 "kind":"reddit",
 "ok":false,
 "items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"reddit-sub1",
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-09T21:44:03Z",
-"added":11,
-"failed_sources":1
-},
 {
 "at":"2026-10-10T01:49:05Z",
 "added":5,
@@ -996,6 +991,11 @@
 {
 "at":"2026-11-17T14:33:48Z",
 "added":26,
+"failed_sources":3
+},
+{
+"at":"2026-11-17T22:57:33Z",
+"added":15,
 "failed_sources":3
 }
 ]
