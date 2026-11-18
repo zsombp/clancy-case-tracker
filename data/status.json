@@ -1,14 +1,14 @@
 {
-"generated":"2026-11-18T14:10:22Z",
-"runs":358,
+"generated":"2026-11-18T22:03:33Z",
+"runs":359,
 "added":{
-"articles":6,
-"videos":0,
+"articles":13,
+"videos":1,
 "discussion":0
 },
 "totals":{
-"articles":5681,
-"videos":361,
+"articles":5694,
+"videos":362,
 "discussion":1500
 },
 "sources":[
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":79,
+"items":81,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":24,
+"items":25,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":10,
+"items":9,
 "error":null
 },
 {
@@ -81,7 +81,7 @@
 "label":"YouTube: CBS Boston / WBZ",
 "kind":"youtube",
 "ok":true,
-"items":0,
+"items":1,
 "error":null
 },
 {
@@ -105,7 +105,7 @@
 "label":"YouTube: Court TV",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":0,
 "error":null
 },
 {
@@ -138,7 +138,7 @@
 "kind":"reddit",
 "ok":false,
 "items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"reddit-sub1",
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-10T15:25:55Z",
-"added":9,
-"failed_sources":2
-},
 {
 "at":"2026-10-10T20:07:46Z",
 "added":6,
@@ -996,6 +991,11 @@
 {
 "at":"2026-11-18T14:10:22Z",
 "added":6,
+"failed_sources":3
+},
+{
+"at":"2026-11-18T22:03:33Z",
+"added":14,
 "failed_sources":3
 }
 ]
