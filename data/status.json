@@ -1,14 +1,14 @@
 {
-"generated":"2026-11-19T13:22:26Z",
-"runs":361,
+"generated":"2026-11-19T22:13:40Z",
+"runs":362,
 "added":{
-"articles":7,
-"videos":0,
+"articles":39,
+"videos":3,
 "discussion":0
 },
 "totals":{
-"articles":5710,
-"videos":363,
+"articles":5749,
+"videos":366,
 "discussion":1500
 },
 "sources":[
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":92,
+"items":100,
 "error":null
 },
 {
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":35,
+"items":37,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":8,
+"items":9,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":80,
+"items":82,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":27,
+"items":28,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":2,
+"items":10,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":9,
+"items":10,
 "error":null
 },
 {
@@ -89,7 +89,7 @@
 "label":"YouTube: NBC10 Boston",
 "kind":"youtube",
 "ok":true,
-"items":0,
+"items":1,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-11T05:56:56Z",
-"added":4,
-"failed_sources":9
-},
 {
 "at":"2026-10-11T12:59:34Z",
 "added":2,
@@ -996,6 +991,11 @@
 {
 "at":"2026-11-19T13:22:26Z",
 "added":7,
+"failed_sources":3
+},
+{
+"at":"2026-11-19T22:13:40Z",
+"added":42,
 "failed_sources":3
 }
 ]
