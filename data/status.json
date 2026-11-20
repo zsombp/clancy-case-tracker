@@ -1,14 +1,14 @@
 {
-"generated":"2026-11-19T22:13:40Z",
-"runs":362,
+"generated":"2026-11-20T03:28:00Z",
+"runs":363,
 "added":{
-"articles":39,
-"videos":3,
+"articles":16,
+"videos":1,
 "discussion":0
 },
 "totals":{
-"articles":5749,
-"videos":366,
+"articles":5765,
+"videos":367,
 "discussion":1500
 },
 "sources":[
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":100,
+"items":91,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":82,
+"items":80,
 "error":null
 },
 {
@@ -56,9 +56,9 @@
 "id":"bing-name",
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
-"ok":true,
-"items":10,
-"error":null
+"ok":false,
+"items":0,
+"error":"not well-formed (invalid token): line 1, column 41"
 },
 {
 "id":"bing-duxbury",
@@ -73,7 +73,7 @@
 "label":"YouTube: WCVB",
 "kind":"youtube",
 "ok":true,
-"items":2,
+"items":1,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-11T12:59:34Z",
-"added":2,
-"failed_sources":2
-},
 {
 "at":"2026-10-11T18:08:02Z",
 "added":7,
@@ -997,6 +992,11 @@
 "at":"2026-11-19T22:13:40Z",
 "added":42,
 "failed_sources":3
+},
+{
+"at":"2026-11-20T03:28:00Z",
+"added":17,
+"failed_sources":4
 }
 ]
 }
