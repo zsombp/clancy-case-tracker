@@ -1,14 +1,14 @@
 {
-"generated":"2026-11-20T03:28:00Z",
-"runs":363,
+"generated":"2026-11-20T13:02:22Z",
+"runs":364,
 "added":{
-"articles":16,
+"articles":8,
 "videos":1,
 "discussion":0
 },
 "totals":{
-"articles":5765,
-"videos":367,
+"articles":5773,
+"videos":368,
 "discussion":1500
 },
 "sources":[
@@ -17,7 +17,7 @@
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
 "ok":true,
-"items":91,
+"items":92,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":9,
+"items":8,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":80,
+"items":79,
 "error":null
 },
 {
@@ -49,16 +49,16 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":28,
+"items":29,
 "error":null
 },
 {
 "id":"bing-name",
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
-"ok":false,
-"items":0,
-"error":"not well-formed (invalid token): line 1, column 41"
+"ok":true,
+"items":11,
+"error":null
 },
 {
 "id":"bing-duxbury",
@@ -73,7 +73,7 @@
 "label":"YouTube: WCVB",
 "kind":"youtube",
 "ok":true,
-"items":1,
+"items":0,
 "error":null
 },
 {
@@ -129,7 +129,7 @@
 "label":"YouTube: NBC News",
 "kind":"youtube",
 "ok":true,
-"items":0,
+"items":1,
 "error":null
 },
 {
@@ -146,7 +146,7 @@
 "kind":"reddit",
 "ok":false,
 "items":0,
-"error":"fetch failed: HTTP Error 429: Too Many Requests"
+"error":"fetch failed: HTTP Error 404: Not Found"
 },
 {
 "id":"reddit-sub2",
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-11T18:08:02Z",
-"added":7,
-"failed_sources":2
-},
 {
 "at":"2026-10-11T22:03:49Z",
 "added":2,
@@ -997,6 +992,11 @@
 "at":"2026-11-20T03:28:00Z",
 "added":17,
 "failed_sources":4
+},
+{
+"at":"2026-11-20T13:02:22Z",
+"added":9,
+"failed_sources":3
 }
 ]
 }
