@@ -1,13 +1,13 @@
 {
-"generated":"2026-11-20T21:13:42Z",
-"runs":365,
+"generated":"2026-11-21T02:27:05Z",
+"runs":366,
 "added":{
-"articles":18,
+"articles":9,
 "videos":0,
 "discussion":0
 },
 "totals":{
-"articles":5791,
+"articles":5800,
 "videos":368,
 "discussion":1500
 },
@@ -25,7 +25,7 @@
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
 "ok":true,
-"items":37,
+"items":36,
 "error":null
 },
 {
@@ -33,7 +33,7 @@
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
 "ok":true,
-"items":9,
+"items":8,
 "error":null
 },
 {
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":98,
+"items":78,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":30,
+"items":29,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":2,
+"items":11,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-12T01:24:52Z",
-"added":3,
-"failed_sources":11
-},
 {
 "at":"2026-10-12T09:20:14Z",
 "added":7,
@@ -996,6 +991,11 @@
 {
 "at":"2026-11-20T21:13:42Z",
 "added":18,
+"failed_sources":3
+},
+{
+"at":"2026-11-21T02:27:05Z",
+"added":9,
 "failed_sources":3
 }
 ]
