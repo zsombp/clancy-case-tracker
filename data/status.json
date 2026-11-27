@@ -1,14 +1,14 @@
 {
-"generated":"2026-11-27T12:40:56Z",
-"runs":384,
+"generated":"2026-11-27T22:03:35Z",
+"runs":385,
 "added":{
-"articles":0,
-"videos":0,
+"articles":11,
+"videos":1,
 "discussion":0
 },
 "totals":{
-"articles":5935,
-"videos":370,
+"articles":5946,
+"videos":371,
 "discussion":1500
 },
 "sources":[
@@ -16,48 +16,48 @@
 "id":"gnews-name",
 "label":"Google News: \"Lindsay Clancy\"",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":94,
+"error":null
 },
 {
 "id":"gnews-duxbury",
 "label":"Google News: Clancy Duxbury",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":98,
+"error":null
 },
 {
 "id":"gnews-trial",
 "label":"Google News: Clancy trial Brockton",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":8,
+"error":null
 },
 {
 "id":"gnews-postpartum",
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":97,
+"error":null
 },
 {
 "id":"gnews-sjc",
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
-"ok":false,
-"items":0,
-"error":"fetch failed: HTTP Error 503: Service Unavailable"
+"ok":true,
+"items":12,
+"error":null
 },
 {
 "id":"bing-name",
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":2,
+"items":12,
 "error":null
 },
 {
@@ -65,7 +65,7 @@
 "label":"Bing News: Clancy Duxbury",
 "kind":"bing",
 "ok":true,
-"items":11,
+"items":9,
 "error":null
 },
 {
@@ -105,7 +105,7 @@
 "label":"YouTube: Court TV",
 "kind":"youtube",
 "ok":true,
-"items":0,
+"items":1,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-16T12:33:02Z",
-"added":6,
-"failed_sources":2
-},
 {
 "at":"2026-10-16T17:29:38Z",
 "added":11,
@@ -997,6 +992,11 @@
 "at":"2026-11-27T12:40:56Z",
 "added":0,
 "failed_sources":8
+},
+{
+"at":"2026-11-27T22:03:35Z",
+"added":12,
+"failed_sources":3
 }
 ]
 }
