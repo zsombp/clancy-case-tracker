@@ -1,13 +1,13 @@
 {
-"generated":"2026-11-28T03:58:12Z",
-"runs":386,
+"generated":"2026-11-28T13:09:49Z",
+"runs":387,
 "added":{
-"articles":8,
+"articles":2,
 "videos":0,
 "discussion":0
 },
 "totals":{
-"articles":5954,
+"articles":5956,
 "videos":371,
 "discussion":1500
 },
@@ -41,7 +41,7 @@
 "label":"Google News: Clancy postpartum",
 "kind":"gnews",
 "ok":true,
-"items":96,
+"items":97,
 "error":null
 },
 {
@@ -49,7 +49,7 @@
 "label":"Google News: Clancy SJC appeal",
 "kind":"gnews",
 "ok":true,
-"items":49,
+"items":50,
 "error":null
 },
 {
@@ -57,7 +57,7 @@
 "label":"Bing News: \"Lindsay Clancy\"",
 "kind":"bing",
 "ok":true,
-"items":12,
+"items":2,
 "error":null
 },
 {
@@ -158,11 +158,6 @@
 }
 ],
 "history":[
-{
-"at":"2026-10-16T21:17:35Z",
-"added":7,
-"failed_sources":2
-},
 {
 "at":"2026-10-16T23:47:06Z",
 "added":0,
@@ -996,6 +991,11 @@
 {
 "at":"2026-11-28T03:58:12Z",
 "added":8,
+"failed_sources":3
+},
+{
+"at":"2026-11-28T13:09:49Z",
+"added":2,
 "failed_sources":3
 }
 ]
